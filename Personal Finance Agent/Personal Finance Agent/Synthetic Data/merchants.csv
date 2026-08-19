@@ -1,0 +1,2001 @@
+Merchant_ID,Merchant_Name,Merchant_Category,City,State,Merchant_Risk_Score,Merchant_Type,Partner_Offer_Eligible
+MERCH_0001,PVR Cinemas Outlet 789,Entertainment,Coimbatore,Tamil Nadu,25,Online,True
+MERCH_0002,ICICI Lombard Outlet 745,Insurance,Ahmedabad,Gujarat,26,Hybrid,False
+MERCH_0003,Microsoft 365 Digital,Subscription,Jaipur,Rajasthan,33,Online,False
+MERCH_0004,NoBroker Rent Outlet 616,Rent,Lucknow,Uttar Pradesh,28,Retail,False
+MERCH_0005,Reliance Petroleum Outlet 362,Fuel,Nagpur,Maharashtra,23,Retail,False
+MERCH_0006,Netflix Outlet 376,Entertainment,Bangalore,Karnataka,20,Online,False
+MERCH_0007,Barbeque Nation Outlet 909,Dining_Out,Chennai,Tamil Nadu,38,Hybrid,False
+MERCH_0008,Hindustan Petroleum Outlet 932,Fuel,Pune,Maharashtra,17,Retail,False
+MERCH_0009,Westside Outlet 611,Shopping,Surat,Gujarat,18,Online,False
+MERCH_0010,Simplilearn Outlet 596,Education,Kanpur,Uttar Pradesh,10,Hybrid,False
+MERCH_0011,MakeMyTrip Flights Outlet 29,Travel,Kolkata,West Bengal,39,Retail,False
+MERCH_0012,Reliance Petroleum Outlet 211,Fuel,Mysore,Karnataka,24,Retail,False
+MERCH_0013,Air India Outlet 737,Travel,Bangalore,Karnataka,8,Retail,False
+MERCH_0014,HDFC Ergo Outlet 924,Insurance,Ludhiana,Punjab,23,Retail,False
+MERCH_0015,Disney VIP Digital,Subscription,Mysore,Karnataka,40,Online,False
+MERCH_0016,Uber Outlet 122,Travel,Mumbai,Maharashtra,32,Hybrid,False
+MERCH_0017,Simplilearn Outlet 127,Education,Jaipur,Rajasthan,10,Hybrid,True
+MERCH_0018,H&M Outlet 146,Shopping,Kanpur,Uttar Pradesh,14,Retail,True
+MERCH_0019,Housing Rent Transfer Outlet 871,Rent,Jaipur,Rajasthan,23,Retail,False
+MERCH_0020,BESCOM Outlet 590,Utility,Bangalore,Karnataka,25,Online,False
+MERCH_0021,IRCTC Outlet 611,Travel,Delhi,Delhi,43,Retail,False
+MERCH_0022,Apollo Pharmacy Outlet 621,Healthcare,Mysore,Karnataka,35,Online,False
+MERCH_0023,ICICI Lombard Outlet 627,Insurance,Hyderabad,Telangana,32,Retail,True
+MERCH_0024,Westside Outlet 738,Shopping,Jaipur,Rajasthan,13,Online,False
+MERCH_0025,Society Maintenance Outlet 859,Rent,Ahmedabad,Gujarat,8,Retail,False
+MERCH_0026,Disney+ Hotstar Outlet 648,Entertainment,Lucknow,Uttar Pradesh,93,Hybrid,False
+MERCH_0027,Salon & Spa Outlet 435,Other,Surat,Gujarat,18,Online,False
+MERCH_0028,Bharat Petroleum Outlet 590,Fuel,Nagpur,Maharashtra,41,Retail,False
+MERCH_0029,DPS School Outlet 393,Education,Surat,Gujarat,37,Retail,False
+MERCH_0030,Dry Cleaners Outlet 336,Other,Mumbai,Maharashtra,38,Retail,False
+MERCH_0031,Disney+ Hotstar Outlet 186,Entertainment,Noida,Uttar Pradesh,10,Retail,False
+MERCH_0032,Reliance Petroleum Outlet 523,Fuel,Kanpur,Uttar Pradesh,14,Retail,False
+MERCH_0033,Mainland China Outlet 688,Dining_Out,Surat,Gujarat,44,Retail,False
+MERCH_0034,BESCOM Outlet 713,Utility,Ludhiana,Punjab,36,Online,False
+MERCH_0035,Municipal Water Outlet 77,Utility,Udaipur,Rajasthan,19,Online,False
+MERCH_0036,Zoomcar Outlet 689,Travel,Noida,Uttar Pradesh,29,Retail,False
+MERCH_0037,Netflix Premium Digital,Subscription,Kolkata,West Bengal,10,Online,False
+MERCH_0038,BYJU'S Outlet 187,Education,Ahmedabad,Gujarat,15,Retail,True
+MERCH_0039,iCloud Storage Digital,Subscription,Coimbatore,Tamil Nadu,25,Online,False
+MERCH_0040,Gift Gallery Outlet 113,Other,Chandigarh,Punjab,24,Retail,False
+MERCH_0041,Smaaash Outlet 396,Entertainment,Jaipur,Rajasthan,44,Retail,True
+MERCH_0042,Burger King Outlet 529,Food,Bangalore,Karnataka,41,Retail,False
+MERCH_0043,Myntra Outlet 553,Shopping,Coimbatore,Tamil Nadu,20,Online,False
+MERCH_0044,Amazon Prime Outlet 542,Entertainment,Jaipur,Rajasthan,32,Retail,False
+MERCH_0045,Cred RentPay Outlet 649,Rent,Bangalore,Karnataka,37,Retail,False
+MERCH_0046,Indraprastha Gas Outlet 654,Utility,Nagpur,Maharashtra,33,Online,False
+MERCH_0047,More Retail Outlet 220,Grocery,Surat,Gujarat,6,Hybrid,False
+MERCH_0048,DPS School Outlet 737,Education,Pune,Maharashtra,16,Retail,True
+MERCH_0049,Shell Petrol Outlet 769,Fuel,Mumbai,Maharashtra,38,Retail,False
+MERCH_0050,Local Kirana Outlet 288,Grocery,Kanpur,Uttar Pradesh,21,Online,False
+MERCH_0051,SBI General Insurance Outlet 940,Insurance,Mumbai,Maharashtra,20,Retail,False
+MERCH_0052,Max Healthcare Outlet 56,Healthcare,Hyderabad,Telangana,24,Online,False
+MERCH_0053,Smaaash Outlet 200,Entertainment,Nagpur,Maharashtra,29,Hybrid,False
+MERCH_0054,Salon & Spa Outlet 236,Other,Trivandrum,Kerala,18,Online,False
+MERCH_0055,Punjab Grill Outlet 854,Dining_Out,Lucknow,Uttar Pradesh,37,Retail,False
+MERCH_0056,BookMyShow Outlet 612,Entertainment,Pune,Maharashtra,42,Retail,False
+MERCH_0057,Practo Outlet 556,Healthcare,Ludhiana,Punjab,18,Hybrid,False
+MERCH_0058,DAV College Outlet 163,Education,Mysore,Karnataka,23,Retail,False
+MERCH_0059,BESCOM Outlet 722,Utility,Kochi,Kerala,18,Online,False
+MERCH_0060,Netflix Premium Digital,Subscription,Ludhiana,Punjab,18,Online,True
+MERCH_0061,Ola Outlet 474,Travel,Coimbatore,Tamil Nadu,93,Online,False
+MERCH_0062,Hindustan Petroleum Outlet 964,Fuel,Udaipur,Rajasthan,8,Retail,False
+MERCH_0063,MedPlus Outlet 882,Healthcare,Udaipur,Rajasthan,20,Online,False
+MERCH_0064,ICICI Lombard Outlet 44,Insurance,Ahmedabad,Gujarat,25,Hybrid,False
+MERCH_0065,Yatra Outlet 972,Travel,Surat,Gujarat,13,Online,True
+MERCH_0066,Barbeque Nation Outlet 491,Dining_Out,Mumbai,Maharashtra,27,Hybrid,True
+MERCH_0067,Shoppers Stop Outlet 668,Shopping,Kochi,Kerala,44,Online,False
+MERCH_0068,Zoomcar Outlet 678,Travel,Ludhiana,Punjab,11,Retail,False
+MERCH_0069,Taj Dining Outlet 501,Dining_Out,Pune,Maharashtra,31,Hybrid,False
+MERCH_0070,Local Clinic Outlet 943,Healthcare,Mysore,Karnataka,22,Online,True
+MERCH_0071,Westside Outlet 292,Shopping,Chennai,Tamil Nadu,5,Online,False
+MERCH_0072,Haldirams Outlet 433,Food,Udaipur,Rajasthan,24,Online,False
+MERCH_0073,Amazon Outlet 311,Shopping,Noida,Uttar Pradesh,24,Online,False
+MERCH_0074,Reliance Petroleum Outlet 954,Fuel,Kolkata,West Bengal,13,Retail,False
+MERCH_0075,KFC Outlet 798,Food,Ludhiana,Punjab,43,Online,False
+MERCH_0076,SBI General Insurance Outlet 916,Insurance,Jaipur,Rajasthan,5,Hybrid,False
+MERCH_0077,Apollo Clinic Outlet 118,Healthcare,Surat,Gujarat,37,Online,False
+MERCH_0078,Youtube Premium Digital,Subscription,Bangalore,Karnataka,96,Online,True
+MERCH_0079,Zerodha Fund Digital,Investment,Lucknow,Uttar Pradesh,22,Online,False
+MERCH_0080,Domino's Outlet 603,Food,Bangalore,Karnataka,32,Online,True
+MERCH_0081,BESCOM Outlet 664,Utility,Coimbatore,Tamil Nadu,33,Online,False
+MERCH_0082,Hard Rock Cafe Outlet 982,Dining_Out,Kolkata,West Bengal,13,Online,True
+MERCH_0083,Punjab Grill Outlet 463,Dining_Out,Trivandrum,Kerala,42,Hybrid,False
+MERCH_0084,MedPlus Outlet 90,Healthcare,Coimbatore,Tamil Nadu,39,Hybrid,False
+MERCH_0085,Groww SIP Digital,Investment,Bangalore,Karnataka,35,Online,False
+MERCH_0086,DAV College Outlet 805,Education,Trivandrum,Kerala,22,Hybrid,True
+MERCH_0087,DPS School Outlet 643,Education,Surat,Gujarat,7,Hybrid,False
+MERCH_0088,Local Tailor Outlet 72,Other,Chennai,Tamil Nadu,36,Retail,False
+MERCH_0089,Ajio Outlet 389,Shopping,Mumbai,Maharashtra,38,Online,False
+MERCH_0090,Indian Oil Outlet 202,Fuel,Lucknow,Uttar Pradesh,33,Retail,False
+MERCH_0091,Spotify Family Digital,Subscription,Ahmedabad,Gujarat,31,Online,False
+MERCH_0092,Subway Outlet 585,Food,Bangalore,Karnataka,16,Retail,False
+MERCH_0093,MakeMyTrip Outlet 886,Travel,Chandigarh,Punjab,28,Hybrid,False
+MERCH_0094,Mutual Fund Direct Digital,Investment,Udaipur,Rajasthan,31,Online,False
+MERCH_0095,Nykaa Outlet 551,Shopping,Kolkata,West Bengal,41,Retail,False
+MERCH_0096,Local Pub Outlet 655,Dining_Out,Delhi,Delhi,13,Online,True
+MERCH_0097,Cred RentPay Outlet 647,Rent,Kochi,Kerala,36,Retail,False
+MERCH_0098,Indian Oil Outlet 314,Fuel,Jaipur,Rajasthan,26,Retail,False
+MERCH_0099,Hard Rock Cafe Outlet 563,Dining_Out,Pune,Maharashtra,25,Retail,False
+MERCH_0100,Shell Petrol Outlet 148,Fuel,Hyderabad,Telangana,5,Retail,True
+MERCH_0101,Mainland China Outlet 120,Dining_Out,Pune,Maharashtra,21,Hybrid,False
+MERCH_0102,Practo Outlet 770,Healthcare,Ludhiana,Punjab,25,Online,False
+MERCH_0103,IRCTC Outlet 668,Travel,Trivandrum,Kerala,16,Retail,True
+MERCH_0104,Cred RentPay Outlet 485,Rent,Bangalore,Karnataka,24,Retail,False
+MERCH_0105,Disney VIP Digital,Subscription,Noida,Uttar Pradesh,30,Online,False
+MERCH_0106,Airtel Fiber Outlet 111,Utility,Ahmedabad,Gujarat,28,Online,False
+MERCH_0107,Society Maintenance Outlet 770,Rent,Ludhiana,Punjab,18,Retail,False
+MERCH_0108,Local Pub Outlet 760,Dining_Out,Delhi,Delhi,39,Hybrid,True
+MERCH_0109,MakeMyTrip Outlet 346,Travel,Noida,Uttar Pradesh,12,Hybrid,False
+MERCH_0110,Hard Rock Cafe Outlet 846,Dining_Out,Jaipur,Rajasthan,35,Hybrid,True
+MERCH_0111,Zara Outlet 692,Shopping,Nagpur,Maharashtra,25,Retail,False
+MERCH_0112,Taj Dining Outlet 66,Dining_Out,Lucknow,Uttar Pradesh,12,Retail,False
+MERCH_0113,Disney+ Hotstar Outlet 656,Entertainment,Nagpur,Maharashtra,29,Online,False
+MERCH_0114,Reliance Petroleum Outlet 753,Fuel,Chennai,Tamil Nadu,13,Retail,False
+MERCH_0115,Social Outlet 712,Dining_Out,Chennai,Tamil Nadu,38,Retail,False
+MERCH_0116,IRCTC Outlet 84,Travel,Nagpur,Maharashtra,18,Online,False
+MERCH_0117,BigBasket Outlet 132,Grocery,Mysore,Karnataka,44,Online,False
+MERCH_0118,Airtel Fiber Outlet 665,Utility,Mysore,Karnataka,6,Online,False
+MERCH_0119,Hardware Store Outlet 299,Other,Hyderabad,Telangana,27,Retail,True
+MERCH_0120,BookMyShow Outlet 639,Entertainment,Hyderabad,Telangana,5,Online,False
+MERCH_0121,Reliance Petroleum Outlet 542,Fuel,Ludhiana,Punjab,29,Retail,True
+MERCH_0122,Spotify Outlet 553,Entertainment,Kolkata,West Bengal,12,Retail,True
+MERCH_0123,DMart Outlet 421,Grocery,Udaipur,Rajasthan,28,Hybrid,False
+MERCH_0124,Hardware Store Outlet 214,Other,Chennai,Tamil Nadu,35,Retail,False
+MERCH_0125,MedPlus Outlet 648,Healthcare,Ahmedabad,Gujarat,19,Online,True
+MERCH_0126,Jio Fiber Outlet 163,Utility,Chandigarh,Punjab,42,Online,True
+MERCH_0127,Nature's Basket Outlet 946,Grocery,Mysore,Karnataka,33,Hybrid,False
+MERCH_0128,Cred RentPay Outlet 146,Rent,Pune,Maharashtra,40,Retail,False
+MERCH_0129,AngelOne Deposit Digital,Investment,Noida,Uttar Pradesh,16,Online,True
+MERCH_0130,Municipal Water Outlet 227,Utility,Mumbai,Maharashtra,29,Online,True
+MERCH_0131,Amazon Prime Outlet 926,Entertainment,Ahmedabad,Gujarat,37,Hybrid,False
+MERCH_0132,Local Tailor Outlet 615,Other,Coimbatore,Tamil Nadu,23,Hybrid,False
+MERCH_0133,Tata Power Outlet 110,Utility,Kanpur,Uttar Pradesh,39,Online,True
+MERCH_0134,SBI General Insurance Outlet 245,Insurance,Coimbatore,Tamil Nadu,17,Retail,False
+MERCH_0135,Indigo Outlet 537,Travel,Coimbatore,Tamil Nadu,15,Retail,False
+MERCH_0136,Domino's Outlet 630,Food,Jaipur,Rajasthan,13,Hybrid,True
+MERCH_0137,Punjab Grill Outlet 335,Dining_Out,Surat,Gujarat,32,Retail,True
+MERCH_0138,Yatra Outlet 261,Travel,Ahmedabad,Gujarat,14,Online,False
+MERCH_0139,Bharat Petroleum Outlet 567,Fuel,Jaipur,Rajasthan,28,Retail,True
+MERCH_0140,Booking.com Outlet 684,Travel,Nagpur,Maharashtra,21,Retail,False
+MERCH_0141,AngelOne Deposit Digital,Investment,Delhi,Delhi,30,Online,False
+MERCH_0142,Netflix Outlet 793,Entertainment,Lucknow,Uttar Pradesh,32,Retail,False
+MERCH_0143,Nykaa Outlet 691,Shopping,Lucknow,Uttar Pradesh,38,Online,False
+MERCH_0144,Indian Oil Outlet 42,Fuel,Hyderabad,Telangana,16,Retail,False
+MERCH_0145,Mutual Fund Direct Digital,Investment,Lucknow,Uttar Pradesh,36,Online,False
+MERCH_0146,PVR Cinemas Outlet 513,Entertainment,Chennai,Tamil Nadu,8,Hybrid,False
+MERCH_0147,Groww SIP Digital,Investment,Pune,Maharashtra,19,Online,False
+MERCH_0148,Booking.com Outlet 113,Travel,Coimbatore,Tamil Nadu,36,Retail,False
+MERCH_0149,Disney VIP Digital,Subscription,Coimbatore,Tamil Nadu,30,Online,True
+MERCH_0150,Tata Power Outlet 403,Utility,Jaipur,Rajasthan,17,Online,False
+MERCH_0151,MakeMyTrip Outlet 58,Travel,Lucknow,Uttar Pradesh,28,Retail,False
+MERCH_0152,Local Tailor Outlet 695,Other,Chandigarh,Punjab,9,Online,False
+MERCH_0153,Amazon Outlet 955,Shopping,Mysore,Karnataka,19,Online,False
+MERCH_0154,Max Life Insurance Outlet 399,Insurance,Mysore,Karnataka,22,Retail,False
+MERCH_0155,AngelOne Deposit Digital,Investment,Mysore,Karnataka,37,Online,False
+MERCH_0156,Groww SIP Digital,Investment,Ahmedabad,Gujarat,10,Online,True
+MERCH_0157,Punjab Grill Outlet 569,Dining_Out,Surat,Gujarat,29,Retail,False
+MERCH_0158,Disney+ Hotstar Outlet 895,Entertainment,Chandigarh,Punjab,8,Hybrid,False
+MERCH_0159,Groww SIP Digital,Investment,Noida,Uttar Pradesh,20,Online,False
+MERCH_0160,Apollo Clinic Outlet 371,Healthcare,Chennai,Tamil Nadu,40,Hybrid,True
+MERCH_0161,Cred RentPay Outlet 602,Rent,Kochi,Kerala,26,Retail,False
+MERCH_0162,DPS School Outlet 83,Education,Delhi,Delhi,32,Retail,False
+MERCH_0163,Bharat Petroleum Outlet 773,Fuel,Chennai,Tamil Nadu,12,Retail,False
+MERCH_0164,Housing Rent Transfer Outlet 358,Rent,Nagpur,Maharashtra,14,Retail,True
+MERCH_0165,BookMyShow Outlet 555,Entertainment,Ludhiana,Punjab,29,Online,False
+MERCH_0166,Punjab Grill Outlet 413,Dining_Out,Trivandrum,Kerala,39,Online,False
+MERCH_0167,Indraprastha Gas Outlet 26,Utility,Chandigarh,Punjab,33,Online,False
+MERCH_0168,MakeMyTrip Outlet 123,Travel,Mumbai,Maharashtra,24,Hybrid,False
+MERCH_0169,Housing Rent Transfer Outlet 114,Rent,Bangalore,Karnataka,21,Retail,False
+MERCH_0170,Zerodha Fund Digital,Investment,Delhi,Delhi,15,Online,False
+MERCH_0171,Youtube Premium Digital,Subscription,Ludhiana,Punjab,11,Online,False
+MERCH_0172,Jio Fiber Outlet 414,Utility,Udaipur,Rajasthan,24,Online,False
+MERCH_0173,NPS Contribution Digital,Investment,Chennai,Tamil Nadu,23,Online,True
+MERCH_0174,LIC India Outlet 484,Insurance,Delhi,Delhi,39,Online,False
+MERCH_0175,Pet Shop Outlet 49,Other,Delhi,Delhi,28,Retail,False
+MERCH_0176,Local Kirana Outlet 442,Grocery,Trivandrum,Kerala,27,Online,True
+MERCH_0177,Max Life Insurance Outlet 839,Insurance,Coimbatore,Tamil Nadu,94,Retail,False
+MERCH_0178,Udemy Outlet 689,Education,Hyderabad,Telangana,25,Online,False
+MERCH_0179,Taj Dining Outlet 824,Dining_Out,Delhi,Delhi,42,Hybrid,False
+MERCH_0180,Local Tailor Outlet 974,Other,Jaipur,Rajasthan,34,Retail,False
+MERCH_0181,Cred RentPay Outlet 215,Rent,Kanpur,Uttar Pradesh,40,Retail,True
+MERCH_0182,Nykaa Outlet 319,Shopping,Trivandrum,Kerala,20,Hybrid,False
+MERCH_0183,Adani Electricity Outlet 41,Utility,Pune,Maharashtra,13,Online,False
+MERCH_0184,Indraprastha Gas Outlet 514,Utility,Noida,Uttar Pradesh,29,Online,False
+MERCH_0185,Amazon Outlet 842,Shopping,Ludhiana,Punjab,28,Retail,False
+MERCH_0186,BookMyShow Outlet 207,Entertainment,Mumbai,Maharashtra,43,Online,False
+MERCH_0187,Starbucks Outlet 772,Food,Coimbatore,Tamil Nadu,17,Retail,False
+MERCH_0188,Yatra Outlet 524,Travel,Noida,Uttar Pradesh,16,Hybrid,False
+MERCH_0189,Zomato Outlet 972,Food,Lucknow,Uttar Pradesh,36,Retail,True
+MERCH_0190,Society Maintenance Outlet 428,Rent,Chennai,Tamil Nadu,37,Retail,False
+MERCH_0191,Netflix Outlet 737,Entertainment,Ludhiana,Punjab,37,Online,False
+MERCH_0192,Indian Oil Outlet 462,Fuel,Kanpur,Uttar Pradesh,17,Retail,False
+MERCH_0193,Spotify Family Digital,Subscription,Ahmedabad,Gujarat,24,Online,False
+MERCH_0194,Inox Outlet 385,Entertainment,Ludhiana,Punjab,12,Hybrid,False
+MERCH_0195,BookMyShow Outlet 635,Entertainment,Kanpur,Uttar Pradesh,22,Online,False
+MERCH_0196,Max Life Insurance Outlet 340,Insurance,Bangalore,Karnataka,21,Retail,False
+MERCH_0197,Simplilearn Outlet 855,Education,Bangalore,Karnataka,37,Retail,True
+MERCH_0198,BYJU'S Outlet 735,Education,Bangalore,Karnataka,34,Hybrid,False
+MERCH_0199,Domino's Outlet 703,Food,Hyderabad,Telangana,18,Hybrid,False
+MERCH_0200,Decathlon Outlet 413,Shopping,Chandigarh,Punjab,12,Retail,False
+MERCH_0201,Tata Power Outlet 331,Utility,Mysore,Karnataka,32,Online,False
+MERCH_0202,Blinkit Outlet 434,Grocery,Noida,Uttar Pradesh,16,Hybrid,False
+MERCH_0203,Adani Electricity Outlet 354,Utility,Nagpur,Maharashtra,28,Online,False
+MERCH_0204,BESCOM Outlet 448,Utility,Hyderabad,Telangana,42,Online,False
+MERCH_0205,Air India Outlet 605,Travel,Nagpur,Maharashtra,34,Online,True
+MERCH_0206,Taj Dining Outlet 728,Dining_Out,Kolkata,West Bengal,36,Retail,False
+MERCH_0207,Indigo Outlet 422,Travel,Delhi,Delhi,30,Online,True
+MERCH_0208,Pet Shop Outlet 671,Other,Ludhiana,Punjab,26,Retail,False
+MERCH_0209,Mutual Fund Direct Digital,Investment,Mumbai,Maharashtra,73,Online,False
+MERCH_0210,Air India Outlet 906,Travel,Kolkata,West Bengal,36,Retail,False
+MERCH_0211,Local Restaurant Outlet 379,Food,Chandigarh,Punjab,25,Hybrid,False
+MERCH_0212,Hardware Store Outlet 614,Other,Coimbatore,Tamil Nadu,23,Online,False
+MERCH_0213,Udemy Outlet 955,Education,Kochi,Kerala,43,Online,False
+MERCH_0214,Hardware Store Outlet 56,Other,Mumbai,Maharashtra,9,Hybrid,True
+MERCH_0215,Fortis Hospital Outlet 70,Healthcare,Chandigarh,Punjab,37,Hybrid,False
+MERCH_0216,HDFC Ergo Outlet 347,Insurance,Mysore,Karnataka,40,Hybrid,False
+MERCH_0217,Practo Outlet 396,Healthcare,Kolkata,West Bengal,31,Retail,False
+MERCH_0218,HDFC Ergo Outlet 730,Insurance,Coimbatore,Tamil Nadu,29,Hybrid,False
+MERCH_0219,Netflix Premium Digital,Subscription,Bangalore,Karnataka,25,Online,False
+MERCH_0220,Cred RentPay Outlet 197,Rent,Mysore,Karnataka,40,Retail,False
+MERCH_0221,Shell Petrol Outlet 539,Fuel,Pune,Maharashtra,15,Retail,True
+MERCH_0222,IRCTC Outlet 265,Travel,Hyderabad,Telangana,28,Hybrid,False
+MERCH_0223,Taj Dining Outlet 943,Dining_Out,Chandigarh,Punjab,42,Retail,True
+MERCH_0224,NPS Contribution Digital,Investment,Noida,Uttar Pradesh,25,Online,False
+MERCH_0225,Mutual Fund Direct Digital,Investment,Ludhiana,Punjab,9,Online,False
+MERCH_0226,Spotify Family Digital,Subscription,Kolkata,West Bengal,25,Online,False
+MERCH_0227,Ola Outlet 162,Travel,Jaipur,Rajasthan,36,Hybrid,False
+MERCH_0228,Booking.com Outlet 186,Travel,Kolkata,West Bengal,20,Online,False
+MERCH_0229,Zerodha Fund Digital,Investment,Mysore,Karnataka,39,Online,True
+MERCH_0230,Nykaa Outlet 435,Shopping,Noida,Uttar Pradesh,20,Hybrid,False
+MERCH_0231,Gift Gallery Outlet 466,Other,Lucknow,Uttar Pradesh,17,Retail,False
+MERCH_0232,Amazon Prime Outlet 410,Entertainment,Chennai,Tamil Nadu,41,Retail,False
+MERCH_0233,LIC India Outlet 423,Insurance,Noida,Uttar Pradesh,36,Retail,False
+MERCH_0234,Adani Electricity Outlet 124,Utility,Delhi,Delhi,32,Online,True
+MERCH_0235,Spotify Outlet 767,Entertainment,Ludhiana,Punjab,32,Hybrid,False
+MERCH_0236,Local Tailor Outlet 967,Other,Mumbai,Maharashtra,14,Hybrid,False
+MERCH_0237,Groww SIP Digital,Investment,Pune,Maharashtra,5,Online,True
+MERCH_0238,Salon & Spa Outlet 569,Other,Noida,Uttar Pradesh,33,Hybrid,True
+MERCH_0239,Tata Power Outlet 80,Utility,Jaipur,Rajasthan,7,Online,False
+MERCH_0240,Amazon Prime Outlet 202,Entertainment,Noida,Uttar Pradesh,29,Hybrid,False
+MERCH_0241,Salon & Spa Outlet 638,Other,Ahmedabad,Gujarat,20,Online,False
+MERCH_0242,Coursera Outlet 102,Education,Kanpur,Uttar Pradesh,11,Retail,False
+MERCH_0243,Social Outlet 946,Dining_Out,Jaipur,Rajasthan,15,Online,False
+MERCH_0244,Udemy Outlet 444,Education,Kanpur,Uttar Pradesh,12,Retail,False
+MERCH_0245,Local Tailor Outlet 881,Other,Delhi,Delhi,22,Retail,False
+MERCH_0246,Ajio Outlet 969,Shopping,Kolkata,West Bengal,23,Hybrid,False
+MERCH_0247,Fortis Hospital Outlet 960,Healthcare,Delhi,Delhi,15,Retail,False
+MERCH_0248,NoBroker Rent Outlet 244,Rent,Pune,Maharashtra,13,Retail,False
+MERCH_0249,Zerodha Fund Digital,Investment,Delhi,Delhi,41,Online,False
+MERCH_0250,Airtel Fiber Outlet 730,Utility,Nagpur,Maharashtra,33,Online,True
+MERCH_0251,Amity University Outlet 229,Education,Mysore,Karnataka,21,Hybrid,False
+MERCH_0252,Bharat Petroleum Outlet 813,Fuel,Kolkata,West Bengal,26,Retail,True
+MERCH_0253,Jio Fiber Outlet 278,Utility,Ahmedabad,Gujarat,12,Online,True
+MERCH_0254,AngelOne Deposit Digital,Investment,Pune,Maharashtra,16,Online,False
+MERCH_0255,Local Tailor Outlet 739,Other,Pune,Maharashtra,30,Hybrid,False
+MERCH_0256,Subway Outlet 514,Food,Lucknow,Uttar Pradesh,7,Retail,True
+MERCH_0257,Max Life Insurance Outlet 165,Insurance,Trivandrum,Kerala,17,Hybrid,False
+MERCH_0258,Westside Outlet 446,Shopping,Lucknow,Uttar Pradesh,36,Hybrid,False
+MERCH_0259,Max Healthcare Outlet 878,Healthcare,Kochi,Kerala,32,Online,False
+MERCH_0260,Zara Outlet 902,Shopping,Trivandrum,Kerala,19,Online,False
+MERCH_0261,HDFC Ergo Outlet 697,Insurance,Mysore,Karnataka,44,Hybrid,False
+MERCH_0262,Apollo Clinic Outlet 239,Healthcare,Chandigarh,Punjab,15,Online,False
+MERCH_0263,Ajio Outlet 661,Shopping,Ahmedabad,Gujarat,31,Online,False
+MERCH_0264,AngelOne Deposit Digital,Investment,Nagpur,Maharashtra,20,Online,False
+MERCH_0265,Punjab Grill Outlet 468,Dining_Out,Trivandrum,Kerala,15,Retail,False
+MERCH_0266,Hindustan Petroleum Outlet 607,Fuel,Mysore,Karnataka,93,Retail,False
+MERCH_0267,Uber Outlet 216,Travel,Ahmedabad,Gujarat,72,Online,False
+MERCH_0268,BESCOM Outlet 546,Utility,Delhi,Delhi,23,Online,False
+MERCH_0269,AngelOne Deposit Digital,Investment,Kochi,Kerala,27,Online,False
+MERCH_0270,Netflix Outlet 718,Entertainment,Bangalore,Karnataka,16,Retail,False
+MERCH_0271,Local Restaurant Outlet 477,Food,Mysore,Karnataka,15,Hybrid,False
+MERCH_0272,Cred RentPay Outlet 703,Rent,Chandigarh,Punjab,15,Retail,False
+MERCH_0273,PVR Cinemas Outlet 580,Entertainment,Coimbatore,Tamil Nadu,26,Hybrid,False
+MERCH_0274,Netflix Outlet 202,Entertainment,Lucknow,Uttar Pradesh,26,Retail,False
+MERCH_0275,Starbucks Outlet 413,Food,Chandigarh,Punjab,19,Retail,False
+MERCH_0276,Myntra Outlet 165,Shopping,Jaipur,Rajasthan,41,Online,False
+MERCH_0277,IRCTC Outlet 547,Travel,Ahmedabad,Gujarat,44,Hybrid,True
+MERCH_0278,Apollo Clinic Outlet 305,Healthcare,Noida,Uttar Pradesh,20,Retail,False
+MERCH_0279,Smaaash Outlet 54,Entertainment,Lucknow,Uttar Pradesh,31,Online,False
+MERCH_0280,Local Tailor Outlet 940,Other,Ludhiana,Punjab,21,Hybrid,False
+MERCH_0281,Amity University Outlet 616,Education,Trivandrum,Kerala,24,Hybrid,False
+MERCH_0282,Netflix Premium Digital,Subscription,Noida,Uttar Pradesh,34,Online,True
+MERCH_0283,NoBroker Rent Outlet 955,Rent,Hyderabad,Telangana,38,Retail,False
+MERCH_0284,Decathlon Outlet 915,Shopping,Kochi,Kerala,24,Hybrid,False
+MERCH_0285,Simplilearn Outlet 65,Education,Chennai,Tamil Nadu,12,Online,True
+MERCH_0286,Youtube Premium Digital,Subscription,Hyderabad,Telangana,40,Online,False
+MERCH_0287,Yatra Outlet 803,Travel,Delhi,Delhi,42,Hybrid,False
+MERCH_0288,Local Clinic Outlet 799,Healthcare,Pune,Maharashtra,15,Retail,False
+MERCH_0289,Bharat Petroleum Outlet 433,Fuel,Udaipur,Rajasthan,27,Retail,False
+MERCH_0290,Dry Cleaners Outlet 834,Other,Kolkata,West Bengal,38,Online,True
+MERCH_0291,Udemy Outlet 380,Education,Surat,Gujarat,19,Retail,False
+MERCH_0292,Salon & Spa Outlet 858,Other,Coimbatore,Tamil Nadu,30,Hybrid,False
+MERCH_0293,Zerodha Fund Digital,Investment,Surat,Gujarat,23,Online,True
+MERCH_0294,Spencer's Outlet 816,Grocery,Delhi,Delhi,36,Retail,False
+MERCH_0295,Zerodha Fund Digital,Investment,Noida,Uttar Pradesh,23,Online,False
+MERCH_0296,Indraprastha Gas Outlet 616,Utility,Delhi,Delhi,12,Online,False
+MERCH_0297,NoBroker Rent Outlet 200,Rent,Mysore,Karnataka,34,Retail,True
+MERCH_0298,Groww SIP Digital,Investment,Kanpur,Uttar Pradesh,42,Online,False
+MERCH_0299,DAV College Outlet 215,Education,Nagpur,Maharashtra,16,Online,False
+MERCH_0300,NPS Contribution Digital,Investment,Kochi,Kerala,35,Online,False
+MERCH_0301,Uber Outlet 392,Travel,Delhi,Delhi,79,Retail,True
+MERCH_0302,MakeMyTrip Outlet 959,Travel,Delhi,Delhi,19,Online,True
+MERCH_0303,Adani Electricity Outlet 740,Utility,Jaipur,Rajasthan,12,Online,True
+MERCH_0304,Housing Rent Transfer Outlet 944,Rent,Bangalore,Karnataka,29,Retail,True
+MERCH_0305,More Retail Outlet 731,Grocery,Noida,Uttar Pradesh,17,Retail,False
+MERCH_0306,HDFC Ergo Outlet 790,Insurance,Ahmedabad,Gujarat,25,Hybrid,False
+MERCH_0307,Punjab Grill Outlet 152,Dining_Out,Coimbatore,Tamil Nadu,35,Online,True
+MERCH_0308,MakeMyTrip Outlet 834,Travel,Kochi,Kerala,5,Hybrid,False
+MERCH_0309,Amity University Outlet 149,Education,Mumbai,Maharashtra,12,Hybrid,True
+MERCH_0310,KFC Outlet 51,Food,Ludhiana,Punjab,35,Online,True
+MERCH_0311,Jio Fiber Outlet 734,Utility,Trivandrum,Kerala,10,Online,True
+MERCH_0312,Reliance Petroleum Outlet 201,Fuel,Ludhiana,Punjab,39,Retail,False
+MERCH_0313,Pizza Hut Outlet 124,Food,Pune,Maharashtra,23,Hybrid,False
+MERCH_0314,Subway Outlet 156,Food,Mysore,Karnataka,42,Hybrid,False
+MERCH_0315,MakeMyTrip Flights Outlet 735,Travel,Noida,Uttar Pradesh,17,Retail,False
+MERCH_0316,Simplilearn Outlet 256,Education,Udaipur,Rajasthan,39,Retail,True
+MERCH_0317,Society Maintenance Outlet 906,Rent,Kolkata,West Bengal,44,Retail,False
+MERCH_0318,MedPlus Outlet 909,Healthcare,Mysore,Karnataka,13,Hybrid,True
+MERCH_0319,Disney VIP Digital,Subscription,Jaipur,Rajasthan,38,Online,True
+MERCH_0320,HDFC Ergo Outlet 82,Insurance,Kochi,Kerala,14,Hybrid,False
+MERCH_0321,Hindustan Petroleum Outlet 963,Fuel,Kanpur,Uttar Pradesh,39,Retail,False
+MERCH_0322,Municipal Water Outlet 171,Utility,Chandigarh,Punjab,27,Online,False
+MERCH_0323,Subway Outlet 610,Food,Pune,Maharashtra,25,Online,False
+MERCH_0324,IRCTC Outlet 478,Travel,Mumbai,Maharashtra,19,Retail,False
+MERCH_0325,Zoomcar Outlet 798,Travel,Bangalore,Karnataka,27,Hybrid,False
+MERCH_0326,Spotify Family Digital,Subscription,Chennai,Tamil Nadu,7,Online,False
+MERCH_0327,MakeMyTrip Outlet 721,Travel,Ahmedabad,Gujarat,9,Retail,False
+MERCH_0328,Amazon Prime Outlet 65,Entertainment,Jaipur,Rajasthan,9,Online,False
+MERCH_0329,Reliance Fresh Outlet 369,Grocery,Ludhiana,Punjab,32,Hybrid,True
+MERCH_0330,Society Maintenance Outlet 968,Rent,Coimbatore,Tamil Nadu,25,Retail,True
+MERCH_0331,Hardware Store Outlet 866,Other,Surat,Gujarat,26,Online,False
+MERCH_0332,CCD Outlet 200,Food,Kolkata,West Bengal,25,Hybrid,False
+MERCH_0333,Myntra Outlet 217,Shopping,Chennai,Tamil Nadu,21,Online,False
+MERCH_0334,Zerodha Fund Digital,Investment,Mysore,Karnataka,18,Online,False
+MERCH_0335,Max Life Insurance Outlet 664,Insurance,Jaipur,Rajasthan,39,Retail,False
+MERCH_0336,Tata Power Outlet 416,Utility,Pune,Maharashtra,9,Online,False
+MERCH_0337,Flipkart Outlet 155,Shopping,Delhi,Delhi,18,Retail,True
+MERCH_0338,Spotify Family Digital,Subscription,Ahmedabad,Gujarat,39,Online,False
+MERCH_0339,MakeMyTrip Flights Outlet 684,Travel,Kanpur,Uttar Pradesh,28,Online,False
+MERCH_0340,BookMyShow Outlet 59,Entertainment,Mumbai,Maharashtra,40,Online,False
+MERCH_0341,Max Life Insurance Outlet 889,Insurance,Lucknow,Uttar Pradesh,8,Hybrid,True
+MERCH_0342,ICICI Lombard Outlet 438,Insurance,Jaipur,Rajasthan,7,Retail,False
+MERCH_0343,Pet Shop Outlet 168,Other,Coimbatore,Tamil Nadu,6,Hybrid,False
+MERCH_0344,Local Pub Outlet 134,Dining_Out,Kanpur,Uttar Pradesh,14,Retail,False
+MERCH_0345,Reliance Petroleum Outlet 742,Fuel,Hyderabad,Telangana,27,Retail,True
+MERCH_0346,MedPlus Outlet 503,Healthcare,Surat,Gujarat,27,Retail,False
+MERCH_0347,Nature's Basket Outlet 899,Grocery,Coimbatore,Tamil Nadu,24,Retail,False
+MERCH_0348,Cred RentPay Outlet 844,Rent,Kolkata,West Bengal,86,Retail,False
+MERCH_0349,BYJU'S Outlet 910,Education,Mysore,Karnataka,5,Retail,False
+MERCH_0350,Housing Rent Transfer Outlet 772,Rent,Kolkata,West Bengal,16,Retail,False
+MERCH_0351,Reliance Fresh Outlet 260,Grocery,Coimbatore,Tamil Nadu,14,Hybrid,False
+MERCH_0352,Shell Petrol Outlet 265,Fuel,Pune,Maharashtra,29,Retail,False
+MERCH_0353,DAV College Outlet 323,Education,Coimbatore,Tamil Nadu,39,Retail,True
+MERCH_0354,Cred RentPay Outlet 606,Rent,Trivandrum,Kerala,11,Retail,False
+MERCH_0355,HDFC Ergo Outlet 853,Insurance,Kolkata,West Bengal,15,Online,True
+MERCH_0356,Mainland China Outlet 196,Dining_Out,Kanpur,Uttar Pradesh,81,Hybrid,False
+MERCH_0357,Airtel Fiber Outlet 709,Utility,Jaipur,Rajasthan,6,Online,False
+MERCH_0358,Cred RentPay Outlet 81,Rent,Hyderabad,Telangana,44,Retail,False
+MERCH_0359,Zomato Outlet 385,Food,Delhi,Delhi,9,Retail,True
+MERCH_0360,Disney VIP Digital,Subscription,Lucknow,Uttar Pradesh,34,Online,True
+MERCH_0361,Municipal Water Outlet 189,Utility,Bangalore,Karnataka,19,Online,False
+MERCH_0362,Mainland China Outlet 627,Dining_Out,Trivandrum,Kerala,31,Hybrid,True
+MERCH_0363,Zoomcar Outlet 847,Travel,Delhi,Delhi,36,Retail,True
+MERCH_0364,Air India Outlet 480,Travel,Pune,Maharashtra,33,Retail,False
+MERCH_0365,Hardware Store Outlet 850,Other,Hyderabad,Telangana,42,Retail,False
+MERCH_0366,Local Tailor Outlet 157,Other,Coimbatore,Tamil Nadu,22,Online,True
+MERCH_0367,SBI General Insurance Outlet 686,Insurance,Delhi,Delhi,38,Online,False
+MERCH_0368,Municipal Water Outlet 144,Utility,Delhi,Delhi,34,Online,False
+MERCH_0369,DPS School Outlet 198,Education,Ludhiana,Punjab,36,Retail,False
+MERCH_0370,Adani Electricity Outlet 203,Utility,Noida,Uttar Pradesh,20,Online,True
+MERCH_0371,Pet Shop Outlet 97,Other,Mumbai,Maharashtra,25,Hybrid,True
+MERCH_0372,Reliance Fresh Outlet 234,Grocery,Ahmedabad,Gujarat,5,Hybrid,True
+MERCH_0373,Municipal Water Outlet 395,Utility,Kolkata,West Bengal,23,Online,False
+MERCH_0374,BigBasket Outlet 21,Grocery,Nagpur,Maharashtra,6,Online,False
+MERCH_0375,Disney VIP Digital,Subscription,Kochi,Kerala,29,Online,False
+MERCH_0376,Tata Power Outlet 854,Utility,Coimbatore,Tamil Nadu,41,Online,True
+MERCH_0377,Shoppers Stop Outlet 477,Shopping,Chandigarh,Punjab,20,Retail,True
+MERCH_0378,Udemy Outlet 21,Education,Chennai,Tamil Nadu,30,Online,False
+MERCH_0379,Udemy Outlet 697,Education,Kochi,Kerala,6,Online,False
+MERCH_0380,Ola Outlet 932,Travel,Pune,Maharashtra,18,Retail,True
+MERCH_0381,Microsoft 365 Digital,Subscription,Kochi,Kerala,28,Online,True
+MERCH_0382,Max Life Insurance Outlet 667,Insurance,Udaipur,Rajasthan,16,Retail,True
+MERCH_0383,MakeMyTrip Flights Outlet 31,Travel,Udaipur,Rajasthan,40,Online,False
+MERCH_0384,Mutual Fund Direct Digital,Investment,Kochi,Kerala,7,Online,True
+MERCH_0385,Society Maintenance Outlet 708,Rent,Bangalore,Karnataka,44,Retail,False
+MERCH_0386,Gift Gallery Outlet 719,Other,Surat,Gujarat,27,Retail,True
+MERCH_0387,ICICI Lombard Outlet 410,Insurance,Coimbatore,Tamil Nadu,38,Online,True
+MERCH_0388,Uber Outlet 625,Travel,Udaipur,Rajasthan,37,Online,False
+MERCH_0389,Haldirams Outlet 119,Food,Chennai,Tamil Nadu,24,Hybrid,False
+MERCH_0390,Zerodha Fund Digital,Investment,Pune,Maharashtra,31,Online,False
+MERCH_0391,Domino's Outlet 949,Food,Ahmedabad,Gujarat,28,Hybrid,False
+MERCH_0392,BESCOM Outlet 541,Utility,Udaipur,Rajasthan,5,Online,False
+MERCH_0393,IRCTC Outlet 17,Travel,Kanpur,Uttar Pradesh,7,Hybrid,False
+MERCH_0394,iCloud Storage Digital,Subscription,Kochi,Kerala,13,Online,False
+MERCH_0395,Myntra Outlet 111,Shopping,Jaipur,Rajasthan,17,Online,False
+MERCH_0396,Yatra Outlet 886,Travel,Ahmedabad,Gujarat,12,Retail,False
+MERCH_0397,Social Outlet 928,Dining_Out,Ahmedabad,Gujarat,13,Hybrid,False
+MERCH_0398,Punjab Grill Outlet 216,Dining_Out,Udaipur,Rajasthan,31,Hybrid,True
+MERCH_0399,Cred RentPay Outlet 457,Rent,Mysore,Karnataka,42,Retail,False
+MERCH_0400,Haldirams Outlet 241,Food,Chennai,Tamil Nadu,11,Hybrid,False
+MERCH_0401,Zoomcar Outlet 917,Travel,Mysore,Karnataka,41,Retail,False
+MERCH_0402,DPS School Outlet 610,Education,Kochi,Kerala,15,Online,False
+MERCH_0403,BESCOM Outlet 357,Utility,Coimbatore,Tamil Nadu,27,Online,False
+MERCH_0404,Local Tailor Outlet 547,Other,Ludhiana,Punjab,18,Retail,True
+MERCH_0405,Netflix Premium Digital,Subscription,Nagpur,Maharashtra,34,Online,False
+MERCH_0406,LIC India Outlet 956,Insurance,Mysore,Karnataka,42,Hybrid,False
+MERCH_0407,Disney+ Hotstar Outlet 858,Entertainment,Chandigarh,Punjab,14,Retail,False
+MERCH_0408,Groww SIP Digital,Investment,Mysore,Karnataka,37,Online,True
+MERCH_0409,Youtube Premium Digital,Subscription,Delhi,Delhi,30,Online,True
+MERCH_0410,Local Kirana Outlet 198,Grocery,Nagpur,Maharashtra,28,Hybrid,False
+MERCH_0411,Zoomcar Outlet 667,Travel,Kanpur,Uttar Pradesh,35,Online,True
+MERCH_0412,HDFC Ergo Outlet 953,Insurance,Hyderabad,Telangana,34,Retail,False
+MERCH_0413,Blinkit Outlet 539,Grocery,Trivandrum,Kerala,5,Hybrid,False
+MERCH_0414,Inox Outlet 758,Entertainment,Mysore,Karnataka,12,Retail,False
+MERCH_0415,Zepto Outlet 551,Grocery,Kolkata,West Bengal,41,Retail,False
+MERCH_0416,PVR Cinemas Outlet 255,Entertainment,Trivandrum,Kerala,98,Online,False
+MERCH_0417,Bharat Petroleum Outlet 701,Fuel,Hyderabad,Telangana,22,Retail,True
+MERCH_0418,More Retail Outlet 430,Grocery,Mumbai,Maharashtra,35,Retail,False
+MERCH_0419,NoBroker Rent Outlet 205,Rent,Noida,Uttar Pradesh,28,Retail,True
+MERCH_0420,Gift Gallery Outlet 435,Other,Trivandrum,Kerala,20,Hybrid,False
+MERCH_0421,iCloud Storage Digital,Subscription,Ludhiana,Punjab,13,Online,True
+MERCH_0422,Reliance Petroleum Outlet 563,Fuel,Trivandrum,Kerala,14,Retail,False
+MERCH_0423,Salon & Spa Outlet 132,Other,Lucknow,Uttar Pradesh,14,Online,False
+MERCH_0424,Zara Outlet 598,Shopping,Ludhiana,Punjab,12,Hybrid,True
+MERCH_0425,Hardware Store Outlet 700,Other,Trivandrum,Kerala,12,Hybrid,False
+MERCH_0426,Barbeque Nation Outlet 837,Dining_Out,Udaipur,Rajasthan,11,Hybrid,False
+MERCH_0427,Local Kirana Outlet 799,Grocery,Noida,Uttar Pradesh,5,Retail,False
+MERCH_0428,LIC India Outlet 994,Insurance,Chandigarh,Punjab,21,Retail,False
+MERCH_0429,LIC India Outlet 429,Insurance,Ahmedabad,Gujarat,9,Hybrid,True
+MERCH_0430,Max Life Insurance Outlet 564,Insurance,Udaipur,Rajasthan,32,Hybrid,False
+MERCH_0431,Local Tailor Outlet 241,Other,Kochi,Kerala,8,Retail,False
+MERCH_0432,Social Outlet 913,Dining_Out,Mysore,Karnataka,43,Retail,False
+MERCH_0433,Indian Oil Outlet 157,Fuel,Chandigarh,Punjab,6,Retail,False
+MERCH_0434,DMart Outlet 120,Grocery,Ahmedabad,Gujarat,43,Online,False
+MERCH_0435,Max Life Insurance Outlet 437,Insurance,Coimbatore,Tamil Nadu,26,Hybrid,True
+MERCH_0436,Social Outlet 85,Dining_Out,Mumbai,Maharashtra,41,Retail,False
+MERCH_0437,Pet Shop Outlet 177,Other,Kanpur,Uttar Pradesh,27,Retail,True
+MERCH_0438,Spotify Family Digital,Subscription,Jaipur,Rajasthan,26,Online,False
+MERCH_0439,Indian Oil Outlet 498,Fuel,Mumbai,Maharashtra,27,Retail,False
+MERCH_0440,Max Life Insurance Outlet 500,Insurance,Chandigarh,Punjab,37,Online,False
+MERCH_0441,BookMyShow Outlet 822,Entertainment,Surat,Gujarat,44,Hybrid,False
+MERCH_0442,Blinkit Outlet 356,Grocery,Mysore,Karnataka,35,Online,False
+MERCH_0443,NPS Contribution Digital,Investment,Noida,Uttar Pradesh,41,Online,False
+MERCH_0444,CCD Outlet 971,Food,Chandigarh,Punjab,15,Online,True
+MERCH_0445,Flipkart Outlet 177,Shopping,Nagpur,Maharashtra,39,Online,True
+MERCH_0446,Reliance Fresh Outlet 893,Grocery,Jaipur,Rajasthan,5,Online,True
+MERCH_0447,Disney VIP Digital,Subscription,Ahmedabad,Gujarat,20,Online,False
+MERCH_0448,BookMyShow Outlet 34,Entertainment,Kanpur,Uttar Pradesh,13,Online,False
+MERCH_0449,Starbucks Outlet 857,Food,Surat,Gujarat,22,Retail,False
+MERCH_0450,NPS Contribution Digital,Investment,Mysore,Karnataka,43,Online,True
+MERCH_0451,LIC India Outlet 765,Insurance,Chandigarh,Punjab,13,Hybrid,True
+MERCH_0452,Local Tailor Outlet 630,Other,Coimbatore,Tamil Nadu,21,Hybrid,True
+MERCH_0453,Yatra Outlet 256,Travel,Bangalore,Karnataka,22,Hybrid,False
+MERCH_0454,Mutual Fund Direct Digital,Investment,Kolkata,West Bengal,35,Online,False
+MERCH_0455,Gift Gallery Outlet 777,Other,Coimbatore,Tamil Nadu,15,Hybrid,False
+MERCH_0456,Jio Fiber Outlet 173,Utility,Jaipur,Rajasthan,14,Online,False
+MERCH_0457,More Retail Outlet 833,Grocery,Hyderabad,Telangana,43,Online,False
+MERCH_0458,HDFC Ergo Outlet 188,Insurance,Bangalore,Karnataka,29,Hybrid,False
+MERCH_0459,Netflix Premium Digital,Subscription,Jaipur,Rajasthan,17,Online,False
+MERCH_0460,Municipal Water Outlet 591,Utility,Nagpur,Maharashtra,22,Online,False
+MERCH_0461,Hindustan Petroleum Outlet 735,Fuel,Ludhiana,Punjab,20,Retail,False
+MERCH_0462,Simplilearn Outlet 960,Education,Nagpur,Maharashtra,23,Retail,False
+MERCH_0463,SBI General Insurance Outlet 314,Insurance,Kanpur,Uttar Pradesh,44,Hybrid,True
+MERCH_0464,iCloud Storage Digital,Subscription,Ludhiana,Punjab,17,Online,False
+MERCH_0465,Blinkit Outlet 930,Grocery,Mysore,Karnataka,27,Retail,False
+MERCH_0466,Amity University Outlet 858,Education,Udaipur,Rajasthan,30,Hybrid,True
+MERCH_0467,BigBasket Outlet 84,Grocery,Mysore,Karnataka,88,Retail,True
+MERCH_0468,Decathlon Outlet 880,Shopping,Chennai,Tamil Nadu,36,Retail,False
+MERCH_0469,DPS School Outlet 906,Education,Chennai,Tamil Nadu,8,Hybrid,False
+MERCH_0470,Decathlon Outlet 528,Shopping,Mumbai,Maharashtra,42,Hybrid,False
+MERCH_0471,BYJU'S Outlet 852,Education,Kolkata,West Bengal,40,Online,False
+MERCH_0472,Local Tailor Outlet 748,Other,Kanpur,Uttar Pradesh,36,Hybrid,False
+MERCH_0473,SBI General Insurance Outlet 125,Insurance,Udaipur,Rajasthan,35,Hybrid,False
+MERCH_0474,Max Healthcare Outlet 672,Healthcare,Chandigarh,Punjab,18,Retail,True
+MERCH_0475,Flipkart Outlet 813,Shopping,Chennai,Tamil Nadu,17,Online,True
+MERCH_0476,Apollo Clinic Outlet 937,Healthcare,Kochi,Kerala,5,Retail,False
+MERCH_0477,Disney VIP Digital,Subscription,Pune,Maharashtra,11,Online,True
+MERCH_0478,Zerodha Fund Digital,Investment,Mysore,Karnataka,31,Online,False
+MERCH_0479,Indian Oil Outlet 577,Fuel,Kochi,Kerala,26,Retail,False
+MERCH_0480,Reliance Fresh Outlet 948,Grocery,Noida,Uttar Pradesh,6,Online,False
+MERCH_0481,LIC India Outlet 994,Insurance,Bangalore,Karnataka,20,Hybrid,True
+MERCH_0482,Apollo Pharmacy Outlet 718,Healthcare,Kolkata,West Bengal,13,Hybrid,False
+MERCH_0483,Zara Outlet 683,Shopping,Mysore,Karnataka,37,Retail,False
+MERCH_0484,Local Tailor Outlet 522,Other,Delhi,Delhi,22,Hybrid,False
+MERCH_0485,Local Restaurant Outlet 114,Food,Delhi,Delhi,20,Retail,True
+MERCH_0486,Tata Power Outlet 22,Utility,Chandigarh,Punjab,41,Online,False
+MERCH_0487,Tata Power Outlet 88,Utility,Chandigarh,Punjab,34,Online,False
+MERCH_0488,Air India Outlet 80,Travel,Chandigarh,Punjab,44,Retail,True
+MERCH_0489,Domino's Outlet 503,Food,Noida,Uttar Pradesh,33,Online,False
+MERCH_0490,BYJU'S Outlet 440,Education,Surat,Gujarat,10,Hybrid,True
+MERCH_0491,Subway Outlet 250,Food,Noida,Uttar Pradesh,11,Hybrid,False
+MERCH_0492,Amity University Outlet 837,Education,Nagpur,Maharashtra,33,Retail,False
+MERCH_0493,Max Life Insurance Outlet 508,Insurance,Coimbatore,Tamil Nadu,5,Hybrid,False
+MERCH_0494,Spencer's Outlet 131,Grocery,Noida,Uttar Pradesh,27,Online,False
+MERCH_0495,Practo Outlet 972,Healthcare,Ludhiana,Punjab,38,Hybrid,False
+MERCH_0496,Domino's Outlet 862,Food,Mysore,Karnataka,5,Hybrid,False
+MERCH_0497,Spotify Family Digital,Subscription,Chennai,Tamil Nadu,32,Online,False
+MERCH_0498,Housing Rent Transfer Outlet 898,Rent,Hyderabad,Telangana,11,Retail,False
+MERCH_0499,Mutual Fund Direct Digital,Investment,Udaipur,Rajasthan,11,Online,False
+MERCH_0500,Reliance Fresh Outlet 494,Grocery,Surat,Gujarat,36,Online,False
+MERCH_0501,Nykaa Outlet 67,Shopping,Mysore,Karnataka,10,Online,True
+MERCH_0502,Inox Outlet 470,Entertainment,Hyderabad,Telangana,31,Retail,False
+MERCH_0503,Uber Outlet 713,Travel,Bangalore,Karnataka,37,Hybrid,False
+MERCH_0504,Max Life Insurance Outlet 163,Insurance,Nagpur,Maharashtra,27,Online,True
+MERCH_0505,Coursera Outlet 672,Education,Hyderabad,Telangana,36,Hybrid,False
+MERCH_0506,PVR Cinemas Outlet 10,Entertainment,Udaipur,Rajasthan,10,Hybrid,False
+MERCH_0507,Adani Electricity Outlet 679,Utility,Delhi,Delhi,21,Online,True
+MERCH_0508,Dry Cleaners Outlet 828,Other,Surat,Gujarat,36,Hybrid,False
+MERCH_0509,Netflix Premium Digital,Subscription,Udaipur,Rajasthan,6,Online,True
+MERCH_0510,Amazon Prime Outlet 280,Entertainment,Mumbai,Maharashtra,29,Online,False
+MERCH_0511,Indian Oil Outlet 438,Fuel,Chennai,Tamil Nadu,37,Retail,True
+MERCH_0512,Udemy Outlet 361,Education,Coimbatore,Tamil Nadu,21,Online,False
+MERCH_0513,HDFC Ergo Outlet 724,Insurance,Trivandrum,Kerala,33,Retail,False
+MERCH_0514,Blinkit Outlet 110,Grocery,Jaipur,Rajasthan,13,Retail,False
+MERCH_0515,Hardware Store Outlet 347,Other,Kochi,Kerala,13,Online,False
+MERCH_0516,Hardware Store Outlet 256,Other,Ludhiana,Punjab,30,Online,False
+MERCH_0517,ICICI Lombard Outlet 442,Insurance,Chandigarh,Punjab,7,Retail,False
+MERCH_0518,Barbeque Nation Outlet 938,Dining_Out,Surat,Gujarat,7,Hybrid,False
+MERCH_0519,BESCOM Outlet 721,Utility,Kochi,Kerala,11,Online,False
+MERCH_0520,Apollo Clinic Outlet 831,Healthcare,Mumbai,Maharashtra,14,Retail,False
+MERCH_0521,Jio Fiber Outlet 496,Utility,Mysore,Karnataka,20,Online,False
+MERCH_0522,NoBroker Rent Outlet 99,Rent,Udaipur,Rajasthan,30,Retail,False
+MERCH_0523,Pet Shop Outlet 445,Other,Delhi,Delhi,15,Retail,False
+MERCH_0524,LIC India Outlet 149,Insurance,Surat,Gujarat,18,Retail,False
+MERCH_0525,Jio Fiber Outlet 933,Utility,Kanpur,Uttar Pradesh,71,Online,False
+MERCH_0526,Salon & Spa Outlet 800,Other,Noida,Uttar Pradesh,6,Hybrid,False
+MERCH_0527,Netflix Outlet 817,Entertainment,Pune,Maharashtra,18,Hybrid,False
+MERCH_0528,NPS Contribution Digital,Investment,Delhi,Delhi,16,Online,False
+MERCH_0529,Hindustan Petroleum Outlet 80,Fuel,Kanpur,Uttar Pradesh,24,Retail,False
+MERCH_0530,Hindustan Petroleum Outlet 78,Fuel,Ahmedabad,Gujarat,7,Retail,False
+MERCH_0531,Reliance Petroleum Outlet 18,Fuel,Lucknow,Uttar Pradesh,10,Retail,False
+MERCH_0532,Apollo Clinic Outlet 898,Healthcare,Ahmedabad,Gujarat,28,Online,False
+MERCH_0533,HDFC Ergo Outlet 661,Insurance,Mysore,Karnataka,38,Online,False
+MERCH_0534,Zomato Outlet 972,Food,Ludhiana,Punjab,43,Retail,True
+MERCH_0535,Jio Fiber Outlet 223,Utility,Delhi,Delhi,23,Online,True
+MERCH_0536,Adani Electricity Outlet 783,Utility,Chennai,Tamil Nadu,15,Online,True
+MERCH_0537,Netflix Premium Digital,Subscription,Pune,Maharashtra,15,Online,False
+MERCH_0538,Shell Petrol Outlet 121,Fuel,Chennai,Tamil Nadu,16,Retail,False
+MERCH_0539,Flipkart Outlet 990,Shopping,Trivandrum,Kerala,34,Hybrid,False
+MERCH_0540,Spotify Outlet 914,Entertainment,Mumbai,Maharashtra,42,Retail,False
+MERCH_0541,Westside Outlet 384,Shopping,Mysore,Karnataka,42,Hybrid,True
+MERCH_0542,Apollo Clinic Outlet 257,Healthcare,Mysore,Karnataka,43,Online,False
+MERCH_0543,Max Healthcare Outlet 834,Healthcare,Kochi,Kerala,31,Retail,False
+MERCH_0544,Booking.com Outlet 553,Travel,Kolkata,West Bengal,15,Hybrid,True
+MERCH_0545,Ola Outlet 903,Travel,Hyderabad,Telangana,25,Retail,False
+MERCH_0546,Pizza Hut Outlet 235,Food,Kochi,Kerala,22,Retail,False
+MERCH_0547,Apollo Clinic Outlet 551,Healthcare,Surat,Gujarat,27,Online,False
+MERCH_0548,Adani Electricity Outlet 173,Utility,Mumbai,Maharashtra,44,Online,False
+MERCH_0549,Social Outlet 750,Dining_Out,Ludhiana,Punjab,20,Online,True
+MERCH_0550,Zepto Outlet 913,Grocery,Chandigarh,Punjab,9,Retail,False
+MERCH_0551,AngelOne Deposit Digital,Investment,Nagpur,Maharashtra,16,Online,True
+MERCH_0552,Youtube Premium Digital,Subscription,Jaipur,Rajasthan,16,Online,True
+MERCH_0553,Inox Outlet 995,Entertainment,Surat,Gujarat,44,Retail,False
+MERCH_0554,Salon & Spa Outlet 406,Other,Bangalore,Karnataka,17,Online,True
+MERCH_0555,Nature's Basket Outlet 648,Grocery,Hyderabad,Telangana,36,Hybrid,False
+MERCH_0556,Yatra Outlet 719,Travel,Mumbai,Maharashtra,30,Online,True
+MERCH_0557,NPS Contribution Digital,Investment,Kanpur,Uttar Pradesh,31,Online,True
+MERCH_0558,BookMyShow Outlet 153,Entertainment,Delhi,Delhi,35,Online,False
+MERCH_0559,iCloud Storage Digital,Subscription,Bangalore,Karnataka,37,Online,False
+MERCH_0560,Ajio Outlet 703,Shopping,Nagpur,Maharashtra,38,Online,False
+MERCH_0561,Groww SIP Digital,Investment,Udaipur,Rajasthan,42,Online,False
+MERCH_0562,Apollo Pharmacy Outlet 209,Healthcare,Bangalore,Karnataka,14,Hybrid,False
+MERCH_0563,Nykaa Outlet 230,Shopping,Ludhiana,Punjab,14,Retail,False
+MERCH_0564,Nature's Basket Outlet 813,Grocery,Surat,Gujarat,41,Hybrid,False
+MERCH_0565,Bharat Petroleum Outlet 948,Fuel,Nagpur,Maharashtra,38,Retail,False
+MERCH_0566,Zerodha Fund Digital,Investment,Jaipur,Rajasthan,32,Online,False
+MERCH_0567,Yatra Outlet 875,Travel,Kolkata,West Bengal,36,Retail,True
+MERCH_0568,Cred RentPay Outlet 865,Rent,Nagpur,Maharashtra,43,Retail,False
+MERCH_0569,H&M Outlet 159,Shopping,Delhi,Delhi,13,Hybrid,False
+MERCH_0570,KFC Outlet 753,Food,Lucknow,Uttar Pradesh,44,Hybrid,False
+MERCH_0571,Smaaash Outlet 698,Entertainment,Kanpur,Uttar Pradesh,17,Hybrid,False
+MERCH_0572,ICICI Lombard Outlet 935,Insurance,Delhi,Delhi,26,Retail,False
+MERCH_0573,Netflix Outlet 826,Entertainment,Surat,Gujarat,8,Hybrid,False
+MERCH_0574,Municipal Water Outlet 255,Utility,Trivandrum,Kerala,27,Online,False
+MERCH_0575,Starbucks Outlet 46,Food,Jaipur,Rajasthan,22,Retail,True
+MERCH_0576,MakeMyTrip Flights Outlet 829,Travel,Ludhiana,Punjab,11,Online,True
+MERCH_0577,Indigo Outlet 715,Travel,Bangalore,Karnataka,79,Online,True
+MERCH_0578,Bharat Petroleum Outlet 403,Fuel,Kolkata,West Bengal,25,Retail,False
+MERCH_0579,Disney+ Hotstar Outlet 94,Entertainment,Trivandrum,Kerala,21,Online,True
+MERCH_0580,ICICI Lombard Outlet 454,Insurance,Chennai,Tamil Nadu,23,Retail,True
+MERCH_0581,LIC India Outlet 455,Insurance,Ahmedabad,Gujarat,14,Hybrid,False
+MERCH_0582,Burger King Outlet 963,Food,Trivandrum,Kerala,20,Retail,False
+MERCH_0583,IRCTC Outlet 703,Travel,Bangalore,Karnataka,22,Hybrid,False
+MERCH_0584,AngelOne Deposit Digital,Investment,Mumbai,Maharashtra,7,Online,False
+MERCH_0585,BYJU'S Outlet 162,Education,Jaipur,Rajasthan,24,Online,False
+MERCH_0586,Local Clinic Outlet 377,Healthcare,Mysore,Karnataka,17,Online,False
+MERCH_0587,Starbucks Outlet 284,Food,Ludhiana,Punjab,24,Online,True
+MERCH_0588,Dry Cleaners Outlet 584,Other,Delhi,Delhi,9,Hybrid,False
+MERCH_0589,H&M Outlet 90,Shopping,Hyderabad,Telangana,8,Retail,True
+MERCH_0590,ICICI Lombard Outlet 205,Insurance,Coimbatore,Tamil Nadu,28,Retail,False
+MERCH_0591,Tata Power Outlet 732,Utility,Surat,Gujarat,34,Online,True
+MERCH_0592,Zomato Outlet 344,Food,Coimbatore,Tamil Nadu,28,Online,False
+MERCH_0593,Cred RentPay Outlet 374,Rent,Surat,Gujarat,25,Retail,False
+MERCH_0594,Municipal Water Outlet 388,Utility,Hyderabad,Telangana,22,Online,True
+MERCH_0595,Youtube Premium Digital,Subscription,Hyderabad,Telangana,22,Online,False
+MERCH_0596,Spencer's Outlet 941,Grocery,Chandigarh,Punjab,13,Hybrid,False
+MERCH_0597,Local Clinic Outlet 188,Healthcare,Nagpur,Maharashtra,18,Retail,False
+MERCH_0598,Zoomcar Outlet 421,Travel,Surat,Gujarat,18,Retail,False
+MERCH_0599,IRCTC Outlet 320,Travel,Delhi,Delhi,29,Online,False
+MERCH_0600,Hardware Store Outlet 627,Other,Bangalore,Karnataka,42,Hybrid,False
+MERCH_0601,Municipal Water Outlet 117,Utility,Noida,Uttar Pradesh,35,Online,False
+MERCH_0602,Spotify Outlet 128,Entertainment,Pune,Maharashtra,42,Online,False
+MERCH_0603,HDFC Ergo Outlet 565,Insurance,Lucknow,Uttar Pradesh,41,Retail,False
+MERCH_0604,Taj Dining Outlet 863,Dining_Out,Kolkata,West Bengal,16,Online,False
+MERCH_0605,Amazon Prime Outlet 385,Entertainment,Pune,Maharashtra,43,Online,False
+MERCH_0606,Mainland China Outlet 979,Dining_Out,Coimbatore,Tamil Nadu,23,Online,False
+MERCH_0607,Ola Outlet 964,Travel,Nagpur,Maharashtra,41,Retail,False
+MERCH_0608,Max Healthcare Outlet 482,Healthcare,Chennai,Tamil Nadu,18,Online,False
+MERCH_0609,Domino's Outlet 753,Food,Noida,Uttar Pradesh,6,Online,False
+MERCH_0610,Blinkit Outlet 357,Grocery,Ahmedabad,Gujarat,26,Hybrid,True
+MERCH_0611,Hard Rock Cafe Outlet 453,Dining_Out,Surat,Gujarat,24,Hybrid,False
+MERCH_0612,Coursera Outlet 702,Education,Jaipur,Rajasthan,14,Online,False
+MERCH_0613,Myntra Outlet 268,Shopping,Bangalore,Karnataka,11,Online,False
+MERCH_0614,Airtel Fiber Outlet 171,Utility,Nagpur,Maharashtra,15,Online,False
+MERCH_0615,More Retail Outlet 818,Grocery,Kochi,Kerala,20,Online,False
+MERCH_0616,PVR Cinemas Outlet 566,Entertainment,Ahmedabad,Gujarat,27,Hybrid,False
+MERCH_0617,Flipkart Outlet 223,Shopping,Kochi,Kerala,33,Online,False
+MERCH_0618,Subway Outlet 635,Food,Lucknow,Uttar Pradesh,22,Retail,True
+MERCH_0619,Hindustan Petroleum Outlet 488,Fuel,Kolkata,West Bengal,22,Retail,True
+MERCH_0620,Zara Outlet 172,Shopping,Pune,Maharashtra,34,Online,False
+MERCH_0621,Housing Rent Transfer Outlet 384,Rent,Trivandrum,Kerala,24,Retail,True
+MERCH_0622,Jio Fiber Outlet 932,Utility,Hyderabad,Telangana,42,Online,False
+MERCH_0623,Zepto Outlet 920,Grocery,Kanpur,Uttar Pradesh,13,Online,False
+MERCH_0624,BESCOM Outlet 48,Utility,Delhi,Delhi,33,Online,True
+MERCH_0625,BESCOM Outlet 420,Utility,Mumbai,Maharashtra,35,Online,False
+MERCH_0626,Society Maintenance Outlet 980,Rent,Lucknow,Uttar Pradesh,5,Retail,True
+MERCH_0627,Hardware Store Outlet 624,Other,Mumbai,Maharashtra,42,Hybrid,True
+MERCH_0628,DMart Outlet 135,Grocery,Surat,Gujarat,14,Online,False
+MERCH_0629,More Retail Outlet 198,Grocery,Kolkata,West Bengal,40,Retail,False
+MERCH_0630,Gift Gallery Outlet 698,Other,Nagpur,Maharashtra,30,Online,False
+MERCH_0631,Indraprastha Gas Outlet 264,Utility,Surat,Gujarat,9,Online,False
+MERCH_0632,Pizza Hut Outlet 268,Food,Kochi,Kerala,17,Hybrid,False
+MERCH_0633,More Retail Outlet 164,Grocery,Mysore,Karnataka,42,Retail,False
+MERCH_0634,Apollo Pharmacy Outlet 638,Healthcare,Hyderabad,Telangana,25,Hybrid,False
+MERCH_0635,Shell Petrol Outlet 273,Fuel,Udaipur,Rajasthan,33,Retail,True
+MERCH_0636,Adani Electricity Outlet 806,Utility,Kanpur,Uttar Pradesh,41,Online,False
+MERCH_0637,DPS School Outlet 857,Education,Mysore,Karnataka,42,Hybrid,False
+MERCH_0638,CCD Outlet 82,Food,Jaipur,Rajasthan,32,Hybrid,False
+MERCH_0639,Municipal Water Outlet 51,Utility,Delhi,Delhi,6,Online,False
+MERCH_0640,Housing Rent Transfer Outlet 608,Rent,Kolkata,West Bengal,29,Retail,False
+MERCH_0641,Westside Outlet 335,Shopping,Trivandrum,Kerala,22,Hybrid,False
+MERCH_0642,Nykaa Outlet 413,Shopping,Hyderabad,Telangana,24,Online,True
+MERCH_0643,Housing Rent Transfer Outlet 126,Rent,Kochi,Kerala,7,Retail,False
+MERCH_0644,Practo Outlet 969,Healthcare,Surat,Gujarat,17,Online,True
+MERCH_0645,BESCOM Outlet 545,Utility,Delhi,Delhi,20,Online,False
+MERCH_0646,Shoppers Stop Outlet 788,Shopping,Mumbai,Maharashtra,8,Hybrid,False
+MERCH_0647,Groww SIP Digital,Investment,Ahmedabad,Gujarat,43,Online,False
+MERCH_0648,Spotify Outlet 324,Entertainment,Hyderabad,Telangana,11,Online,False
+MERCH_0649,Bharat Petroleum Outlet 904,Fuel,Hyderabad,Telangana,24,Retail,False
+MERCH_0650,Microsoft 365 Digital,Subscription,Mumbai,Maharashtra,39,Online,True
+MERCH_0651,Amity University Outlet 738,Education,Kanpur,Uttar Pradesh,5,Online,True
+MERCH_0652,Decathlon Outlet 628,Shopping,Jaipur,Rajasthan,40,Online,True
+MERCH_0653,Udemy Outlet 543,Education,Pune,Maharashtra,43,Hybrid,False
+MERCH_0654,Westside Outlet 606,Shopping,Noida,Uttar Pradesh,35,Hybrid,False
+MERCH_0655,LIC India Outlet 110,Insurance,Pune,Maharashtra,18,Hybrid,False
+MERCH_0656,Municipal Water Outlet 963,Utility,Lucknow,Uttar Pradesh,6,Online,True
+MERCH_0657,Housing Rent Transfer Outlet 603,Rent,Kanpur,Uttar Pradesh,33,Retail,True
+MERCH_0658,Spotify Family Digital,Subscription,Bangalore,Karnataka,36,Online,False
+MERCH_0659,Reliance Petroleum Outlet 371,Fuel,Coimbatore,Tamil Nadu,40,Retail,False
+MERCH_0660,DPS School Outlet 902,Education,Chandigarh,Punjab,19,Retail,False
+MERCH_0661,NPS Contribution Digital,Investment,Delhi,Delhi,43,Online,False
+MERCH_0662,Social Outlet 71,Dining_Out,Kolkata,West Bengal,22,Retail,False
+MERCH_0663,Tata Power Outlet 322,Utility,Mysore,Karnataka,18,Online,False
+MERCH_0664,Shell Petrol Outlet 107,Fuel,Surat,Gujarat,9,Retail,False
+MERCH_0665,Tata Power Outlet 647,Utility,Nagpur,Maharashtra,16,Online,False
+MERCH_0666,DPS School Outlet 807,Education,Coimbatore,Tamil Nadu,7,Retail,False
+MERCH_0667,Mainland China Outlet 752,Dining_Out,Surat,Gujarat,27,Online,True
+MERCH_0668,Shoppers Stop Outlet 181,Shopping,Surat,Gujarat,36,Retail,False
+MERCH_0669,Bharat Petroleum Outlet 115,Fuel,Surat,Gujarat,29,Retail,False
+MERCH_0670,Spotify Outlet 463,Entertainment,Nagpur,Maharashtra,30,Online,False
+MERCH_0671,Hindustan Petroleum Outlet 197,Fuel,Noida,Uttar Pradesh,40,Retail,True
+MERCH_0672,DMart Outlet 606,Grocery,Delhi,Delhi,26,Online,True
+MERCH_0673,Nature's Basket Outlet 619,Grocery,Lucknow,Uttar Pradesh,24,Online,False
+MERCH_0674,Cred RentPay Outlet 905,Rent,Chennai,Tamil Nadu,31,Retail,False
+MERCH_0675,Social Outlet 691,Dining_Out,Hyderabad,Telangana,37,Hybrid,False
+MERCH_0676,Burger King Outlet 656,Food,Surat,Gujarat,32,Online,False
+MERCH_0677,Jio Fiber Outlet 543,Utility,Lucknow,Uttar Pradesh,37,Online,False
+MERCH_0678,NoBroker Rent Outlet 763,Rent,Trivandrum,Kerala,20,Retail,False
+MERCH_0679,Tata Power Outlet 762,Utility,Mysore,Karnataka,10,Online,False
+MERCH_0680,Adani Electricity Outlet 932,Utility,Coimbatore,Tamil Nadu,14,Online,False
+MERCH_0681,Groww SIP Digital,Investment,Mysore,Karnataka,10,Online,False
+MERCH_0682,Taj Dining Outlet 287,Dining_Out,Ludhiana,Punjab,11,Retail,False
+MERCH_0683,Indian Oil Outlet 403,Fuel,Trivandrum,Kerala,13,Retail,False
+MERCH_0684,DPS School Outlet 235,Education,Ludhiana,Punjab,39,Retail,False
+MERCH_0685,BESCOM Outlet 847,Utility,Kanpur,Uttar Pradesh,23,Online,False
+MERCH_0686,Simplilearn Outlet 469,Education,Bangalore,Karnataka,34,Online,False
+MERCH_0687,Microsoft 365 Digital,Subscription,Chandigarh,Punjab,6,Online,True
+MERCH_0688,Fortis Hospital Outlet 415,Healthcare,Delhi,Delhi,33,Hybrid,False
+MERCH_0689,Hardware Store Outlet 360,Other,Kolkata,West Bengal,20,Retail,True
+MERCH_0690,Social Outlet 673,Dining_Out,Pune,Maharashtra,44,Retail,False
+MERCH_0691,Indraprastha Gas Outlet 777,Utility,Kanpur,Uttar Pradesh,7,Online,False
+MERCH_0692,DAV College Outlet 608,Education,Trivandrum,Kerala,25,Hybrid,False
+MERCH_0693,H&M Outlet 565,Shopping,Delhi,Delhi,21,Hybrid,False
+MERCH_0694,Airtel Fiber Outlet 908,Utility,Surat,Gujarat,6,Online,False
+MERCH_0695,Max Life Insurance Outlet 402,Insurance,Trivandrum,Kerala,39,Hybrid,True
+MERCH_0696,Local Clinic Outlet 682,Healthcare,Hyderabad,Telangana,41,Hybrid,False
+MERCH_0697,Pet Shop Outlet 352,Other,Pune,Maharashtra,31,Hybrid,True
+MERCH_0698,Reliance Petroleum Outlet 67,Fuel,Bangalore,Karnataka,25,Retail,False
+MERCH_0699,Mutual Fund Direct Digital,Investment,Chandigarh,Punjab,36,Online,False
+MERCH_0700,BYJU'S Outlet 746,Education,Mumbai,Maharashtra,17,Hybrid,False
+MERCH_0701,Coursera Outlet 380,Education,Nagpur,Maharashtra,9,Retail,False
+MERCH_0702,Zerodha Fund Digital,Investment,Lucknow,Uttar Pradesh,24,Online,True
+MERCH_0703,Practo Outlet 170,Healthcare,Chennai,Tamil Nadu,24,Retail,False
+MERCH_0704,NPS Contribution Digital,Investment,Kolkata,West Bengal,36,Online,False
+MERCH_0705,Hardware Store Outlet 658,Other,Chennai,Tamil Nadu,17,Hybrid,False
+MERCH_0706,Hardware Store Outlet 840,Other,Bangalore,Karnataka,14,Retail,True
+MERCH_0707,Netflix Outlet 99,Entertainment,Bangalore,Karnataka,20,Hybrid,True
+MERCH_0708,Spencer's Outlet 766,Grocery,Udaipur,Rajasthan,37,Online,True
+MERCH_0709,PVR Cinemas Outlet 986,Entertainment,Udaipur,Rajasthan,34,Hybrid,False
+MERCH_0710,Apollo Clinic Outlet 475,Healthcare,Udaipur,Rajasthan,44,Retail,False
+MERCH_0711,Zerodha Fund Digital,Investment,Ludhiana,Punjab,39,Online,False
+MERCH_0712,Simplilearn Outlet 851,Education,Kolkata,West Bengal,15,Hybrid,False
+MERCH_0713,NPS Contribution Digital,Investment,Noida,Uttar Pradesh,20,Online,False
+MERCH_0714,Practo Outlet 533,Healthcare,Nagpur,Maharashtra,40,Online,True
+MERCH_0715,Decathlon Outlet 292,Shopping,Kochi,Kerala,13,Online,True
+MERCH_0716,Punjab Grill Outlet 975,Dining_Out,Hyderabad,Telangana,5,Online,True
+MERCH_0717,Local Kirana Outlet 919,Grocery,Hyderabad,Telangana,35,Hybrid,False
+MERCH_0718,Tata Power Outlet 919,Utility,Chennai,Tamil Nadu,28,Online,False
+MERCH_0719,Housing Rent Transfer Outlet 196,Rent,Kochi,Kerala,22,Retail,False
+MERCH_0720,Spotify Family Digital,Subscription,Chennai,Tamil Nadu,26,Online,True
+MERCH_0721,Spotify Family Digital,Subscription,Ahmedabad,Gujarat,35,Online,False
+MERCH_0722,Uber Outlet 412,Travel,Surat,Gujarat,41,Online,False
+MERCH_0723,DMart Outlet 93,Grocery,Lucknow,Uttar Pradesh,26,Retail,True
+MERCH_0724,NoBroker Rent Outlet 892,Rent,Ahmedabad,Gujarat,6,Retail,False
+MERCH_0725,Housing Rent Transfer Outlet 283,Rent,Chandigarh,Punjab,14,Retail,False
+MERCH_0726,Cred RentPay Outlet 885,Rent,Surat,Gujarat,43,Retail,False
+MERCH_0727,Cred RentPay Outlet 802,Rent,Trivandrum,Kerala,19,Retail,False
+MERCH_0728,Shell Petrol Outlet 381,Fuel,Surat,Gujarat,92,Retail,False
+MERCH_0729,Disney VIP Digital,Subscription,Chennai,Tamil Nadu,39,Online,False
+MERCH_0730,Reliance Fresh Outlet 977,Grocery,Ludhiana,Punjab,21,Hybrid,True
+MERCH_0731,Zara Outlet 727,Shopping,Nagpur,Maharashtra,16,Online,False
+MERCH_0732,Salon & Spa Outlet 858,Other,Hyderabad,Telangana,18,Retail,False
+MERCH_0733,SBI General Insurance Outlet 353,Insurance,Mysore,Karnataka,28,Online,True
+MERCH_0734,Flipkart Outlet 689,Shopping,Lucknow,Uttar Pradesh,91,Retail,True
+MERCH_0735,Local Kirana Outlet 372,Grocery,Chennai,Tamil Nadu,27,Online,False
+MERCH_0736,Westside Outlet 684,Shopping,Kochi,Kerala,32,Hybrid,False
+MERCH_0737,Nature's Basket Outlet 657,Grocery,Kolkata,West Bengal,12,Hybrid,False
+MERCH_0738,Zomato Outlet 363,Food,Chennai,Tamil Nadu,30,Online,False
+MERCH_0739,Spotify Outlet 945,Entertainment,Hyderabad,Telangana,32,Hybrid,False
+MERCH_0740,More Retail Outlet 653,Grocery,Kolkata,West Bengal,29,Hybrid,False
+MERCH_0741,Hindustan Petroleum Outlet 885,Fuel,Lucknow,Uttar Pradesh,24,Retail,False
+MERCH_0742,Society Maintenance Outlet 844,Rent,Hyderabad,Telangana,11,Retail,True
+MERCH_0743,Social Outlet 530,Dining_Out,Kanpur,Uttar Pradesh,29,Retail,True
+MERCH_0744,Local Pub Outlet 128,Dining_Out,Lucknow,Uttar Pradesh,44,Retail,False
+MERCH_0745,Hard Rock Cafe Outlet 776,Dining_Out,Trivandrum,Kerala,18,Online,False
+MERCH_0746,Taj Dining Outlet 31,Dining_Out,Nagpur,Maharashtra,22,Hybrid,False
+MERCH_0747,Disney VIP Digital,Subscription,Mysore,Karnataka,44,Online,False
+MERCH_0748,Local Kirana Outlet 376,Grocery,Pune,Maharashtra,14,Retail,False
+MERCH_0749,Apollo Clinic Outlet 767,Healthcare,Mumbai,Maharashtra,44,Online,False
+MERCH_0750,Housing Rent Transfer Outlet 244,Rent,Kochi,Kerala,44,Retail,True
+MERCH_0751,Apollo Pharmacy Outlet 307,Healthcare,Pune,Maharashtra,27,Hybrid,False
+MERCH_0752,Salon & Spa Outlet 319,Other,Kochi,Kerala,7,Retail,True
+MERCH_0753,MedPlus Outlet 311,Healthcare,Ahmedabad,Gujarat,43,Hybrid,False
+MERCH_0754,Max Life Insurance Outlet 228,Insurance,Chennai,Tamil Nadu,19,Hybrid,False
+MERCH_0755,Gift Gallery Outlet 317,Other,Kanpur,Uttar Pradesh,37,Online,False
+MERCH_0756,Bharat Petroleum Outlet 862,Fuel,Bangalore,Karnataka,17,Retail,True
+MERCH_0757,Gift Gallery Outlet 401,Other,Kolkata,West Bengal,7,Hybrid,False
+MERCH_0758,Coursera Outlet 186,Education,Ahmedabad,Gujarat,40,Hybrid,False
+MERCH_0759,LIC India Outlet 65,Insurance,Delhi,Delhi,16,Hybrid,False
+MERCH_0760,Gift Gallery Outlet 244,Other,Delhi,Delhi,11,Retail,False
+MERCH_0761,Apollo Pharmacy Outlet 579,Healthcare,Hyderabad,Telangana,43,Retail,False
+MERCH_0762,Tata Power Outlet 242,Utility,Pune,Maharashtra,40,Online,False
+MERCH_0763,Starbucks Outlet 150,Food,Chandigarh,Punjab,31,Hybrid,True
+MERCH_0764,Local Tailor Outlet 285,Other,Kolkata,West Bengal,13,Hybrid,False
+MERCH_0765,SBI General Insurance Outlet 674,Insurance,Jaipur,Rajasthan,35,Online,False
+MERCH_0766,NoBroker Rent Outlet 398,Rent,Jaipur,Rajasthan,29,Retail,True
+MERCH_0767,Spotify Outlet 431,Entertainment,Nagpur,Maharashtra,43,Online,False
+MERCH_0768,Decathlon Outlet 986,Shopping,Kochi,Kerala,21,Retail,False
+MERCH_0769,SBI General Insurance Outlet 761,Insurance,Chennai,Tamil Nadu,33,Retail,False
+MERCH_0770,Haldirams Outlet 385,Food,Chennai,Tamil Nadu,33,Online,False
+MERCH_0771,Hardware Store Outlet 453,Other,Surat,Gujarat,19,Online,False
+MERCH_0772,Netflix Premium Digital,Subscription,Hyderabad,Telangana,36,Online,False
+MERCH_0773,Society Maintenance Outlet 172,Rent,Pune,Maharashtra,9,Retail,False
+MERCH_0774,DAV College Outlet 867,Education,Kochi,Kerala,14,Online,False
+MERCH_0775,Disney VIP Digital,Subscription,Kochi,Kerala,13,Online,True
+MERCH_0776,Zara Outlet 201,Shopping,Chennai,Tamil Nadu,18,Hybrid,True
+MERCH_0777,More Retail Outlet 113,Grocery,Mumbai,Maharashtra,38,Retail,False
+MERCH_0778,Subway Outlet 327,Food,Udaipur,Rajasthan,29,Online,False
+MERCH_0779,Ajio Outlet 427,Shopping,Noida,Uttar Pradesh,34,Online,False
+MERCH_0780,Punjab Grill Outlet 521,Dining_Out,Chandigarh,Punjab,31,Hybrid,False
+MERCH_0781,Domino's Outlet 712,Food,Kolkata,West Bengal,10,Hybrid,False
+MERCH_0782,Dry Cleaners Outlet 366,Other,Noida,Uttar Pradesh,16,Online,False
+MERCH_0783,Social Outlet 190,Dining_Out,Ludhiana,Punjab,10,Retail,False
+MERCH_0784,Cred RentPay Outlet 521,Rent,Noida,Uttar Pradesh,14,Retail,False
+MERCH_0785,Zomato Outlet 685,Food,Trivandrum,Kerala,28,Hybrid,True
+MERCH_0786,Dry Cleaners Outlet 218,Other,Hyderabad,Telangana,28,Hybrid,True
+MERCH_0787,Local Pub Outlet 461,Dining_Out,Delhi,Delhi,17,Hybrid,False
+MERCH_0788,Indian Oil Outlet 405,Fuel,Pune,Maharashtra,35,Retail,True
+MERCH_0789,Groww SIP Digital,Investment,Hyderabad,Telangana,15,Online,True
+MERCH_0790,Housing Rent Transfer Outlet 715,Rent,Kanpur,Uttar Pradesh,41,Retail,False
+MERCH_0791,Spotify Family Digital,Subscription,Hyderabad,Telangana,17,Online,False
+MERCH_0792,SBI General Insurance Outlet 993,Insurance,Mysore,Karnataka,76,Online,False
+MERCH_0793,H&M Outlet 715,Shopping,Ludhiana,Punjab,10,Online,False
+MERCH_0794,Mutual Fund Direct Digital,Investment,Hyderabad,Telangana,37,Online,False
+MERCH_0795,Flipkart Outlet 19,Shopping,Ahmedabad,Gujarat,17,Online,False
+MERCH_0796,Air India Outlet 475,Travel,Coimbatore,Tamil Nadu,31,Online,True
+MERCH_0797,Mutual Fund Direct Digital,Investment,Bangalore,Karnataka,21,Online,False
+MERCH_0798,Spencer's Outlet 863,Grocery,Bangalore,Karnataka,10,Online,False
+MERCH_0799,Indian Oil Outlet 675,Fuel,Hyderabad,Telangana,83,Retail,True
+MERCH_0800,ICICI Lombard Outlet 422,Insurance,Chennai,Tamil Nadu,29,Hybrid,False
+MERCH_0801,Gift Gallery Outlet 645,Other,Kolkata,West Bengal,31,Online,True
+MERCH_0802,Jio Fiber Outlet 420,Utility,Udaipur,Rajasthan,34,Online,False
+MERCH_0803,ICICI Lombard Outlet 165,Insurance,Surat,Gujarat,21,Online,False
+MERCH_0804,Netflix Outlet 457,Entertainment,Ahmedabad,Gujarat,38,Retail,False
+MERCH_0805,Disney VIP Digital,Subscription,Delhi,Delhi,27,Online,False
+MERCH_0806,NPS Contribution Digital,Investment,Mysore,Karnataka,26,Online,True
+MERCH_0807,Groww SIP Digital,Investment,Chennai,Tamil Nadu,42,Online,False
+MERCH_0808,Social Outlet 202,Dining_Out,Udaipur,Rajasthan,16,Retail,False
+MERCH_0809,Adani Electricity Outlet 560,Utility,Hyderabad,Telangana,35,Online,False
+MERCH_0810,Udemy Outlet 193,Education,Coimbatore,Tamil Nadu,14,Retail,False
+MERCH_0811,Hard Rock Cafe Outlet 424,Dining_Out,Mysore,Karnataka,15,Hybrid,False
+MERCH_0812,Youtube Premium Digital,Subscription,Mysore,Karnataka,11,Online,False
+MERCH_0813,Zoomcar Outlet 609,Travel,Pune,Maharashtra,38,Hybrid,False
+MERCH_0814,Westside Outlet 142,Shopping,Ahmedabad,Gujarat,5,Hybrid,False
+MERCH_0815,Uber Outlet 158,Travel,Delhi,Delhi,26,Retail,False
+MERCH_0816,LIC India Outlet 801,Insurance,Udaipur,Rajasthan,15,Hybrid,False
+MERCH_0817,Apollo Clinic Outlet 673,Healthcare,Pune,Maharashtra,5,Online,False
+MERCH_0818,Hard Rock Cafe Outlet 550,Dining_Out,Bangalore,Karnataka,43,Retail,False
+MERCH_0819,Cred RentPay Outlet 147,Rent,Kolkata,West Bengal,34,Retail,False
+MERCH_0820,Barbeque Nation Outlet 65,Dining_Out,Kolkata,West Bengal,34,Hybrid,True
+MERCH_0821,Housing Rent Transfer Outlet 543,Rent,Pune,Maharashtra,5,Retail,False
+MERCH_0822,Punjab Grill Outlet 901,Dining_Out,Chennai,Tamil Nadu,13,Online,False
+MERCH_0823,Spencer's Outlet 722,Grocery,Mysore,Karnataka,11,Online,False
+MERCH_0824,Mainland China Outlet 496,Dining_Out,Ludhiana,Punjab,21,Retail,False
+MERCH_0825,Apollo Clinic Outlet 390,Healthcare,Mumbai,Maharashtra,24,Retail,True
+MERCH_0826,Airtel Fiber Outlet 46,Utility,Delhi,Delhi,17,Online,False
+MERCH_0827,MedPlus Outlet 185,Healthcare,Mumbai,Maharashtra,13,Hybrid,False
+MERCH_0828,Groww SIP Digital,Investment,Mumbai,Maharashtra,13,Online,False
+MERCH_0829,DPS School Outlet 626,Education,Coimbatore,Tamil Nadu,27,Online,True
+MERCH_0830,H&M Outlet 171,Shopping,Coimbatore,Tamil Nadu,37,Hybrid,False
+MERCH_0831,Bharat Petroleum Outlet 178,Fuel,Udaipur,Rajasthan,19,Retail,False
+MERCH_0832,Shell Petrol Outlet 717,Fuel,Kanpur,Uttar Pradesh,20,Retail,False
+MERCH_0833,Jio Fiber Outlet 550,Utility,Chandigarh,Punjab,43,Online,False
+MERCH_0834,Indian Oil Outlet 792,Fuel,Delhi,Delhi,24,Retail,False
+MERCH_0835,Reliance Fresh Outlet 363,Grocery,Hyderabad,Telangana,24,Online,True
+MERCH_0836,Indian Oil Outlet 549,Fuel,Kanpur,Uttar Pradesh,21,Retail,True
+MERCH_0837,SBI General Insurance Outlet 805,Insurance,Kolkata,West Bengal,35,Online,False
+MERCH_0838,Jio Fiber Outlet 726,Utility,Chandigarh,Punjab,34,Online,True
+MERCH_0839,Zoomcar Outlet 139,Travel,Bangalore,Karnataka,40,Retail,False
+MERCH_0840,Barbeque Nation Outlet 991,Dining_Out,Surat,Gujarat,14,Retail,False
+MERCH_0841,DMart Outlet 359,Grocery,Pune,Maharashtra,20,Online,False
+MERCH_0842,Zepto Outlet 949,Grocery,Chennai,Tamil Nadu,9,Retail,False
+MERCH_0843,Nykaa Outlet 308,Shopping,Kochi,Kerala,22,Online,False
+MERCH_0844,Local Kirana Outlet 887,Grocery,Ludhiana,Punjab,8,Online,False
+MERCH_0845,ICICI Lombard Outlet 611,Insurance,Lucknow,Uttar Pradesh,21,Hybrid,False
+MERCH_0846,Subway Outlet 840,Food,Ahmedabad,Gujarat,29,Hybrid,False
+MERCH_0847,Indraprastha Gas Outlet 354,Utility,Ludhiana,Punjab,40,Online,False
+MERCH_0848,Udemy Outlet 715,Education,Kanpur,Uttar Pradesh,17,Hybrid,False
+MERCH_0849,Salon & Spa Outlet 425,Other,Pune,Maharashtra,6,Retail,True
+MERCH_0850,MedPlus Outlet 165,Healthcare,Bangalore,Karnataka,14,Hybrid,False
+MERCH_0851,HDFC Ergo Outlet 952,Insurance,Ahmedabad,Gujarat,16,Online,False
+MERCH_0852,Social Outlet 340,Dining_Out,Coimbatore,Tamil Nadu,22,Hybrid,False
+MERCH_0853,Subway Outlet 40,Food,Chennai,Tamil Nadu,87,Retail,False
+MERCH_0854,AngelOne Deposit Digital,Investment,Chennai,Tamil Nadu,35,Online,False
+MERCH_0855,Gift Gallery Outlet 474,Other,Delhi,Delhi,13,Retail,False
+MERCH_0856,Microsoft 365 Digital,Subscription,Ahmedabad,Gujarat,15,Online,False
+MERCH_0857,Nykaa Outlet 445,Shopping,Kochi,Kerala,15,Online,False
+MERCH_0858,Zoomcar Outlet 86,Travel,Kanpur,Uttar Pradesh,42,Retail,True
+MERCH_0859,Youtube Premium Digital,Subscription,Ludhiana,Punjab,17,Online,False
+MERCH_0860,Bharat Petroleum Outlet 787,Fuel,Jaipur,Rajasthan,37,Retail,False
+MERCH_0861,MakeMyTrip Outlet 922,Travel,Jaipur,Rajasthan,20,Retail,True
+MERCH_0862,Society Maintenance Outlet 765,Rent,Nagpur,Maharashtra,24,Retail,False
+MERCH_0863,Indian Oil Outlet 72,Fuel,Ahmedabad,Gujarat,37,Retail,False
+MERCH_0864,Dry Cleaners Outlet 264,Other,Udaipur,Rajasthan,19,Hybrid,True
+MERCH_0865,Indraprastha Gas Outlet 73,Utility,Mysore,Karnataka,15,Online,False
+MERCH_0866,Simplilearn Outlet 959,Education,Ludhiana,Punjab,24,Online,False
+MERCH_0867,LIC India Outlet 875,Insurance,Bangalore,Karnataka,29,Retail,True
+MERCH_0868,MakeMyTrip Outlet 671,Travel,Nagpur,Maharashtra,18,Retail,False
+MERCH_0869,BigBasket Outlet 19,Grocery,Noida,Uttar Pradesh,5,Hybrid,False
+MERCH_0870,Housing Rent Transfer Outlet 142,Rent,Hyderabad,Telangana,33,Retail,False
+MERCH_0871,Shell Petrol Outlet 167,Fuel,Kochi,Kerala,13,Retail,True
+MERCH_0872,Adani Electricity Outlet 32,Utility,Trivandrum,Kerala,17,Online,False
+MERCH_0873,MakeMyTrip Outlet 559,Travel,Delhi,Delhi,13,Online,False
+MERCH_0874,AngelOne Deposit Digital,Investment,Surat,Gujarat,37,Online,False
+MERCH_0875,Airtel Fiber Outlet 157,Utility,Coimbatore,Tamil Nadu,15,Online,False
+MERCH_0876,Microsoft 365 Digital,Subscription,Kochi,Kerala,25,Online,False
+MERCH_0877,DAV College Outlet 315,Education,Nagpur,Maharashtra,18,Online,True
+MERCH_0878,Society Maintenance Outlet 846,Rent,Bangalore,Karnataka,23,Retail,False
+MERCH_0879,HDFC Ergo Outlet 153,Insurance,Mumbai,Maharashtra,5,Retail,False
+MERCH_0880,Dry Cleaners Outlet 952,Other,Surat,Gujarat,33,Hybrid,False
+MERCH_0881,Social Outlet 907,Dining_Out,Kolkata,West Bengal,12,Hybrid,False
+MERCH_0882,Salon & Spa Outlet 371,Other,Mumbai,Maharashtra,36,Online,False
+MERCH_0883,Burger King Outlet 224,Food,Kochi,Kerala,6,Hybrid,True
+MERCH_0884,Fortis Hospital Outlet 196,Healthcare,Lucknow,Uttar Pradesh,31,Online,False
+MERCH_0885,Netflix Premium Digital,Subscription,Noida,Uttar Pradesh,14,Online,False
+MERCH_0886,Groww SIP Digital,Investment,Lucknow,Uttar Pradesh,10,Online,False
+MERCH_0887,Inox Outlet 63,Entertainment,Kochi,Kerala,11,Retail,False
+MERCH_0888,Jio Fiber Outlet 304,Utility,Bangalore,Karnataka,19,Online,False
+MERCH_0889,Max Healthcare Outlet 845,Healthcare,Lucknow,Uttar Pradesh,32,Hybrid,False
+MERCH_0890,Mutual Fund Direct Digital,Investment,Ludhiana,Punjab,34,Online,True
+MERCH_0891,CCD Outlet 583,Food,Chandigarh,Punjab,11,Retail,False
+MERCH_0892,H&M Outlet 928,Shopping,Kolkata,West Bengal,13,Hybrid,False
+MERCH_0893,Groww SIP Digital,Investment,Nagpur,Maharashtra,25,Online,False
+MERCH_0894,BYJU'S Outlet 792,Education,Mysore,Karnataka,25,Online,False
+MERCH_0895,Barbeque Nation Outlet 421,Dining_Out,Trivandrum,Kerala,19,Retail,False
+MERCH_0896,ICICI Lombard Outlet 594,Insurance,Bangalore,Karnataka,42,Retail,False
+MERCH_0897,AngelOne Deposit Digital,Investment,Coimbatore,Tamil Nadu,10,Online,False
+MERCH_0898,Apollo Clinic Outlet 22,Healthcare,Ahmedabad,Gujarat,23,Online,False
+MERCH_0899,Social Outlet 694,Dining_Out,Udaipur,Rajasthan,40,Retail,False
+MERCH_0900,MakeMyTrip Flights Outlet 339,Travel,Nagpur,Maharashtra,29,Online,False
+MERCH_0901,Fortis Hospital Outlet 548,Healthcare,Chandigarh,Punjab,43,Hybrid,False
+MERCH_0902,DPS School Outlet 828,Education,Lucknow,Uttar Pradesh,23,Hybrid,True
+MERCH_0903,Indraprastha Gas Outlet 343,Utility,Noida,Uttar Pradesh,34,Online,False
+MERCH_0904,BookMyShow Outlet 296,Entertainment,Kochi,Kerala,28,Retail,True
+MERCH_0905,Zerodha Fund Digital,Investment,Delhi,Delhi,9,Online,True
+MERCH_0906,BookMyShow Outlet 56,Entertainment,Lucknow,Uttar Pradesh,15,Online,False
+MERCH_0907,Microsoft 365 Digital,Subscription,Coimbatore,Tamil Nadu,22,Online,True
+MERCH_0908,Mutual Fund Direct Digital,Investment,Kolkata,West Bengal,35,Online,False
+MERCH_0909,Disney+ Hotstar Outlet 451,Entertainment,Lucknow,Uttar Pradesh,18,Hybrid,False
+MERCH_0910,Fortis Hospital Outlet 174,Healthcare,Mysore,Karnataka,43,Hybrid,False
+MERCH_0911,KFC Outlet 525,Food,Mumbai,Maharashtra,26,Hybrid,False
+MERCH_0912,LIC India Outlet 685,Insurance,Lucknow,Uttar Pradesh,25,Online,False
+MERCH_0913,NoBroker Rent Outlet 394,Rent,Mysore,Karnataka,93,Retail,True
+MERCH_0914,Pet Shop Outlet 891,Other,Kochi,Kerala,9,Retail,False
+MERCH_0915,Spencer's Outlet 947,Grocery,Kanpur,Uttar Pradesh,21,Retail,False
+MERCH_0916,Zerodha Fund Digital,Investment,Mumbai,Maharashtra,42,Online,True
+MERCH_0917,Society Maintenance Outlet 426,Rent,Bangalore,Karnataka,34,Retail,False
+MERCH_0918,Apollo Pharmacy Outlet 440,Healthcare,Mumbai,Maharashtra,28,Retail,True
+MERCH_0919,Coursera Outlet 681,Education,Kolkata,West Bengal,23,Hybrid,False
+MERCH_0920,Local Kirana Outlet 961,Grocery,Noida,Uttar Pradesh,40,Online,False
+MERCH_0921,iCloud Storage Digital,Subscription,Kochi,Kerala,8,Online,True
+MERCH_0922,HDFC Ergo Outlet 280,Insurance,Mumbai,Maharashtra,24,Retail,False
+MERCH_0923,Flipkart Outlet 74,Shopping,Coimbatore,Tamil Nadu,21,Retail,False
+MERCH_0924,AngelOne Deposit Digital,Investment,Kolkata,West Bengal,35,Online,True
+MERCH_0925,Local Tailor Outlet 246,Other,Nagpur,Maharashtra,25,Retail,False
+MERCH_0926,MakeMyTrip Flights Outlet 768,Travel,Ahmedabad,Gujarat,40,Retail,False
+MERCH_0927,Local Tailor Outlet 502,Other,Ahmedabad,Gujarat,42,Retail,False
+MERCH_0928,Hard Rock Cafe Outlet 558,Dining_Out,Udaipur,Rajasthan,8,Online,True
+MERCH_0929,Air India Outlet 131,Travel,Noida,Uttar Pradesh,26,Hybrid,False
+MERCH_0930,Max Healthcare Outlet 458,Healthcare,Surat,Gujarat,41,Retail,False
+MERCH_0931,Nykaa Outlet 966,Shopping,Coimbatore,Tamil Nadu,20,Hybrid,False
+MERCH_0932,Spotify Family Digital,Subscription,Kolkata,West Bengal,21,Online,True
+MERCH_0933,ICICI Lombard Outlet 662,Insurance,Ludhiana,Punjab,23,Online,False
+MERCH_0934,Flipkart Outlet 582,Shopping,Pune,Maharashtra,15,Hybrid,True
+MERCH_0935,Housing Rent Transfer Outlet 775,Rent,Hyderabad,Telangana,18,Retail,True
+MERCH_0936,Barbeque Nation Outlet 132,Dining_Out,Mysore,Karnataka,13,Retail,False
+MERCH_0937,Disney VIP Digital,Subscription,Bangalore,Karnataka,40,Online,False
+MERCH_0938,PVR Cinemas Outlet 666,Entertainment,Hyderabad,Telangana,16,Online,False
+MERCH_0939,Shell Petrol Outlet 347,Fuel,Ahmedabad,Gujarat,36,Retail,False
+MERCH_0940,Salon & Spa Outlet 77,Other,Trivandrum,Kerala,8,Hybrid,True
+MERCH_0941,Social Outlet 696,Dining_Out,Kolkata,West Bengal,22,Online,False
+MERCH_0942,Bharat Petroleum Outlet 488,Fuel,Surat,Gujarat,7,Retail,False
+MERCH_0943,Coursera Outlet 109,Education,Delhi,Delhi,31,Online,False
+MERCH_0944,Local Pub Outlet 862,Dining_Out,Coimbatore,Tamil Nadu,25,Online,True
+MERCH_0945,Bharat Petroleum Outlet 50,Fuel,Nagpur,Maharashtra,15,Retail,True
+MERCH_0946,Netflix Outlet 460,Entertainment,Mumbai,Maharashtra,23,Retail,False
+MERCH_0947,LIC India Outlet 962,Insurance,Udaipur,Rajasthan,37,Online,False
+MERCH_0948,Spotify Family Digital,Subscription,Mysore,Karnataka,37,Online,False
+MERCH_0949,Local Tailor Outlet 121,Other,Udaipur,Rajasthan,14,Retail,False
+MERCH_0950,AngelOne Deposit Digital,Investment,Chandigarh,Punjab,32,Online,False
+MERCH_0951,Zerodha Fund Digital,Investment,Pune,Maharashtra,9,Online,False
+MERCH_0952,Smaaash Outlet 712,Entertainment,Jaipur,Rajasthan,34,Retail,True
+MERCH_0953,Indian Oil Outlet 974,Fuel,Noida,Uttar Pradesh,12,Retail,False
+MERCH_0954,Zepto Outlet 938,Grocery,Bangalore,Karnataka,30,Online,False
+MERCH_0955,Westside Outlet 170,Shopping,Mumbai,Maharashtra,20,Online,False
+MERCH_0956,Local Clinic Outlet 227,Healthcare,Chandigarh,Punjab,16,Online,False
+MERCH_0957,Punjab Grill Outlet 124,Dining_Out,Coimbatore,Tamil Nadu,20,Retail,False
+MERCH_0958,Social Outlet 490,Dining_Out,Chandigarh,Punjab,17,Retail,False
+MERCH_0959,Salon & Spa Outlet 668,Other,Lucknow,Uttar Pradesh,37,Online,False
+MERCH_0960,Ola Outlet 819,Travel,Bangalore,Karnataka,29,Online,True
+MERCH_0961,ICICI Lombard Outlet 499,Insurance,Coimbatore,Tamil Nadu,10,Online,False
+MERCH_0962,Ajio Outlet 359,Shopping,Kochi,Kerala,22,Retail,False
+MERCH_0963,Apollo Pharmacy Outlet 744,Healthcare,Bangalore,Karnataka,37,Hybrid,False
+MERCH_0964,Westside Outlet 481,Shopping,Udaipur,Rajasthan,36,Hybrid,False
+MERCH_0965,Amazon Prime Outlet 277,Entertainment,Ahmedabad,Gujarat,36,Online,False
+MERCH_0966,Flipkart Outlet 28,Shopping,Kochi,Kerala,18,Online,False
+MERCH_0967,ICICI Lombard Outlet 484,Insurance,Ahmedabad,Gujarat,37,Hybrid,False
+MERCH_0968,Coursera Outlet 466,Education,Noida,Uttar Pradesh,12,Retail,False
+MERCH_0969,Zomato Outlet 213,Food,Mysore,Karnataka,9,Hybrid,False
+MERCH_0970,Starbucks Outlet 842,Food,Ludhiana,Punjab,12,Hybrid,True
+MERCH_0971,Jio Fiber Outlet 704,Utility,Chennai,Tamil Nadu,35,Online,False
+MERCH_0972,Zerodha Fund Digital,Investment,Hyderabad,Telangana,20,Online,False
+MERCH_0973,Disney+ Hotstar Outlet 756,Entertainment,Trivandrum,Kerala,29,Retail,False
+MERCH_0974,MakeMyTrip Outlet 750,Travel,Jaipur,Rajasthan,9,Online,False
+MERCH_0975,CCD Outlet 223,Food,Chandigarh,Punjab,13,Online,False
+MERCH_0976,AngelOne Deposit Digital,Investment,Delhi,Delhi,38,Online,False
+MERCH_0977,SBI General Insurance Outlet 32,Insurance,Hyderabad,Telangana,27,Hybrid,True
+MERCH_0978,DPS School Outlet 793,Education,Coimbatore,Tamil Nadu,41,Online,False
+MERCH_0979,Burger King Outlet 895,Food,Delhi,Delhi,6,Retail,True
+MERCH_0980,Decathlon Outlet 68,Shopping,Mumbai,Maharashtra,8,Online,False
+MERCH_0981,Zerodha Fund Digital,Investment,Hyderabad,Telangana,9,Online,False
+MERCH_0982,DAV College Outlet 98,Education,Ludhiana,Punjab,6,Retail,False
+MERCH_0983,Salon & Spa Outlet 86,Other,Jaipur,Rajasthan,12,Hybrid,False
+MERCH_0984,Booking.com Outlet 531,Travel,Mumbai,Maharashtra,17,Online,True
+MERCH_0985,Hard Rock Cafe Outlet 464,Dining_Out,Delhi,Delhi,44,Hybrid,True
+MERCH_0986,Inox Outlet 340,Entertainment,Ahmedabad,Gujarat,42,Online,False
+MERCH_0987,Netflix Premium Digital,Subscription,Ludhiana,Punjab,19,Online,False
+MERCH_0988,Mainland China Outlet 99,Dining_Out,Kanpur,Uttar Pradesh,24,Online,False
+MERCH_0989,Hindustan Petroleum Outlet 608,Fuel,Udaipur,Rajasthan,43,Retail,False
+MERCH_0990,Air India Outlet 616,Travel,Coimbatore,Tamil Nadu,18,Hybrid,True
+MERCH_0991,Westside Outlet 633,Shopping,Bangalore,Karnataka,10,Retail,True
+MERCH_0992,NPS Contribution Digital,Investment,Ludhiana,Punjab,23,Online,True
+MERCH_0993,Flipkart Outlet 561,Shopping,Mysore,Karnataka,15,Online,False
+MERCH_0994,Society Maintenance Outlet 785,Rent,Delhi,Delhi,13,Retail,False
+MERCH_0995,Gift Gallery Outlet 766,Other,Trivandrum,Kerala,23,Retail,True
+MERCH_0996,Microsoft 365 Digital,Subscription,Ludhiana,Punjab,6,Online,True
+MERCH_0997,Groww SIP Digital,Investment,Kolkata,West Bengal,16,Online,False
+MERCH_0998,Hardware Store Outlet 815,Other,Mumbai,Maharashtra,26,Online,False
+MERCH_0999,Flipkart Outlet 637,Shopping,Kanpur,Uttar Pradesh,12,Online,False
+MERCH_1000,Microsoft 365 Digital,Subscription,Hyderabad,Telangana,36,Online,False
+MERCH_1001,DPS School Outlet 312,Education,Mumbai,Maharashtra,9,Retail,True
+MERCH_1002,BESCOM Outlet 110,Utility,Hyderabad,Telangana,17,Online,False
+MERCH_1003,Max Healthcare Outlet 290,Healthcare,Surat,Gujarat,77,Hybrid,False
+MERCH_1004,Taj Dining Outlet 95,Dining_Out,Jaipur,Rajasthan,70,Hybrid,False
+MERCH_1005,Netflix Premium Digital,Subscription,Delhi,Delhi,31,Online,True
+MERCH_1006,Zara Outlet 448,Shopping,Surat,Gujarat,37,Hybrid,True
+MERCH_1007,Udemy Outlet 854,Education,Lucknow,Uttar Pradesh,41,Hybrid,False
+MERCH_1008,HDFC Ergo Outlet 53,Insurance,Nagpur,Maharashtra,43,Online,False
+MERCH_1009,Reliance Fresh Outlet 226,Grocery,Bangalore,Karnataka,6,Online,False
+MERCH_1010,Cred RentPay Outlet 200,Rent,Chandigarh,Punjab,43,Retail,False
+MERCH_1011,Hindustan Petroleum Outlet 871,Fuel,Surat,Gujarat,8,Retail,False
+MERCH_1012,Indigo Outlet 744,Travel,Delhi,Delhi,5,Hybrid,False
+MERCH_1013,LIC India Outlet 391,Insurance,Udaipur,Rajasthan,39,Retail,False
+MERCH_1014,NoBroker Rent Outlet 961,Rent,Lucknow,Uttar Pradesh,20,Retail,True
+MERCH_1015,Zoomcar Outlet 307,Travel,Coimbatore,Tamil Nadu,44,Hybrid,False
+MERCH_1016,Spencer's Outlet 854,Grocery,Chennai,Tamil Nadu,35,Retail,True
+MERCH_1017,Netflix Premium Digital,Subscription,Mysore,Karnataka,14,Online,False
+MERCH_1018,Local Tailor Outlet 144,Other,Chandigarh,Punjab,11,Online,False
+MERCH_1019,Starbucks Outlet 984,Food,Udaipur,Rajasthan,85,Retail,False
+MERCH_1020,IRCTC Outlet 175,Travel,Ahmedabad,Gujarat,28,Hybrid,True
+MERCH_1021,Myntra Outlet 409,Shopping,Lucknow,Uttar Pradesh,41,Retail,True
+MERCH_1022,BYJU'S Outlet 768,Education,Nagpur,Maharashtra,39,Hybrid,False
+MERCH_1023,Simplilearn Outlet 920,Education,Trivandrum,Kerala,37,Hybrid,False
+MERCH_1024,Amazon Prime Outlet 136,Entertainment,Surat,Gujarat,33,Online,False
+MERCH_1025,Spotify Family Digital,Subscription,Mysore,Karnataka,19,Online,False
+MERCH_1026,CCD Outlet 422,Food,Jaipur,Rajasthan,42,Online,False
+MERCH_1027,Gift Gallery Outlet 925,Other,Ludhiana,Punjab,7,Online,True
+MERCH_1028,Indian Oil Outlet 477,Fuel,Udaipur,Rajasthan,27,Retail,False
+MERCH_1029,Gift Gallery Outlet 682,Other,Ludhiana,Punjab,33,Online,False
+MERCH_1030,Local Clinic Outlet 249,Healthcare,Kolkata,West Bengal,21,Online,False
+MERCH_1031,Mutual Fund Direct Digital,Investment,Udaipur,Rajasthan,23,Online,False
+MERCH_1032,Local Pub Outlet 675,Dining_Out,Lucknow,Uttar Pradesh,42,Hybrid,False
+MERCH_1033,Spencer's Outlet 487,Grocery,Ahmedabad,Gujarat,11,Online,False
+MERCH_1034,Netflix Outlet 649,Entertainment,Surat,Gujarat,33,Retail,True
+MERCH_1035,BESCOM Outlet 675,Utility,Bangalore,Karnataka,34,Online,False
+MERCH_1036,Cred RentPay Outlet 390,Rent,Noida,Uttar Pradesh,17,Retail,False
+MERCH_1037,Reliance Petroleum Outlet 100,Fuel,Chennai,Tamil Nadu,14,Retail,False
+MERCH_1038,Mainland China Outlet 447,Dining_Out,Chennai,Tamil Nadu,34,Retail,False
+MERCH_1039,NoBroker Rent Outlet 699,Rent,Coimbatore,Tamil Nadu,7,Retail,False
+MERCH_1040,Udemy Outlet 221,Education,Chandigarh,Punjab,33,Online,False
+MERCH_1041,Amity University Outlet 449,Education,Kochi,Kerala,6,Hybrid,True
+MERCH_1042,DAV College Outlet 781,Education,Noida,Uttar Pradesh,39,Retail,False
+MERCH_1043,MedPlus Outlet 911,Healthcare,Kolkata,West Bengal,14,Hybrid,False
+MERCH_1044,Booking.com Outlet 38,Travel,Coimbatore,Tamil Nadu,38,Online,True
+MERCH_1045,AngelOne Deposit Digital,Investment,Surat,Gujarat,33,Online,False
+MERCH_1046,SBI General Insurance Outlet 91,Insurance,Lucknow,Uttar Pradesh,31,Hybrid,False
+MERCH_1047,Adani Electricity Outlet 35,Utility,Lucknow,Uttar Pradesh,37,Online,False
+MERCH_1048,Pet Shop Outlet 714,Other,Chennai,Tamil Nadu,23,Online,False
+MERCH_1049,Hardware Store Outlet 328,Other,Jaipur,Rajasthan,10,Online,False
+MERCH_1050,iCloud Storage Digital,Subscription,Kochi,Kerala,25,Online,True
+MERCH_1051,Spencer's Outlet 58,Grocery,Kanpur,Uttar Pradesh,27,Retail,True
+MERCH_1052,Local Restaurant Outlet 587,Food,Coimbatore,Tamil Nadu,38,Hybrid,False
+MERCH_1053,Jio Fiber Outlet 706,Utility,Noida,Uttar Pradesh,40,Online,False
+MERCH_1054,Barbeque Nation Outlet 896,Dining_Out,Mysore,Karnataka,8,Retail,False
+MERCH_1055,IRCTC Outlet 419,Travel,Ahmedabad,Gujarat,7,Retail,True
+MERCH_1056,LIC India Outlet 829,Insurance,Ahmedabad,Gujarat,16,Retail,False
+MERCH_1057,Society Maintenance Outlet 677,Rent,Hyderabad,Telangana,40,Retail,False
+MERCH_1058,More Retail Outlet 436,Grocery,Kolkata,West Bengal,26,Hybrid,False
+MERCH_1059,Simplilearn Outlet 412,Education,Kanpur,Uttar Pradesh,22,Hybrid,False
+MERCH_1060,Cred RentPay Outlet 114,Rent,Delhi,Delhi,36,Retail,True
+MERCH_1061,Tata Power Outlet 70,Utility,Delhi,Delhi,13,Online,False
+MERCH_1062,Max Life Insurance Outlet 189,Insurance,Bangalore,Karnataka,13,Online,False
+MERCH_1063,Adani Electricity Outlet 646,Utility,Kolkata,West Bengal,14,Online,False
+MERCH_1064,Bharat Petroleum Outlet 463,Fuel,Lucknow,Uttar Pradesh,8,Retail,False
+MERCH_1065,Fortis Hospital Outlet 701,Healthcare,Nagpur,Maharashtra,40,Retail,False
+MERCH_1066,Housing Rent Transfer Outlet 28,Rent,Pune,Maharashtra,21,Retail,True
+MERCH_1067,H&M Outlet 872,Shopping,Ludhiana,Punjab,33,Hybrid,False
+MERCH_1068,Youtube Premium Digital,Subscription,Chennai,Tamil Nadu,10,Online,True
+MERCH_1069,Hard Rock Cafe Outlet 350,Dining_Out,Lucknow,Uttar Pradesh,94,Hybrid,True
+MERCH_1070,Bharat Petroleum Outlet 833,Fuel,Surat,Gujarat,11,Retail,False
+MERCH_1071,Airtel Fiber Outlet 19,Utility,Mysore,Karnataka,41,Online,True
+MERCH_1072,Subway Outlet 473,Food,Chennai,Tamil Nadu,33,Hybrid,False
+MERCH_1073,Cred RentPay Outlet 810,Rent,Chandigarh,Punjab,14,Retail,False
+MERCH_1074,Zomato Outlet 328,Food,Pune,Maharashtra,24,Hybrid,False
+MERCH_1075,Reliance Petroleum Outlet 261,Fuel,Surat,Gujarat,24,Retail,False
+MERCH_1076,Municipal Water Outlet 277,Utility,Trivandrum,Kerala,38,Online,True
+MERCH_1077,Local Tailor Outlet 483,Other,Nagpur,Maharashtra,19,Retail,False
+MERCH_1078,Ola Outlet 158,Travel,Hyderabad,Telangana,33,Retail,False
+MERCH_1079,Hindustan Petroleum Outlet 78,Fuel,Delhi,Delhi,39,Retail,False
+MERCH_1080,MedPlus Outlet 918,Healthcare,Lucknow,Uttar Pradesh,41,Online,False
+MERCH_1081,Pet Shop Outlet 701,Other,Chandigarh,Punjab,40,Online,False
+MERCH_1082,Apollo Pharmacy Outlet 945,Healthcare,Hyderabad,Telangana,35,Hybrid,False
+MERCH_1083,Hardware Store Outlet 220,Other,Kolkata,West Bengal,24,Online,False
+MERCH_1084,Netflix Outlet 191,Entertainment,Udaipur,Rajasthan,33,Retail,False
+MERCH_1085,Booking.com Outlet 732,Travel,Noida,Uttar Pradesh,37,Retail,False
+MERCH_1086,Amity University Outlet 665,Education,Ludhiana,Punjab,15,Online,False
+MERCH_1087,Adani Electricity Outlet 534,Utility,Surat,Gujarat,14,Online,False
+MERCH_1088,Apollo Clinic Outlet 46,Healthcare,Surat,Gujarat,44,Retail,True
+MERCH_1089,DPS School Outlet 880,Education,Kolkata,West Bengal,26,Hybrid,True
+MERCH_1090,Subway Outlet 815,Food,Ludhiana,Punjab,35,Hybrid,False
+MERCH_1091,BESCOM Outlet 603,Utility,Jaipur,Rajasthan,7,Online,False
+MERCH_1092,Local Pub Outlet 610,Dining_Out,Surat,Gujarat,43,Online,False
+MERCH_1093,Apollo Pharmacy Outlet 375,Healthcare,Bangalore,Karnataka,23,Online,True
+MERCH_1094,Microsoft 365 Digital,Subscription,Delhi,Delhi,10,Online,False
+MERCH_1095,Groww SIP Digital,Investment,Chandigarh,Punjab,8,Online,False
+MERCH_1096,Indian Oil Outlet 227,Fuel,Ahmedabad,Gujarat,31,Retail,True
+MERCH_1097,Subway Outlet 117,Food,Chennai,Tamil Nadu,18,Hybrid,False
+MERCH_1098,Tata Power Outlet 789,Utility,Mysore,Karnataka,33,Online,False
+MERCH_1099,Coursera Outlet 409,Education,Kochi,Kerala,74,Online,False
+MERCH_1100,Disney VIP Digital,Subscription,Coimbatore,Tamil Nadu,18,Online,True
+MERCH_1101,Domino's Outlet 807,Food,Lucknow,Uttar Pradesh,34,Retail,True
+MERCH_1102,Society Maintenance Outlet 236,Rent,Hyderabad,Telangana,22,Retail,True
+MERCH_1103,Local Pub Outlet 661,Dining_Out,Noida,Uttar Pradesh,32,Retail,False
+MERCH_1104,Zerodha Fund Digital,Investment,Surat,Gujarat,11,Online,True
+MERCH_1105,Hard Rock Cafe Outlet 749,Dining_Out,Ludhiana,Punjab,40,Retail,False
+MERCH_1106,NPS Contribution Digital,Investment,Trivandrum,Kerala,30,Online,False
+MERCH_1107,IRCTC Outlet 400,Travel,Bangalore,Karnataka,27,Retail,False
+MERCH_1108,Air India Outlet 309,Travel,Lucknow,Uttar Pradesh,31,Retail,True
+MERCH_1109,Spotify Family Digital,Subscription,Kanpur,Uttar Pradesh,36,Online,False
+MERCH_1110,Youtube Premium Digital,Subscription,Lucknow,Uttar Pradesh,40,Online,False
+MERCH_1111,Zerodha Fund Digital,Investment,Jaipur,Rajasthan,15,Online,True
+MERCH_1112,Max Healthcare Outlet 727,Healthcare,Jaipur,Rajasthan,31,Hybrid,True
+MERCH_1113,Housing Rent Transfer Outlet 566,Rent,Coimbatore,Tamil Nadu,37,Retail,False
+MERCH_1114,LIC India Outlet 601,Insurance,Chandigarh,Punjab,28,Online,False
+MERCH_1115,Amazon Prime Outlet 466,Entertainment,Lucknow,Uttar Pradesh,39,Online,True
+MERCH_1116,NPS Contribution Digital,Investment,Chennai,Tamil Nadu,18,Online,False
+MERCH_1117,Hindustan Petroleum Outlet 184,Fuel,Kanpur,Uttar Pradesh,37,Retail,True
+MERCH_1118,Ola Outlet 964,Travel,Mumbai,Maharashtra,43,Hybrid,False
+MERCH_1119,NPS Contribution Digital,Investment,Coimbatore,Tamil Nadu,40,Online,True
+MERCH_1120,Reliance Petroleum Outlet 498,Fuel,Udaipur,Rajasthan,40,Retail,True
+MERCH_1121,Apollo Clinic Outlet 486,Healthcare,Mumbai,Maharashtra,8,Online,True
+MERCH_1122,CCD Outlet 268,Food,Surat,Gujarat,35,Retail,False
+MERCH_1123,Zara Outlet 934,Shopping,Noida,Uttar Pradesh,26,Online,False
+MERCH_1124,Social Outlet 660,Dining_Out,Hyderabad,Telangana,9,Online,False
+MERCH_1125,BigBasket Outlet 925,Grocery,Lucknow,Uttar Pradesh,16,Retail,False
+MERCH_1126,Bharat Petroleum Outlet 499,Fuel,Kanpur,Uttar Pradesh,31,Retail,False
+MERCH_1127,Apollo Pharmacy Outlet 664,Healthcare,Trivandrum,Kerala,41,Online,True
+MERCH_1128,Microsoft 365 Digital,Subscription,Udaipur,Rajasthan,24,Online,False
+MERCH_1129,Max Healthcare Outlet 718,Healthcare,Mysore,Karnataka,44,Hybrid,False
+MERCH_1130,Uber Outlet 405,Travel,Surat,Gujarat,33,Online,False
+MERCH_1131,Pizza Hut Outlet 280,Food,Udaipur,Rajasthan,20,Hybrid,False
+MERCH_1132,Uber Outlet 102,Travel,Coimbatore,Tamil Nadu,13,Online,False
+MERCH_1133,Uber Outlet 894,Travel,Kolkata,West Bengal,9,Hybrid,True
+MERCH_1134,Netflix Premium Digital,Subscription,Delhi,Delhi,7,Online,True
+MERCH_1135,Housing Rent Transfer Outlet 859,Rent,Surat,Gujarat,24,Retail,True
+MERCH_1136,Barbeque Nation Outlet 621,Dining_Out,Noida,Uttar Pradesh,27,Retail,False
+MERCH_1137,Hindustan Petroleum Outlet 732,Fuel,Nagpur,Maharashtra,28,Retail,False
+MERCH_1138,AngelOne Deposit Digital,Investment,Ahmedabad,Gujarat,13,Online,False
+MERCH_1139,Local Pub Outlet 803,Dining_Out,Trivandrum,Kerala,27,Retail,True
+MERCH_1140,Netflix Premium Digital,Subscription,Lucknow,Uttar Pradesh,14,Online,False
+MERCH_1141,Reliance Petroleum Outlet 650,Fuel,Pune,Maharashtra,18,Retail,False
+MERCH_1142,Housing Rent Transfer Outlet 280,Rent,Udaipur,Rajasthan,5,Retail,False
+MERCH_1143,Hard Rock Cafe Outlet 667,Dining_Out,Kochi,Kerala,36,Online,False
+MERCH_1144,Municipal Water Outlet 977,Utility,Ludhiana,Punjab,26,Online,True
+MERCH_1145,AngelOne Deposit Digital,Investment,Ahmedabad,Gujarat,23,Online,False
+MERCH_1146,Cred RentPay Outlet 99,Rent,Jaipur,Rajasthan,8,Retail,False
+MERCH_1147,Starbucks Outlet 129,Food,Bangalore,Karnataka,5,Retail,True
+MERCH_1148,Society Maintenance Outlet 892,Rent,Surat,Gujarat,38,Retail,False
+MERCH_1149,MakeMyTrip Flights Outlet 896,Travel,Kanpur,Uttar Pradesh,6,Hybrid,False
+MERCH_1150,Hard Rock Cafe Outlet 958,Dining_Out,Kochi,Kerala,18,Retail,True
+MERCH_1151,Groww SIP Digital,Investment,Udaipur,Rajasthan,30,Online,False
+MERCH_1152,Inox Outlet 588,Entertainment,Hyderabad,Telangana,35,Retail,False
+MERCH_1153,Haldirams Outlet 494,Food,Kochi,Kerala,15,Hybrid,False
+MERCH_1154,BigBasket Outlet 269,Grocery,Bangalore,Karnataka,37,Retail,False
+MERCH_1155,Youtube Premium Digital,Subscription,Kolkata,West Bengal,95,Online,True
+MERCH_1156,Max Healthcare Outlet 341,Healthcare,Nagpur,Maharashtra,14,Retail,False
+MERCH_1157,Coursera Outlet 223,Education,Surat,Gujarat,31,Hybrid,False
+MERCH_1158,Society Maintenance Outlet 622,Rent,Pune,Maharashtra,38,Retail,False
+MERCH_1159,Social Outlet 924,Dining_Out,Chennai,Tamil Nadu,32,Online,False
+MERCH_1160,MakeMyTrip Outlet 865,Travel,Trivandrum,Kerala,37,Retail,False
+MERCH_1161,Spotify Family Digital,Subscription,Noida,Uttar Pradesh,28,Online,False
+MERCH_1162,AngelOne Deposit Digital,Investment,Chennai,Tamil Nadu,12,Online,False
+MERCH_1163,Youtube Premium Digital,Subscription,Ahmedabad,Gujarat,25,Online,False
+MERCH_1164,Disney+ Hotstar Outlet 775,Entertainment,Lucknow,Uttar Pradesh,16,Online,True
+MERCH_1165,Mainland China Outlet 588,Dining_Out,Lucknow,Uttar Pradesh,41,Retail,False
+MERCH_1166,Spotify Family Digital,Subscription,Kolkata,West Bengal,42,Online,True
+MERCH_1167,Spotify Outlet 231,Entertainment,Trivandrum,Kerala,35,Online,True
+MERCH_1168,NoBroker Rent Outlet 414,Rent,Mumbai,Maharashtra,25,Retail,False
+MERCH_1169,Salon & Spa Outlet 488,Other,Hyderabad,Telangana,26,Hybrid,False
+MERCH_1170,Jio Fiber Outlet 594,Utility,Udaipur,Rajasthan,34,Online,True
+MERCH_1171,AngelOne Deposit Digital,Investment,Lucknow,Uttar Pradesh,39,Online,True
+MERCH_1172,Jio Fiber Outlet 537,Utility,Noida,Uttar Pradesh,36,Online,False
+MERCH_1173,Reliance Fresh Outlet 67,Grocery,Ludhiana,Punjab,10,Hybrid,False
+MERCH_1174,ICICI Lombard Outlet 23,Insurance,Bangalore,Karnataka,38,Online,False
+MERCH_1175,BookMyShow Outlet 599,Entertainment,Udaipur,Rajasthan,37,Online,False
+MERCH_1176,Smaaash Outlet 249,Entertainment,Nagpur,Maharashtra,28,Retail,False
+MERCH_1177,Local Clinic Outlet 63,Healthcare,Mysore,Karnataka,15,Online,False
+MERCH_1178,Apollo Pharmacy Outlet 318,Healthcare,Ludhiana,Punjab,31,Retail,False
+MERCH_1179,Salon & Spa Outlet 112,Other,Jaipur,Rajasthan,34,Online,True
+MERCH_1180,Indigo Outlet 365,Travel,Pune,Maharashtra,87,Online,False
+MERCH_1181,Local Kirana Outlet 41,Grocery,Trivandrum,Kerala,26,Online,True
+MERCH_1182,Simplilearn Outlet 471,Education,Udaipur,Rajasthan,41,Hybrid,False
+MERCH_1183,LIC India Outlet 615,Insurance,Hyderabad,Telangana,30,Retail,False
+MERCH_1184,SBI General Insurance Outlet 535,Insurance,Trivandrum,Kerala,7,Online,False
+MERCH_1185,BigBasket Outlet 520,Grocery,Jaipur,Rajasthan,9,Hybrid,False
+MERCH_1186,Cred RentPay Outlet 324,Rent,Lucknow,Uttar Pradesh,35,Retail,True
+MERCH_1187,Local Restaurant Outlet 866,Food,Mumbai,Maharashtra,19,Retail,True
+MERCH_1188,Shoppers Stop Outlet 408,Shopping,Delhi,Delhi,8,Retail,False
+MERCH_1189,Hardware Store Outlet 240,Other,Kochi,Kerala,12,Retail,False
+MERCH_1190,Shell Petrol Outlet 962,Fuel,Pune,Maharashtra,8,Retail,False
+MERCH_1191,NoBroker Rent Outlet 551,Rent,Chennai,Tamil Nadu,42,Retail,False
+MERCH_1192,Smaaash Outlet 449,Entertainment,Udaipur,Rajasthan,44,Retail,False
+MERCH_1193,DPS School Outlet 489,Education,Surat,Gujarat,23,Online,True
+MERCH_1194,Indian Oil Outlet 281,Fuel,Mysore,Karnataka,27,Retail,True
+MERCH_1195,Disney+ Hotstar Outlet 837,Entertainment,Ahmedabad,Gujarat,40,Hybrid,True
+MERCH_1196,Gift Gallery Outlet 905,Other,Chandigarh,Punjab,44,Online,False
+MERCH_1197,Starbucks Outlet 245,Food,Lucknow,Uttar Pradesh,39,Retail,False
+MERCH_1198,Apollo Clinic Outlet 448,Healthcare,Ludhiana,Punjab,35,Online,True
+MERCH_1199,MakeMyTrip Outlet 473,Travel,Pune,Maharashtra,41,Online,False
+MERCH_1200,Indraprastha Gas Outlet 654,Utility,Chandigarh,Punjab,19,Online,False
+MERCH_1201,NoBroker Rent Outlet 958,Rent,Noida,Uttar Pradesh,42,Retail,True
+MERCH_1202,Domino's Outlet 742,Food,Lucknow,Uttar Pradesh,34,Online,False
+MERCH_1203,Simplilearn Outlet 621,Education,Jaipur,Rajasthan,32,Online,False
+MERCH_1204,Udemy Outlet 20,Education,Surat,Gujarat,18,Hybrid,False
+MERCH_1205,Zepto Outlet 282,Grocery,Nagpur,Maharashtra,8,Hybrid,False
+MERCH_1206,Hardware Store Outlet 958,Other,Trivandrum,Kerala,44,Online,False
+MERCH_1207,Bharat Petroleum Outlet 600,Fuel,Surat,Gujarat,19,Retail,False
+MERCH_1208,CCD Outlet 541,Food,Coimbatore,Tamil Nadu,27,Online,False
+MERCH_1209,LIC India Outlet 578,Insurance,Ludhiana,Punjab,17,Retail,True
+MERCH_1210,NoBroker Rent Outlet 874,Rent,Udaipur,Rajasthan,14,Retail,False
+MERCH_1211,iCloud Storage Digital,Subscription,Kochi,Kerala,31,Online,False
+MERCH_1212,Practo Outlet 71,Healthcare,Hyderabad,Telangana,11,Retail,False
+MERCH_1213,Indraprastha Gas Outlet 540,Utility,Coimbatore,Tamil Nadu,79,Online,False
+MERCH_1214,Amazon Outlet 671,Shopping,Jaipur,Rajasthan,5,Retail,False
+MERCH_1215,Flipkart Outlet 715,Shopping,Kanpur,Uttar Pradesh,7,Retail,False
+MERCH_1216,ICICI Lombard Outlet 365,Insurance,Pune,Maharashtra,18,Hybrid,False
+MERCH_1217,Bharat Petroleum Outlet 873,Fuel,Mysore,Karnataka,27,Retail,False
+MERCH_1218,Shell Petrol Outlet 601,Fuel,Kanpur,Uttar Pradesh,10,Retail,False
+MERCH_1219,Spotify Family Digital,Subscription,Coimbatore,Tamil Nadu,21,Online,False
+MERCH_1220,NoBroker Rent Outlet 380,Rent,Hyderabad,Telangana,16,Retail,True
+MERCH_1221,CCD Outlet 662,Food,Mysore,Karnataka,39,Online,False
+MERCH_1222,NPS Contribution Digital,Investment,Jaipur,Rajasthan,36,Online,False
+MERCH_1223,Youtube Premium Digital,Subscription,Trivandrum,Kerala,28,Online,True
+MERCH_1224,Zoomcar Outlet 260,Travel,Delhi,Delhi,10,Hybrid,False
+MERCH_1225,Municipal Water Outlet 847,Utility,Kanpur,Uttar Pradesh,21,Online,False
+MERCH_1226,Indian Oil Outlet 630,Fuel,Chandigarh,Punjab,43,Retail,False
+MERCH_1227,KFC Outlet 71,Food,Surat,Gujarat,12,Hybrid,False
+MERCH_1228,Reliance Fresh Outlet 688,Grocery,Jaipur,Rajasthan,42,Online,False
+MERCH_1229,NoBroker Rent Outlet 769,Rent,Kochi,Kerala,8,Retail,False
+MERCH_1230,ICICI Lombard Outlet 659,Insurance,Udaipur,Rajasthan,30,Hybrid,False
+MERCH_1231,AngelOne Deposit Digital,Investment,Chandigarh,Punjab,14,Online,False
+MERCH_1232,Adani Electricity Outlet 542,Utility,Mysore,Karnataka,35,Online,False
+MERCH_1233,Groww SIP Digital,Investment,Pune,Maharashtra,38,Online,False
+MERCH_1234,Booking.com Outlet 568,Travel,Bangalore,Karnataka,41,Retail,False
+MERCH_1235,BigBasket Outlet 215,Grocery,Chennai,Tamil Nadu,39,Online,False
+MERCH_1236,Cred RentPay Outlet 337,Rent,Mumbai,Maharashtra,40,Retail,False
+MERCH_1237,Max Healthcare Outlet 71,Healthcare,Ahmedabad,Gujarat,24,Hybrid,False
+MERCH_1238,Pet Shop Outlet 441,Other,Chennai,Tamil Nadu,72,Online,True
+MERCH_1239,DAV College Outlet 675,Education,Noida,Uttar Pradesh,13,Retail,False
+MERCH_1240,NPS Contribution Digital,Investment,Coimbatore,Tamil Nadu,29,Online,False
+MERCH_1241,Hardware Store Outlet 531,Other,Mysore,Karnataka,16,Retail,False
+MERCH_1242,Taj Dining Outlet 595,Dining_Out,Lucknow,Uttar Pradesh,18,Retail,False
+MERCH_1243,Bharat Petroleum Outlet 588,Fuel,Ludhiana,Punjab,9,Retail,False
+MERCH_1244,AngelOne Deposit Digital,Investment,Ludhiana,Punjab,85,Online,False
+MERCH_1245,Taj Dining Outlet 177,Dining_Out,Jaipur,Rajasthan,39,Online,False
+MERCH_1246,IRCTC Outlet 668,Travel,Ahmedabad,Gujarat,10,Hybrid,False
+MERCH_1247,BESCOM Outlet 12,Utility,Kochi,Kerala,7,Online,False
+MERCH_1248,Practo Outlet 797,Healthcare,Ahmedabad,Gujarat,31,Online,False
+MERCH_1249,More Retail Outlet 44,Grocery,Lucknow,Uttar Pradesh,25,Retail,False
+MERCH_1250,Microsoft 365 Digital,Subscription,Udaipur,Rajasthan,18,Online,False
+MERCH_1251,iCloud Storage Digital,Subscription,Lucknow,Uttar Pradesh,34,Online,False
+MERCH_1252,Myntra Outlet 548,Shopping,Chennai,Tamil Nadu,27,Online,False
+MERCH_1253,Social Outlet 472,Dining_Out,Kanpur,Uttar Pradesh,23,Hybrid,False
+MERCH_1254,Bharat Petroleum Outlet 535,Fuel,Chandigarh,Punjab,9,Retail,False
+MERCH_1255,Disney+ Hotstar Outlet 878,Entertainment,Coimbatore,Tamil Nadu,21,Hybrid,False
+MERCH_1256,Mutual Fund Direct Digital,Investment,Mysore,Karnataka,14,Online,False
+MERCH_1257,ICICI Lombard Outlet 53,Insurance,Kolkata,West Bengal,17,Retail,False
+MERCH_1258,Pizza Hut Outlet 473,Food,Lucknow,Uttar Pradesh,9,Online,True
+MERCH_1259,Punjab Grill Outlet 493,Dining_Out,Mumbai,Maharashtra,35,Online,False
+MERCH_1260,Apollo Clinic Outlet 711,Healthcare,Pune,Maharashtra,21,Hybrid,False
+MERCH_1261,Hindustan Petroleum Outlet 522,Fuel,Kolkata,West Bengal,21,Retail,False
+MERCH_1262,Indigo Outlet 100,Travel,Kanpur,Uttar Pradesh,22,Hybrid,True
+MERCH_1263,Subway Outlet 124,Food,Hyderabad,Telangana,42,Hybrid,False
+MERCH_1264,CCD Outlet 750,Food,Bangalore,Karnataka,10,Retail,False
+MERCH_1265,Society Maintenance Outlet 577,Rent,Coimbatore,Tamil Nadu,30,Retail,False
+MERCH_1266,CCD Outlet 190,Food,Kanpur,Uttar Pradesh,15,Retail,True
+MERCH_1267,PVR Cinemas Outlet 867,Entertainment,Trivandrum,Kerala,26,Retail,False
+MERCH_1268,Cred RentPay Outlet 732,Rent,Mysore,Karnataka,28,Retail,False
+MERCH_1269,Zepto Outlet 937,Grocery,Kolkata,West Bengal,43,Retail,True
+MERCH_1270,Mutual Fund Direct Digital,Investment,Chennai,Tamil Nadu,16,Online,False
+MERCH_1271,NoBroker Rent Outlet 758,Rent,Delhi,Delhi,31,Retail,False
+MERCH_1272,Burger King Outlet 995,Food,Hyderabad,Telangana,12,Hybrid,False
+MERCH_1273,Spencer's Outlet 222,Grocery,Trivandrum,Kerala,35,Hybrid,True
+MERCH_1274,Practo Outlet 368,Healthcare,Noida,Uttar Pradesh,27,Hybrid,False
+MERCH_1275,Cred RentPay Outlet 933,Rent,Noida,Uttar Pradesh,26,Retail,True
+MERCH_1276,Shell Petrol Outlet 318,Fuel,Mysore,Karnataka,24,Retail,True
+MERCH_1277,Amazon Prime Outlet 569,Entertainment,Jaipur,Rajasthan,20,Retail,False
+MERCH_1278,NPS Contribution Digital,Investment,Hyderabad,Telangana,36,Online,False
+MERCH_1279,DPS School Outlet 325,Education,Trivandrum,Kerala,24,Retail,False
+MERCH_1280,Spotify Family Digital,Subscription,Ahmedabad,Gujarat,26,Online,False
+MERCH_1281,Disney VIP Digital,Subscription,Kanpur,Uttar Pradesh,10,Online,False
+MERCH_1282,Disney+ Hotstar Outlet 861,Entertainment,Jaipur,Rajasthan,36,Retail,True
+MERCH_1283,ICICI Lombard Outlet 386,Insurance,Delhi,Delhi,26,Retail,False
+MERCH_1284,Max Healthcare Outlet 262,Healthcare,Kolkata,West Bengal,25,Hybrid,False
+MERCH_1285,Dry Cleaners Outlet 755,Other,Trivandrum,Kerala,8,Retail,False
+MERCH_1286,DAV College Outlet 636,Education,Jaipur,Rajasthan,27,Retail,False
+MERCH_1287,LIC India Outlet 512,Insurance,Mysore,Karnataka,9,Hybrid,False
+MERCH_1288,Udemy Outlet 310,Education,Lucknow,Uttar Pradesh,32,Retail,True
+MERCH_1289,Taj Dining Outlet 352,Dining_Out,Lucknow,Uttar Pradesh,76,Online,False
+MERCH_1290,Hardware Store Outlet 993,Other,Lucknow,Uttar Pradesh,10,Hybrid,False
+MERCH_1291,Burger King Outlet 879,Food,Pune,Maharashtra,25,Online,True
+MERCH_1292,Amazon Outlet 174,Shopping,Udaipur,Rajasthan,11,Retail,False
+MERCH_1293,Myntra Outlet 878,Shopping,Surat,Gujarat,17,Hybrid,False
+MERCH_1294,Zomato Outlet 454,Food,Ahmedabad,Gujarat,33,Retail,False
+MERCH_1295,ICICI Lombard Outlet 499,Insurance,Jaipur,Rajasthan,43,Hybrid,False
+MERCH_1296,Airtel Fiber Outlet 598,Utility,Surat,Gujarat,6,Online,False
+MERCH_1297,Spencer's Outlet 67,Grocery,Kochi,Kerala,39,Hybrid,False
+MERCH_1298,Hard Rock Cafe Outlet 338,Dining_Out,Udaipur,Rajasthan,43,Hybrid,True
+MERCH_1299,Uber Outlet 384,Travel,Surat,Gujarat,9,Hybrid,False
+MERCH_1300,Adani Electricity Outlet 853,Utility,Chennai,Tamil Nadu,5,Online,False
+MERCH_1301,DMart Outlet 526,Grocery,Mumbai,Maharashtra,34,Retail,False
+MERCH_1302,Bharat Petroleum Outlet 600,Fuel,Kochi,Kerala,35,Retail,False
+MERCH_1303,Society Maintenance Outlet 483,Rent,Mumbai,Maharashtra,40,Retail,False
+MERCH_1304,Reliance Fresh Outlet 532,Grocery,Pune,Maharashtra,20,Retail,False
+MERCH_1305,Reliance Fresh Outlet 295,Grocery,Kolkata,West Bengal,25,Retail,False
+MERCH_1306,Housing Rent Transfer Outlet 982,Rent,Chandigarh,Punjab,28,Retail,False
+MERCH_1307,Decathlon Outlet 561,Shopping,Jaipur,Rajasthan,44,Retail,False
+MERCH_1308,Subway Outlet 246,Food,Udaipur,Rajasthan,25,Retail,True
+MERCH_1309,Housing Rent Transfer Outlet 85,Rent,Coimbatore,Tamil Nadu,28,Retail,True
+MERCH_1310,Amazon Prime Outlet 946,Entertainment,Bangalore,Karnataka,8,Hybrid,True
+MERCH_1311,Inox Outlet 17,Entertainment,Noida,Uttar Pradesh,32,Hybrid,True
+MERCH_1312,Starbucks Outlet 858,Food,Bangalore,Karnataka,42,Retail,False
+MERCH_1313,Netflix Outlet 286,Entertainment,Lucknow,Uttar Pradesh,17,Online,False
+MERCH_1314,Hard Rock Cafe Outlet 919,Dining_Out,Kanpur,Uttar Pradesh,8,Online,False
+MERCH_1315,Bharat Petroleum Outlet 984,Fuel,Pune,Maharashtra,27,Retail,True
+MERCH_1316,Taj Dining Outlet 726,Dining_Out,Kolkata,West Bengal,39,Online,False
+MERCH_1317,Spencer's Outlet 783,Grocery,Pune,Maharashtra,39,Online,False
+MERCH_1318,NPS Contribution Digital,Investment,Bangalore,Karnataka,12,Online,False
+MERCH_1319,Salon & Spa Outlet 289,Other,Lucknow,Uttar Pradesh,43,Retail,False
+MERCH_1320,Nykaa Outlet 82,Shopping,Kolkata,West Bengal,7,Online,False
+MERCH_1321,Local Restaurant Outlet 950,Food,Surat,Gujarat,26,Online,False
+MERCH_1322,Myntra Outlet 342,Shopping,Trivandrum,Kerala,6,Hybrid,False
+MERCH_1323,Cred RentPay Outlet 413,Rent,Chandigarh,Punjab,17,Retail,True
+MERCH_1324,ICICI Lombard Outlet 901,Insurance,Jaipur,Rajasthan,30,Retail,False
+MERCH_1325,Pet Shop Outlet 394,Other,Noida,Uttar Pradesh,7,Online,False
+MERCH_1326,Max Life Insurance Outlet 419,Insurance,Nagpur,Maharashtra,8,Hybrid,False
+MERCH_1327,Local Clinic Outlet 426,Healthcare,Hyderabad,Telangana,15,Hybrid,False
+MERCH_1328,Amazon Outlet 247,Shopping,Kolkata,West Bengal,22,Retail,False
+MERCH_1329,Decathlon Outlet 707,Shopping,Jaipur,Rajasthan,10,Online,False
+MERCH_1330,Netflix Outlet 802,Entertainment,Ahmedabad,Gujarat,33,Retail,False
+MERCH_1331,Reliance Petroleum Outlet 387,Fuel,Chennai,Tamil Nadu,10,Retail,False
+MERCH_1332,Disney VIP Digital,Subscription,Bangalore,Karnataka,22,Online,False
+MERCH_1333,Amity University Outlet 396,Education,Chennai,Tamil Nadu,16,Hybrid,False
+MERCH_1334,Dry Cleaners Outlet 841,Other,Udaipur,Rajasthan,17,Online,False
+MERCH_1335,Bharat Petroleum Outlet 909,Fuel,Pune,Maharashtra,7,Retail,False
+MERCH_1336,Indraprastha Gas Outlet 266,Utility,Noida,Uttar Pradesh,13,Online,True
+MERCH_1337,Netflix Premium Digital,Subscription,Lucknow,Uttar Pradesh,15,Online,True
+MERCH_1338,Shell Petrol Outlet 944,Fuel,Nagpur,Maharashtra,38,Retail,True
+MERCH_1339,Fortis Hospital Outlet 336,Healthcare,Chandigarh,Punjab,43,Online,False
+MERCH_1340,MakeMyTrip Outlet 942,Travel,Surat,Gujarat,24,Online,True
+MERCH_1341,Blinkit Outlet 114,Grocery,Delhi,Delhi,12,Online,True
+MERCH_1342,Simplilearn Outlet 310,Education,Pune,Maharashtra,13,Retail,False
+MERCH_1343,Netflix Premium Digital,Subscription,Bangalore,Karnataka,40,Online,False
+MERCH_1344,ICICI Lombard Outlet 635,Insurance,Udaipur,Rajasthan,29,Retail,False
+MERCH_1345,Inox Outlet 150,Entertainment,Delhi,Delhi,94,Retail,True
+MERCH_1346,Society Maintenance Outlet 115,Rent,Bangalore,Karnataka,16,Retail,False
+MERCH_1347,Booking.com Outlet 237,Travel,Lucknow,Uttar Pradesh,14,Online,False
+MERCH_1348,Pet Shop Outlet 678,Other,Kochi,Kerala,20,Online,False
+MERCH_1349,Local Clinic Outlet 112,Healthcare,Mumbai,Maharashtra,26,Online,True
+MERCH_1350,Zerodha Fund Digital,Investment,Kanpur,Uttar Pradesh,26,Online,False
+MERCH_1351,ICICI Lombard Outlet 627,Insurance,Trivandrum,Kerala,5,Online,False
+MERCH_1352,BookMyShow Outlet 706,Entertainment,Chandigarh,Punjab,13,Retail,False
+MERCH_1353,Disney VIP Digital,Subscription,Lucknow,Uttar Pradesh,25,Online,False
+MERCH_1354,Salon & Spa Outlet 640,Other,Mysore,Karnataka,37,Online,False
+MERCH_1355,Indraprastha Gas Outlet 112,Utility,Coimbatore,Tamil Nadu,41,Online,False
+MERCH_1356,Fortis Hospital Outlet 869,Healthcare,Chandigarh,Punjab,42,Retail,False
+MERCH_1357,Zerodha Fund Digital,Investment,Ahmedabad,Gujarat,6,Online,False
+MERCH_1358,More Retail Outlet 648,Grocery,Bangalore,Karnataka,20,Online,False
+MERCH_1359,Uber Outlet 72,Travel,Kanpur,Uttar Pradesh,16,Retail,False
+MERCH_1360,Society Maintenance Outlet 475,Rent,Kanpur,Uttar Pradesh,17,Retail,False
+MERCH_1361,Airtel Fiber Outlet 370,Utility,Jaipur,Rajasthan,13,Online,False
+MERCH_1362,Microsoft 365 Digital,Subscription,Mysore,Karnataka,20,Online,True
+MERCH_1363,Local Clinic Outlet 282,Healthcare,Kanpur,Uttar Pradesh,23,Retail,False
+MERCH_1364,More Retail Outlet 117,Grocery,Noida,Uttar Pradesh,19,Retail,False
+MERCH_1365,NPS Contribution Digital,Investment,Noida,Uttar Pradesh,31,Online,False
+MERCH_1366,Reliance Fresh Outlet 562,Grocery,Kanpur,Uttar Pradesh,37,Online,False
+MERCH_1367,Spencer's Outlet 453,Grocery,Lucknow,Uttar Pradesh,29,Online,True
+MERCH_1368,Zerodha Fund Digital,Investment,Surat,Gujarat,28,Online,False
+MERCH_1369,Salon & Spa Outlet 77,Other,Pune,Maharashtra,6,Online,False
+MERCH_1370,BESCOM Outlet 56,Utility,Kochi,Kerala,24,Online,False
+MERCH_1371,NPS Contribution Digital,Investment,Coimbatore,Tamil Nadu,22,Online,False
+MERCH_1372,Adani Electricity Outlet 801,Utility,Mysore,Karnataka,43,Online,False
+MERCH_1373,Bharat Petroleum Outlet 84,Fuel,Kolkata,West Bengal,6,Retail,True
+MERCH_1374,Shell Petrol Outlet 363,Fuel,Nagpur,Maharashtra,26,Retail,False
+MERCH_1375,Punjab Grill Outlet 801,Dining_Out,Kochi,Kerala,43,Online,False
+MERCH_1376,Local Pub Outlet 503,Dining_Out,Lucknow,Uttar Pradesh,43,Online,False
+MERCH_1377,Local Restaurant Outlet 376,Food,Mysore,Karnataka,21,Retail,False
+MERCH_1378,Local Kirana Outlet 494,Grocery,Chennai,Tamil Nadu,36,Retail,True
+MERCH_1379,SBI General Insurance Outlet 644,Insurance,Ludhiana,Punjab,13,Retail,False
+MERCH_1380,iCloud Storage Digital,Subscription,Kanpur,Uttar Pradesh,26,Online,False
+MERCH_1381,NoBroker Rent Outlet 276,Rent,Ahmedabad,Gujarat,42,Retail,True
+MERCH_1382,HDFC Ergo Outlet 419,Insurance,Chennai,Tamil Nadu,12,Hybrid,False
+MERCH_1383,Local Tailor Outlet 918,Other,Surat,Gujarat,26,Online,False
+MERCH_1384,Society Maintenance Outlet 779,Rent,Jaipur,Rajasthan,30,Retail,False
+MERCH_1385,Domino's Outlet 295,Food,Jaipur,Rajasthan,21,Online,True
+MERCH_1386,Municipal Water Outlet 337,Utility,Ahmedabad,Gujarat,12,Online,True
+MERCH_1387,Spotify Family Digital,Subscription,Delhi,Delhi,17,Online,False
+MERCH_1388,Shell Petrol Outlet 161,Fuel,Delhi,Delhi,38,Retail,False
+MERCH_1389,Udemy Outlet 773,Education,Trivandrum,Kerala,31,Hybrid,False
+MERCH_1390,Ajio Outlet 278,Shopping,Kochi,Kerala,23,Online,False
+MERCH_1391,Zara Outlet 23,Shopping,Delhi,Delhi,43,Retail,False
+MERCH_1392,Local Pub Outlet 234,Dining_Out,Pune,Maharashtra,29,Hybrid,False
+MERCH_1393,Gift Gallery Outlet 703,Other,Udaipur,Rajasthan,86,Retail,True
+MERCH_1394,LIC India Outlet 217,Insurance,Chennai,Tamil Nadu,36,Online,False
+MERCH_1395,MakeMyTrip Outlet 200,Travel,Kolkata,West Bengal,40,Online,False
+MERCH_1396,Inox Outlet 337,Entertainment,Jaipur,Rajasthan,24,Retail,False
+MERCH_1397,PVR Cinemas Outlet 684,Entertainment,Nagpur,Maharashtra,21,Online,True
+MERCH_1398,Spotify Outlet 900,Entertainment,Udaipur,Rajasthan,22,Retail,False
+MERCH_1399,Shell Petrol Outlet 36,Fuel,Pune,Maharashtra,43,Retail,False
+MERCH_1400,Salon & Spa Outlet 391,Other,Pune,Maharashtra,42,Online,False
+MERCH_1401,Inox Outlet 969,Entertainment,Coimbatore,Tamil Nadu,40,Online,True
+MERCH_1402,Ola Outlet 680,Travel,Hyderabad,Telangana,12,Hybrid,False
+MERCH_1403,NPS Contribution Digital,Investment,Kochi,Kerala,31,Online,False
+MERCH_1404,Bharat Petroleum Outlet 304,Fuel,Lucknow,Uttar Pradesh,28,Retail,False
+MERCH_1405,Myntra Outlet 410,Shopping,Coimbatore,Tamil Nadu,33,Hybrid,False
+MERCH_1406,Taj Dining Outlet 388,Dining_Out,Noida,Uttar Pradesh,5,Retail,False
+MERCH_1407,Shoppers Stop Outlet 459,Shopping,Ludhiana,Punjab,17,Retail,False
+MERCH_1408,Mainland China Outlet 536,Dining_Out,Chandigarh,Punjab,15,Retail,False
+MERCH_1409,Local Pub Outlet 467,Dining_Out,Surat,Gujarat,44,Hybrid,False
+MERCH_1410,Local Pub Outlet 45,Dining_Out,Coimbatore,Tamil Nadu,25,Online,True
+MERCH_1411,Max Healthcare Outlet 825,Healthcare,Trivandrum,Kerala,25,Hybrid,True
+MERCH_1412,Social Outlet 444,Dining_Out,Ahmedabad,Gujarat,9,Online,False
+MERCH_1413,Spotify Outlet 993,Entertainment,Trivandrum,Kerala,42,Hybrid,True
+MERCH_1414,Spencer's Outlet 166,Grocery,Mysore,Karnataka,24,Online,False
+MERCH_1415,Dry Cleaners Outlet 140,Other,Bangalore,Karnataka,12,Retail,False
+MERCH_1416,Local Kirana Outlet 378,Grocery,Chandigarh,Punjab,24,Online,False
+MERCH_1417,Cred RentPay Outlet 132,Rent,Nagpur,Maharashtra,23,Retail,False
+MERCH_1418,CCD Outlet 804,Food,Hyderabad,Telangana,33,Hybrid,False
+MERCH_1419,Air India Outlet 271,Travel,Coimbatore,Tamil Nadu,41,Hybrid,False
+MERCH_1420,DMart Outlet 606,Grocery,Mumbai,Maharashtra,38,Online,True
+MERCH_1421,Practo Outlet 287,Healthcare,Udaipur,Rajasthan,21,Online,False
+MERCH_1422,Zomato Outlet 660,Food,Mysore,Karnataka,41,Online,True
+MERCH_1423,Disney VIP Digital,Subscription,Kolkata,West Bengal,9,Online,False
+MERCH_1424,BESCOM Outlet 637,Utility,Noida,Uttar Pradesh,5,Online,False
+MERCH_1425,Adani Electricity Outlet 856,Utility,Noida,Uttar Pradesh,29,Online,False
+MERCH_1426,Apollo Clinic Outlet 783,Healthcare,Kochi,Kerala,27,Hybrid,False
+MERCH_1427,Housing Rent Transfer Outlet 789,Rent,Pune,Maharashtra,40,Retail,False
+MERCH_1428,Zara Outlet 784,Shopping,Lucknow,Uttar Pradesh,28,Hybrid,True
+MERCH_1429,Westside Outlet 843,Shopping,Udaipur,Rajasthan,88,Hybrid,False
+MERCH_1430,Airtel Fiber Outlet 917,Utility,Chandigarh,Punjab,25,Online,False
+MERCH_1431,Fortis Hospital Outlet 801,Healthcare,Pune,Maharashtra,37,Hybrid,False
+MERCH_1432,Indian Oil Outlet 471,Fuel,Udaipur,Rajasthan,42,Retail,False
+MERCH_1433,Adani Electricity Outlet 202,Utility,Lucknow,Uttar Pradesh,22,Online,False
+MERCH_1434,Groww SIP Digital,Investment,Ludhiana,Punjab,29,Online,False
+MERCH_1435,iCloud Storage Digital,Subscription,Mysore,Karnataka,34,Online,False
+MERCH_1436,Starbucks Outlet 25,Food,Udaipur,Rajasthan,18,Hybrid,False
+MERCH_1437,MakeMyTrip Outlet 64,Travel,Kochi,Kerala,44,Online,False
+MERCH_1438,Mainland China Outlet 111,Dining_Out,Chennai,Tamil Nadu,8,Hybrid,False
+MERCH_1439,Fortis Hospital Outlet 752,Healthcare,Nagpur,Maharashtra,37,Retail,False
+MERCH_1440,Simplilearn Outlet 471,Education,Delhi,Delhi,25,Hybrid,False
+MERCH_1441,Amity University Outlet 280,Education,Surat,Gujarat,39,Retail,True
+MERCH_1442,Booking.com Outlet 124,Travel,Surat,Gujarat,39,Retail,False
+MERCH_1443,BYJU'S Outlet 542,Education,Lucknow,Uttar Pradesh,25,Online,False
+MERCH_1444,Microsoft 365 Digital,Subscription,Hyderabad,Telangana,22,Online,False
+MERCH_1445,Indigo Outlet 595,Travel,Ludhiana,Punjab,28,Online,False
+MERCH_1446,BYJU'S Outlet 964,Education,Noida,Uttar Pradesh,35,Retail,False
+MERCH_1447,Flipkart Outlet 49,Shopping,Lucknow,Uttar Pradesh,43,Online,True
+MERCH_1448,MakeMyTrip Flights Outlet 289,Travel,Delhi,Delhi,6,Retail,True
+MERCH_1449,IRCTC Outlet 940,Travel,Hyderabad,Telangana,40,Retail,False
+MERCH_1450,DAV College Outlet 47,Education,Kochi,Kerala,43,Retail,False
+MERCH_1451,MakeMyTrip Flights Outlet 132,Travel,Jaipur,Rajasthan,18,Hybrid,False
+MERCH_1452,Decathlon Outlet 929,Shopping,Hyderabad,Telangana,40,Hybrid,False
+MERCH_1453,Indraprastha Gas Outlet 68,Utility,Mysore,Karnataka,12,Online,False
+MERCH_1454,Housing Rent Transfer Outlet 641,Rent,Udaipur,Rajasthan,29,Retail,False
+MERCH_1455,BookMyShow Outlet 118,Entertainment,Hyderabad,Telangana,34,Retail,False
+MERCH_1456,NPS Contribution Digital,Investment,Mysore,Karnataka,78,Online,False
+MERCH_1457,Max Life Insurance Outlet 82,Insurance,Chennai,Tamil Nadu,7,Hybrid,False
+MERCH_1458,Apollo Pharmacy Outlet 873,Healthcare,Hyderabad,Telangana,18,Retail,False
+MERCH_1459,LIC India Outlet 348,Insurance,Ludhiana,Punjab,30,Online,False
+MERCH_1460,Hard Rock Cafe Outlet 441,Dining_Out,Kochi,Kerala,37,Hybrid,False
+MERCH_1461,BookMyShow Outlet 78,Entertainment,Noida,Uttar Pradesh,12,Retail,False
+MERCH_1462,Groww SIP Digital,Investment,Chandigarh,Punjab,24,Online,False
+MERCH_1463,Cred RentPay Outlet 515,Rent,Pune,Maharashtra,44,Retail,True
+MERCH_1464,Domino's Outlet 764,Food,Coimbatore,Tamil Nadu,13,Online,False
+MERCH_1465,Amazon Prime Outlet 729,Entertainment,Noida,Uttar Pradesh,13,Hybrid,False
+MERCH_1466,Pizza Hut Outlet 961,Food,Coimbatore,Tamil Nadu,32,Online,False
+MERCH_1467,Local Clinic Outlet 655,Healthcare,Mysore,Karnataka,25,Retail,False
+MERCH_1468,Taj Dining Outlet 21,Dining_Out,Trivandrum,Kerala,42,Online,False
+MERCH_1469,Local Clinic Outlet 923,Healthcare,Kochi,Kerala,42,Online,False
+MERCH_1470,Social Outlet 450,Dining_Out,Bangalore,Karnataka,16,Hybrid,True
+MERCH_1471,Domino's Outlet 722,Food,Mumbai,Maharashtra,25,Hybrid,False
+MERCH_1472,Mainland China Outlet 832,Dining_Out,Udaipur,Rajasthan,27,Hybrid,False
+MERCH_1473,Uber Outlet 36,Travel,Udaipur,Rajasthan,32,Hybrid,False
+MERCH_1474,Ola Outlet 748,Travel,Mysore,Karnataka,13,Online,False
+MERCH_1475,Groww SIP Digital,Investment,Udaipur,Rajasthan,38,Online,False
+MERCH_1476,Society Maintenance Outlet 741,Rent,Udaipur,Rajasthan,10,Retail,False
+MERCH_1477,Smaaash Outlet 978,Entertainment,Pune,Maharashtra,41,Retail,True
+MERCH_1478,Hindustan Petroleum Outlet 389,Fuel,Lucknow,Uttar Pradesh,10,Retail,False
+MERCH_1479,Tata Power Outlet 210,Utility,Mysore,Karnataka,91,Online,False
+MERCH_1480,Blinkit Outlet 849,Grocery,Jaipur,Rajasthan,13,Retail,False
+MERCH_1481,DMart Outlet 52,Grocery,Udaipur,Rajasthan,83,Hybrid,False
+MERCH_1482,Pet Shop Outlet 356,Other,Coimbatore,Tamil Nadu,32,Online,False
+MERCH_1483,MakeMyTrip Flights Outlet 841,Travel,Chandigarh,Punjab,8,Retail,False
+MERCH_1484,Max Healthcare Outlet 280,Healthcare,Hyderabad,Telangana,26,Retail,True
+MERCH_1485,Youtube Premium Digital,Subscription,Udaipur,Rajasthan,19,Online,False
+MERCH_1486,Blinkit Outlet 357,Grocery,Coimbatore,Tamil Nadu,35,Online,False
+MERCH_1487,Housing Rent Transfer Outlet 827,Rent,Mumbai,Maharashtra,20,Retail,True
+MERCH_1488,More Retail Outlet 562,Grocery,Surat,Gujarat,9,Hybrid,False
+MERCH_1489,NoBroker Rent Outlet 760,Rent,Hyderabad,Telangana,19,Retail,False
+MERCH_1490,Groww SIP Digital,Investment,Udaipur,Rajasthan,14,Online,False
+MERCH_1491,Local Kirana Outlet 592,Grocery,Kanpur,Uttar Pradesh,13,Retail,True
+MERCH_1492,BYJU'S Outlet 993,Education,Noida,Uttar Pradesh,44,Hybrid,False
+MERCH_1493,Hardware Store Outlet 309,Other,Hyderabad,Telangana,10,Online,True
+MERCH_1494,Zerodha Fund Digital,Investment,Noida,Uttar Pradesh,38,Online,True
+MERCH_1495,Groww SIP Digital,Investment,Kolkata,West Bengal,31,Online,False
+MERCH_1496,Reliance Petroleum Outlet 833,Fuel,Surat,Gujarat,32,Retail,False
+MERCH_1497,Airtel Fiber Outlet 187,Utility,Nagpur,Maharashtra,11,Online,True
+MERCH_1498,Hindustan Petroleum Outlet 880,Fuel,Udaipur,Rajasthan,20,Retail,False
+MERCH_1499,Housing Rent Transfer Outlet 239,Rent,Chandigarh,Punjab,30,Retail,False
+MERCH_1500,Simplilearn Outlet 909,Education,Lucknow,Uttar Pradesh,22,Retail,False
+MERCH_1501,Jio Fiber Outlet 285,Utility,Kolkata,West Bengal,28,Online,True
+MERCH_1502,Society Maintenance Outlet 202,Rent,Mumbai,Maharashtra,13,Retail,False
+MERCH_1503,BookMyShow Outlet 379,Entertainment,Ludhiana,Punjab,28,Hybrid,True
+MERCH_1504,Pizza Hut Outlet 22,Food,Kochi,Kerala,36,Online,False
+MERCH_1505,H&M Outlet 377,Shopping,Coimbatore,Tamil Nadu,26,Retail,False
+MERCH_1506,Airtel Fiber Outlet 678,Utility,Kanpur,Uttar Pradesh,34,Online,True
+MERCH_1507,SBI General Insurance Outlet 574,Insurance,Trivandrum,Kerala,44,Online,False
+MERCH_1508,Apollo Clinic Outlet 698,Healthcare,Ludhiana,Punjab,21,Online,True
+MERCH_1509,Westside Outlet 651,Shopping,Kanpur,Uttar Pradesh,41,Hybrid,True
+MERCH_1510,Max Life Insurance Outlet 281,Insurance,Kochi,Kerala,35,Retail,False
+MERCH_1511,Barbeque Nation Outlet 468,Dining_Out,Ahmedabad,Gujarat,13,Hybrid,False
+MERCH_1512,Shoppers Stop Outlet 582,Shopping,Bangalore,Karnataka,5,Online,True
+MERCH_1513,Indraprastha Gas Outlet 191,Utility,Hyderabad,Telangana,74,Online,False
+MERCH_1514,Hindustan Petroleum Outlet 147,Fuel,Lucknow,Uttar Pradesh,38,Retail,False
+MERCH_1515,Disney VIP Digital,Subscription,Nagpur,Maharashtra,9,Online,False
+MERCH_1516,Hard Rock Cafe Outlet 799,Dining_Out,Bangalore,Karnataka,15,Hybrid,True
+MERCH_1517,Shell Petrol Outlet 627,Fuel,Pune,Maharashtra,8,Retail,False
+MERCH_1518,Indraprastha Gas Outlet 546,Utility,Delhi,Delhi,42,Online,False
+MERCH_1519,Salon & Spa Outlet 408,Other,Nagpur,Maharashtra,20,Retail,True
+MERCH_1520,Disney+ Hotstar Outlet 655,Entertainment,Trivandrum,Kerala,12,Retail,False
+MERCH_1521,Tata Power Outlet 636,Utility,Bangalore,Karnataka,24,Online,False
+MERCH_1522,DMart Outlet 312,Grocery,Udaipur,Rajasthan,18,Online,True
+MERCH_1523,Reliance Petroleum Outlet 724,Fuel,Bangalore,Karnataka,36,Retail,False
+MERCH_1524,Flipkart Outlet 321,Shopping,Noida,Uttar Pradesh,21,Retail,True
+MERCH_1525,Udemy Outlet 508,Education,Chandigarh,Punjab,18,Retail,True
+MERCH_1526,Local Tailor Outlet 144,Other,Surat,Gujarat,9,Online,True
+MERCH_1527,Mutual Fund Direct Digital,Investment,Nagpur,Maharashtra,8,Online,False
+MERCH_1528,AngelOne Deposit Digital,Investment,Kochi,Kerala,24,Online,False
+MERCH_1529,Punjab Grill Outlet 746,Dining_Out,Pune,Maharashtra,34,Retail,False
+MERCH_1530,Decathlon Outlet 953,Shopping,Surat,Gujarat,14,Retail,True
+MERCH_1531,BYJU'S Outlet 737,Education,Lucknow,Uttar Pradesh,27,Retail,False
+MERCH_1532,Simplilearn Outlet 864,Education,Chennai,Tamil Nadu,15,Hybrid,True
+MERCH_1533,ICICI Lombard Outlet 977,Insurance,Chandigarh,Punjab,22,Retail,False
+MERCH_1534,DMart Outlet 679,Grocery,Chandigarh,Punjab,85,Online,False
+MERCH_1535,BigBasket Outlet 544,Grocery,Kolkata,West Bengal,39,Hybrid,False
+MERCH_1536,Uber Outlet 204,Travel,Chennai,Tamil Nadu,36,Online,True
+MERCH_1537,Shell Petrol Outlet 761,Fuel,Kolkata,West Bengal,13,Retail,False
+MERCH_1538,Housing Rent Transfer Outlet 651,Rent,Nagpur,Maharashtra,39,Retail,True
+MERCH_1539,Cred RentPay Outlet 357,Rent,Kochi,Kerala,15,Retail,False
+MERCH_1540,Housing Rent Transfer Outlet 979,Rent,Kolkata,West Bengal,40,Retail,False
+MERCH_1541,Mainland China Outlet 285,Dining_Out,Pune,Maharashtra,34,Retail,False
+MERCH_1542,H&M Outlet 549,Shopping,Kolkata,West Bengal,21,Retail,False
+MERCH_1543,KFC Outlet 429,Food,Udaipur,Rajasthan,40,Retail,False
+MERCH_1544,Shoppers Stop Outlet 798,Shopping,Surat,Gujarat,34,Hybrid,True
+MERCH_1545,Booking.com Outlet 418,Travel,Bangalore,Karnataka,31,Online,True
+MERCH_1546,Coursera Outlet 784,Education,Chennai,Tamil Nadu,19,Online,False
+MERCH_1547,Myntra Outlet 322,Shopping,Noida,Uttar Pradesh,35,Hybrid,False
+MERCH_1548,Cred RentPay Outlet 588,Rent,Nagpur,Maharashtra,24,Retail,False
+MERCH_1549,Local Kirana Outlet 856,Grocery,Hyderabad,Telangana,33,Retail,True
+MERCH_1550,Inox Outlet 224,Entertainment,Delhi,Delhi,7,Online,True
+MERCH_1551,MakeMyTrip Outlet 600,Travel,Mumbai,Maharashtra,23,Hybrid,True
+MERCH_1552,Mainland China Outlet 803,Dining_Out,Surat,Gujarat,17,Retail,False
+MERCH_1553,iCloud Storage Digital,Subscription,Surat,Gujarat,38,Online,False
+MERCH_1554,Microsoft 365 Digital,Subscription,Mumbai,Maharashtra,36,Online,True
+MERCH_1555,Zerodha Fund Digital,Investment,Bangalore,Karnataka,14,Online,False
+MERCH_1556,Smaaash Outlet 14,Entertainment,Pune,Maharashtra,35,Hybrid,True
+MERCH_1557,Zara Outlet 280,Shopping,Bangalore,Karnataka,29,Online,False
+MERCH_1558,Flipkart Outlet 228,Shopping,Noida,Uttar Pradesh,8,Hybrid,False
+MERCH_1559,Blinkit Outlet 299,Grocery,Delhi,Delhi,11,Retail,True
+MERCH_1560,Hardware Store Outlet 428,Other,Jaipur,Rajasthan,13,Online,False
+MERCH_1561,Yatra Outlet 497,Travel,Nagpur,Maharashtra,32,Hybrid,False
+MERCH_1562,Zerodha Fund Digital,Investment,Surat,Gujarat,19,Online,False
+MERCH_1563,Max Healthcare Outlet 631,Healthcare,Chennai,Tamil Nadu,88,Hybrid,False
+MERCH_1564,Ola Outlet 527,Travel,Mysore,Karnataka,33,Hybrid,False
+MERCH_1565,Youtube Premium Digital,Subscription,Chandigarh,Punjab,20,Online,True
+MERCH_1566,Air India Outlet 974,Travel,Surat,Gujarat,17,Online,False
+MERCH_1567,NPS Contribution Digital,Investment,Delhi,Delhi,16,Online,False
+MERCH_1568,Mainland China Outlet 884,Dining_Out,Trivandrum,Kerala,5,Retail,False
+MERCH_1569,Subway Outlet 299,Food,Ahmedabad,Gujarat,10,Retail,False
+MERCH_1570,Bharat Petroleum Outlet 739,Fuel,Kolkata,West Bengal,10,Retail,True
+MERCH_1571,Max Life Insurance Outlet 64,Insurance,Noida,Uttar Pradesh,26,Hybrid,False
+MERCH_1572,Shell Petrol Outlet 308,Fuel,Surat,Gujarat,23,Retail,True
+MERCH_1573,Salon & Spa Outlet 763,Other,Jaipur,Rajasthan,40,Hybrid,False
+MERCH_1574,Spotify Family Digital,Subscription,Kolkata,West Bengal,26,Online,True
+MERCH_1575,Hindustan Petroleum Outlet 121,Fuel,Lucknow,Uttar Pradesh,19,Retail,False
+MERCH_1576,Netflix Outlet 19,Entertainment,Udaipur,Rajasthan,35,Hybrid,False
+MERCH_1577,Zerodha Fund Digital,Investment,Lucknow,Uttar Pradesh,35,Online,False
+MERCH_1578,Disney+ Hotstar Outlet 867,Entertainment,Chennai,Tamil Nadu,23,Hybrid,False
+MERCH_1579,Indraprastha Gas Outlet 64,Utility,Coimbatore,Tamil Nadu,8,Online,False
+MERCH_1580,Disney VIP Digital,Subscription,Lucknow,Uttar Pradesh,15,Online,False
+MERCH_1581,Dry Cleaners Outlet 349,Other,Jaipur,Rajasthan,5,Retail,False
+MERCH_1582,Hindustan Petroleum Outlet 449,Fuel,Kanpur,Uttar Pradesh,16,Retail,False
+MERCH_1583,Reliance Petroleum Outlet 932,Fuel,Noida,Uttar Pradesh,25,Retail,False
+MERCH_1584,Pet Shop Outlet 794,Other,Chandigarh,Punjab,27,Retail,False
+MERCH_1585,Disney+ Hotstar Outlet 451,Entertainment,Jaipur,Rajasthan,42,Online,False
+MERCH_1586,BESCOM Outlet 186,Utility,Mumbai,Maharashtra,7,Online,False
+MERCH_1587,Pet Shop Outlet 223,Other,Chandigarh,Punjab,10,Hybrid,False
+MERCH_1588,Simplilearn Outlet 521,Education,Ludhiana,Punjab,17,Online,False
+MERCH_1589,Reliance Petroleum Outlet 996,Fuel,Udaipur,Rajasthan,15,Retail,False
+MERCH_1590,KFC Outlet 304,Food,Hyderabad,Telangana,25,Online,False
+MERCH_1591,Housing Rent Transfer Outlet 913,Rent,Bangalore,Karnataka,12,Retail,False
+MERCH_1592,Cred RentPay Outlet 935,Rent,Lucknow,Uttar Pradesh,31,Retail,True
+MERCH_1593,H&M Outlet 248,Shopping,Jaipur,Rajasthan,11,Hybrid,True
+MERCH_1594,NPS Contribution Digital,Investment,Nagpur,Maharashtra,39,Online,False
+MERCH_1595,HDFC Ergo Outlet 828,Insurance,Udaipur,Rajasthan,42,Online,False
+MERCH_1596,Adani Electricity Outlet 432,Utility,Kochi,Kerala,19,Online,True
+MERCH_1597,Reliance Petroleum Outlet 75,Fuel,Chennai,Tamil Nadu,22,Retail,False
+MERCH_1598,Local Tailor Outlet 146,Other,Noida,Uttar Pradesh,5,Retail,False
+MERCH_1599,Indigo Outlet 881,Travel,Chandigarh,Punjab,18,Online,False
+MERCH_1600,Max Healthcare Outlet 200,Healthcare,Udaipur,Rajasthan,36,Hybrid,False
+MERCH_1601,MedPlus Outlet 292,Healthcare,Chennai,Tamil Nadu,39,Online,False
+MERCH_1602,Salon & Spa Outlet 868,Other,Noida,Uttar Pradesh,35,Online,False
+MERCH_1603,Coursera Outlet 619,Education,Pune,Maharashtra,7,Online,False
+MERCH_1604,SBI General Insurance Outlet 906,Insurance,Kanpur,Uttar Pradesh,37,Online,False
+MERCH_1605,Adani Electricity Outlet 836,Utility,Chandigarh,Punjab,31,Online,False
+MERCH_1606,Disney VIP Digital,Subscription,Kanpur,Uttar Pradesh,24,Online,False
+MERCH_1607,Punjab Grill Outlet 39,Dining_Out,Coimbatore,Tamil Nadu,41,Online,True
+MERCH_1608,Air India Outlet 100,Travel,Chennai,Tamil Nadu,92,Hybrid,False
+MERCH_1609,Spotify Outlet 465,Entertainment,Kolkata,West Bengal,26,Hybrid,True
+MERCH_1610,Gift Gallery Outlet 170,Other,Udaipur,Rajasthan,30,Retail,False
+MERCH_1611,Adani Electricity Outlet 814,Utility,Surat,Gujarat,18,Online,False
+MERCH_1612,iCloud Storage Digital,Subscription,Chandigarh,Punjab,6,Online,False
+MERCH_1613,More Retail Outlet 604,Grocery,Trivandrum,Kerala,40,Online,False
+MERCH_1614,Dry Cleaners Outlet 924,Other,Trivandrum,Kerala,35,Online,False
+MERCH_1615,H&M Outlet 765,Shopping,Lucknow,Uttar Pradesh,27,Online,False
+MERCH_1616,Amity University Outlet 129,Education,Chennai,Tamil Nadu,10,Hybrid,False
+MERCH_1617,Bharat Petroleum Outlet 270,Fuel,Hyderabad,Telangana,11,Retail,False
+MERCH_1618,HDFC Ergo Outlet 845,Insurance,Mysore,Karnataka,5,Online,True
+MERCH_1619,Cred RentPay Outlet 338,Rent,Ahmedabad,Gujarat,16,Retail,False
+MERCH_1620,Bharat Petroleum Outlet 810,Fuel,Udaipur,Rajasthan,10,Retail,True
+MERCH_1621,Apollo Pharmacy Outlet 710,Healthcare,Delhi,Delhi,33,Online,False
+MERCH_1622,iCloud Storage Digital,Subscription,Coimbatore,Tamil Nadu,22,Online,False
+MERCH_1623,Flipkart Outlet 441,Shopping,Kochi,Kerala,31,Retail,False
+MERCH_1624,Spencer's Outlet 588,Grocery,Noida,Uttar Pradesh,28,Hybrid,False
+MERCH_1625,BYJU'S Outlet 88,Education,Chandigarh,Punjab,36,Hybrid,True
+MERCH_1626,Shell Petrol Outlet 241,Fuel,Udaipur,Rajasthan,24,Retail,False
+MERCH_1627,Zerodha Fund Digital,Investment,Kochi,Kerala,29,Online,False
+MERCH_1628,Local Tailor Outlet 126,Other,Jaipur,Rajasthan,20,Retail,False
+MERCH_1629,Airtel Fiber Outlet 972,Utility,Coimbatore,Tamil Nadu,17,Online,True
+MERCH_1630,Zerodha Fund Digital,Investment,Hyderabad,Telangana,17,Online,False
+MERCH_1631,Disney VIP Digital,Subscription,Trivandrum,Kerala,35,Online,False
+MERCH_1632,NoBroker Rent Outlet 231,Rent,Jaipur,Rajasthan,33,Retail,False
+MERCH_1633,Hindustan Petroleum Outlet 147,Fuel,Coimbatore,Tamil Nadu,37,Retail,False
+MERCH_1634,Indian Oil Outlet 506,Fuel,Ahmedabad,Gujarat,19,Retail,False
+MERCH_1635,Indraprastha Gas Outlet 575,Utility,Mumbai,Maharashtra,43,Online,True
+MERCH_1636,DMart Outlet 175,Grocery,Ludhiana,Punjab,7,Hybrid,False
+MERCH_1637,NPS Contribution Digital,Investment,Noida,Uttar Pradesh,27,Online,False
+MERCH_1638,Dry Cleaners Outlet 827,Other,Mumbai,Maharashtra,44,Hybrid,False
+MERCH_1639,Local Tailor Outlet 730,Other,Surat,Gujarat,10,Online,True
+MERCH_1640,Taj Dining Outlet 499,Dining_Out,Delhi,Delhi,43,Hybrid,False
+MERCH_1641,Uber Outlet 979,Travel,Lucknow,Uttar Pradesh,29,Online,False
+MERCH_1642,Westside Outlet 378,Shopping,Hyderabad,Telangana,43,Online,False
+MERCH_1643,LIC India Outlet 536,Insurance,Bangalore,Karnataka,24,Hybrid,False
+MERCH_1644,BYJU'S Outlet 230,Education,Mysore,Karnataka,33,Retail,True
+MERCH_1645,Microsoft 365 Digital,Subscription,Udaipur,Rajasthan,11,Online,True
+MERCH_1646,Netflix Outlet 652,Entertainment,Nagpur,Maharashtra,33,Retail,False
+MERCH_1647,Myntra Outlet 165,Shopping,Hyderabad,Telangana,9,Hybrid,False
+MERCH_1648,Hardware Store Outlet 663,Other,Delhi,Delhi,44,Online,False
+MERCH_1649,Decathlon Outlet 280,Shopping,Noida,Uttar Pradesh,8,Hybrid,False
+MERCH_1650,Subway Outlet 704,Food,Trivandrum,Kerala,44,Online,False
+MERCH_1651,Blinkit Outlet 676,Grocery,Coimbatore,Tamil Nadu,26,Hybrid,True
+MERCH_1652,Hindustan Petroleum Outlet 399,Fuel,Kolkata,West Bengal,29,Retail,True
+MERCH_1653,Smaaash Outlet 127,Entertainment,Chandigarh,Punjab,27,Online,False
+MERCH_1654,Ola Outlet 104,Travel,Hyderabad,Telangana,14,Hybrid,False
+MERCH_1655,Domino's Outlet 421,Food,Kanpur,Uttar Pradesh,12,Retail,True
+MERCH_1656,Fortis Hospital Outlet 719,Healthcare,Mumbai,Maharashtra,98,Online,False
+MERCH_1657,Groww SIP Digital,Investment,Noida,Uttar Pradesh,12,Online,False
+MERCH_1658,Pet Shop Outlet 759,Other,Kolkata,West Bengal,43,Retail,False
+MERCH_1659,Youtube Premium Digital,Subscription,Kolkata,West Bengal,19,Online,False
+MERCH_1660,Bharat Petroleum Outlet 294,Fuel,Noida,Uttar Pradesh,19,Retail,False
+MERCH_1661,NoBroker Rent Outlet 946,Rent,Udaipur,Rajasthan,30,Retail,False
+MERCH_1662,MakeMyTrip Outlet 828,Travel,Nagpur,Maharashtra,86,Online,True
+MERCH_1663,CCD Outlet 154,Food,Kanpur,Uttar Pradesh,18,Retail,False
+MERCH_1664,Haldirams Outlet 875,Food,Chennai,Tamil Nadu,6,Retail,True
+MERCH_1665,DAV College Outlet 93,Education,Trivandrum,Kerala,29,Retail,True
+MERCH_1666,Coursera Outlet 112,Education,Surat,Gujarat,41,Online,False
+MERCH_1667,Airtel Fiber Outlet 658,Utility,Hyderabad,Telangana,23,Online,False
+MERCH_1668,Max Life Insurance Outlet 821,Insurance,Nagpur,Maharashtra,26,Retail,False
+MERCH_1669,Gift Gallery Outlet 619,Other,Jaipur,Rajasthan,22,Hybrid,False
+MERCH_1670,Blinkit Outlet 748,Grocery,Noida,Uttar Pradesh,38,Hybrid,True
+MERCH_1671,CCD Outlet 576,Food,Pune,Maharashtra,33,Online,False
+MERCH_1672,Adani Electricity Outlet 198,Utility,Nagpur,Maharashtra,22,Online,False
+MERCH_1673,Hindustan Petroleum Outlet 296,Fuel,Kolkata,West Bengal,15,Retail,False
+MERCH_1674,Salon & Spa Outlet 734,Other,Trivandrum,Kerala,23,Online,False
+MERCH_1675,Zerodha Fund Digital,Investment,Jaipur,Rajasthan,31,Online,False
+MERCH_1676,Myntra Outlet 957,Shopping,Mumbai,Maharashtra,25,Retail,False
+MERCH_1677,Smaaash Outlet 496,Entertainment,Noida,Uttar Pradesh,36,Online,True
+MERCH_1678,PVR Cinemas Outlet 714,Entertainment,Kanpur,Uttar Pradesh,10,Retail,False
+MERCH_1679,AngelOne Deposit Digital,Investment,Jaipur,Rajasthan,12,Online,False
+MERCH_1680,Barbeque Nation Outlet 283,Dining_Out,Lucknow,Uttar Pradesh,9,Hybrid,False
+MERCH_1681,BigBasket Outlet 913,Grocery,Lucknow,Uttar Pradesh,9,Online,False
+MERCH_1682,Disney VIP Digital,Subscription,Jaipur,Rajasthan,24,Online,True
+MERCH_1683,Netflix Premium Digital,Subscription,Kochi,Kerala,34,Online,False
+MERCH_1684,Domino's Outlet 23,Food,Ludhiana,Punjab,7,Online,False
+MERCH_1685,Pet Shop Outlet 115,Other,Pune,Maharashtra,8,Online,True
+MERCH_1686,Max Life Insurance Outlet 269,Insurance,Mysore,Karnataka,23,Hybrid,True
+MERCH_1687,Air India Outlet 381,Travel,Mysore,Karnataka,43,Retail,True
+MERCH_1688,Ola Outlet 704,Travel,Pune,Maharashtra,25,Hybrid,False
+MERCH_1689,MakeMyTrip Flights Outlet 687,Travel,Delhi,Delhi,25,Online,False
+MERCH_1690,Municipal Water Outlet 247,Utility,Hyderabad,Telangana,27,Online,False
+MERCH_1691,HDFC Ergo Outlet 411,Insurance,Udaipur,Rajasthan,34,Retail,False
+MERCH_1692,Indian Oil Outlet 55,Fuel,Chandigarh,Punjab,44,Retail,False
+MERCH_1693,Shoppers Stop Outlet 697,Shopping,Chennai,Tamil Nadu,19,Hybrid,False
+MERCH_1694,Amity University Outlet 401,Education,Kanpur,Uttar Pradesh,19,Retail,True
+MERCH_1695,Practo Outlet 997,Healthcare,Ahmedabad,Gujarat,29,Online,False
+MERCH_1696,Reliance Fresh Outlet 41,Grocery,Delhi,Delhi,33,Retail,False
+MERCH_1697,Airtel Fiber Outlet 665,Utility,Nagpur,Maharashtra,44,Online,True
+MERCH_1698,Housing Rent Transfer Outlet 874,Rent,Lucknow,Uttar Pradesh,38,Retail,True
+MERCH_1699,Simplilearn Outlet 269,Education,Jaipur,Rajasthan,13,Hybrid,False
+MERCH_1700,MakeMyTrip Flights Outlet 842,Travel,Kolkata,West Bengal,25,Hybrid,False
+MERCH_1701,Amity University Outlet 658,Education,Noida,Uttar Pradesh,17,Hybrid,False
+MERCH_1702,Society Maintenance Outlet 272,Rent,Ahmedabad,Gujarat,14,Retail,False
+MERCH_1703,Youtube Premium Digital,Subscription,Hyderabad,Telangana,23,Online,True
+MERCH_1704,Practo Outlet 823,Healthcare,Surat,Gujarat,15,Online,False
+MERCH_1705,Adani Electricity Outlet 117,Utility,Bangalore,Karnataka,16,Online,False
+MERCH_1706,NPS Contribution Digital,Investment,Delhi,Delhi,17,Online,False
+MERCH_1707,HDFC Ergo Outlet 44,Insurance,Noida,Uttar Pradesh,28,Hybrid,False
+MERCH_1708,Society Maintenance Outlet 334,Rent,Delhi,Delhi,35,Retail,False
+MERCH_1709,Amazon Outlet 646,Shopping,Trivandrum,Kerala,24,Hybrid,True
+MERCH_1710,Housing Rent Transfer Outlet 23,Rent,Surat,Gujarat,26,Retail,False
+MERCH_1711,Society Maintenance Outlet 119,Rent,Nagpur,Maharashtra,7,Retail,False
+MERCH_1712,Indigo Outlet 469,Travel,Bangalore,Karnataka,27,Online,True
+MERCH_1713,Shell Petrol Outlet 360,Fuel,Surat,Gujarat,14,Retail,True
+MERCH_1714,Local Kirana Outlet 653,Grocery,Ludhiana,Punjab,6,Retail,True
+MERCH_1715,Yatra Outlet 466,Travel,Chennai,Tamil Nadu,31,Retail,False
+MERCH_1716,Disney VIP Digital,Subscription,Nagpur,Maharashtra,11,Online,True
+MERCH_1717,Groww SIP Digital,Investment,Jaipur,Rajasthan,11,Online,False
+MERCH_1718,Inox Outlet 39,Entertainment,Kochi,Kerala,9,Online,False
+MERCH_1719,Barbeque Nation Outlet 498,Dining_Out,Lucknow,Uttar Pradesh,9,Hybrid,False
+MERCH_1720,Housing Rent Transfer Outlet 415,Rent,Lucknow,Uttar Pradesh,13,Retail,False
+MERCH_1721,BookMyShow Outlet 182,Entertainment,Pune,Maharashtra,44,Hybrid,False
+MERCH_1722,Salon & Spa Outlet 358,Other,Surat,Gujarat,7,Retail,False
+MERCH_1723,Pet Shop Outlet 351,Other,Nagpur,Maharashtra,37,Retail,True
+MERCH_1724,Microsoft 365 Digital,Subscription,Mysore,Karnataka,16,Online,False
+MERCH_1725,Inox Outlet 656,Entertainment,Pune,Maharashtra,43,Hybrid,False
+MERCH_1726,Taj Dining Outlet 937,Dining_Out,Ahmedabad,Gujarat,7,Online,True
+MERCH_1727,Dry Cleaners Outlet 844,Other,Hyderabad,Telangana,13,Retail,False
+MERCH_1728,Society Maintenance Outlet 362,Rent,Delhi,Delhi,42,Retail,False
+MERCH_1729,Hindustan Petroleum Outlet 459,Fuel,Nagpur,Maharashtra,22,Retail,False
+MERCH_1730,Nature's Basket Outlet 912,Grocery,Mumbai,Maharashtra,26,Hybrid,True
+MERCH_1731,BYJU'S Outlet 672,Education,Surat,Gujarat,44,Online,False
+MERCH_1732,Westside Outlet 218,Shopping,Hyderabad,Telangana,28,Retail,False
+MERCH_1733,Spotify Family Digital,Subscription,Mumbai,Maharashtra,14,Online,False
+MERCH_1734,DAV College Outlet 783,Education,Ludhiana,Punjab,39,Retail,False
+MERCH_1735,Indian Oil Outlet 404,Fuel,Kolkata,West Bengal,30,Retail,False
+MERCH_1736,DMart Outlet 266,Grocery,Udaipur,Rajasthan,19,Retail,False
+MERCH_1737,Haldirams Outlet 350,Food,Kolkata,West Bengal,24,Retail,False
+MERCH_1738,Disney+ Hotstar Outlet 272,Entertainment,Chandigarh,Punjab,12,Hybrid,False
+MERCH_1739,SBI General Insurance Outlet 253,Insurance,Ahmedabad,Gujarat,37,Hybrid,False
+MERCH_1740,BigBasket Outlet 839,Grocery,Ahmedabad,Gujarat,28,Retail,False
+MERCH_1741,Zoomcar Outlet 531,Travel,Pune,Maharashtra,42,Hybrid,True
+MERCH_1742,Youtube Premium Digital,Subscription,Jaipur,Rajasthan,7,Online,False
+MERCH_1743,Airtel Fiber Outlet 603,Utility,Trivandrum,Kerala,7,Online,True
+MERCH_1744,KFC Outlet 538,Food,Coimbatore,Tamil Nadu,44,Online,False
+MERCH_1745,Gift Gallery Outlet 292,Other,Chennai,Tamil Nadu,19,Retail,True
+MERCH_1746,More Retail Outlet 251,Grocery,Kolkata,West Bengal,37,Hybrid,False
+MERCH_1747,Disney VIP Digital,Subscription,Delhi,Delhi,20,Online,False
+MERCH_1748,DAV College Outlet 443,Education,Mysore,Karnataka,30,Hybrid,False
+MERCH_1749,Social Outlet 904,Dining_Out,Mumbai,Maharashtra,8,Online,False
+MERCH_1750,Mainland China Outlet 835,Dining_Out,Bangalore,Karnataka,23,Online,False
+MERCH_1751,Burger King Outlet 701,Food,Coimbatore,Tamil Nadu,11,Online,True
+MERCH_1752,Subway Outlet 250,Food,Jaipur,Rajasthan,12,Online,True
+MERCH_1753,Groww SIP Digital,Investment,Ahmedabad,Gujarat,37,Online,True
+MERCH_1754,Microsoft 365 Digital,Subscription,Chennai,Tamil Nadu,27,Online,False
+MERCH_1755,Pet Shop Outlet 637,Other,Noida,Uttar Pradesh,34,Retail,False
+MERCH_1756,Barbeque Nation Outlet 19,Dining_Out,Udaipur,Rajasthan,30,Online,False
+MERCH_1757,Shoppers Stop Outlet 975,Shopping,Chandigarh,Punjab,7,Online,False
+MERCH_1758,Max Healthcare Outlet 506,Healthcare,Chennai,Tamil Nadu,16,Online,False
+MERCH_1759,Yatra Outlet 447,Travel,Ahmedabad,Gujarat,18,Retail,False
+MERCH_1760,Starbucks Outlet 977,Food,Delhi,Delhi,40,Retail,False
+MERCH_1761,Simplilearn Outlet 934,Education,Mysore,Karnataka,43,Online,True
+MERCH_1762,Local Tailor Outlet 204,Other,Mumbai,Maharashtra,25,Online,True
+MERCH_1763,Subway Outlet 703,Food,Udaipur,Rajasthan,29,Online,False
+MERCH_1764,BESCOM Outlet 384,Utility,Kochi,Kerala,16,Online,True
+MERCH_1765,DMart Outlet 826,Grocery,Chennai,Tamil Nadu,30,Retail,False
+MERCH_1766,Hardware Store Outlet 968,Other,Ahmedabad,Gujarat,18,Online,False
+MERCH_1767,BYJU'S Outlet 385,Education,Kanpur,Uttar Pradesh,19,Hybrid,True
+MERCH_1768,H&M Outlet 757,Shopping,Delhi,Delhi,10,Online,False
+MERCH_1769,SBI General Insurance Outlet 250,Insurance,Ahmedabad,Gujarat,36,Retail,True
+MERCH_1770,MedPlus Outlet 536,Healthcare,Noida,Uttar Pradesh,23,Online,False
+MERCH_1771,SBI General Insurance Outlet 904,Insurance,Surat,Gujarat,24,Online,False
+MERCH_1772,Reliance Petroleum Outlet 387,Fuel,Chennai,Tamil Nadu,11,Retail,False
+MERCH_1773,Max Life Insurance Outlet 409,Insurance,Lucknow,Uttar Pradesh,92,Online,False
+MERCH_1774,Spotify Outlet 91,Entertainment,Chennai,Tamil Nadu,6,Retail,False
+MERCH_1775,Max Healthcare Outlet 329,Healthcare,Ludhiana,Punjab,22,Retail,True
+MERCH_1776,PVR Cinemas Outlet 61,Entertainment,Lucknow,Uttar Pradesh,37,Hybrid,False
+MERCH_1777,KFC Outlet 752,Food,Pune,Maharashtra,35,Online,False
+MERCH_1778,Hindustan Petroleum Outlet 970,Fuel,Mumbai,Maharashtra,37,Retail,False
+MERCH_1779,Simplilearn Outlet 978,Education,Chandigarh,Punjab,37,Hybrid,False
+MERCH_1780,Adani Electricity Outlet 720,Utility,Kochi,Kerala,42,Online,True
+MERCH_1781,MedPlus Outlet 231,Healthcare,Ahmedabad,Gujarat,24,Hybrid,True
+MERCH_1782,Youtube Premium Digital,Subscription,Mumbai,Maharashtra,44,Online,True
+MERCH_1783,AngelOne Deposit Digital,Investment,Trivandrum,Kerala,20,Online,False
+MERCH_1784,ICICI Lombard Outlet 428,Insurance,Mysore,Karnataka,20,Hybrid,False
+MERCH_1785,Tata Power Outlet 901,Utility,Lucknow,Uttar Pradesh,28,Online,True
+MERCH_1786,Domino's Outlet 669,Food,Kanpur,Uttar Pradesh,30,Hybrid,False
+MERCH_1787,Udemy Outlet 469,Education,Coimbatore,Tamil Nadu,16,Hybrid,False
+MERCH_1788,Bharat Petroleum Outlet 57,Fuel,Noida,Uttar Pradesh,5,Retail,False
+MERCH_1789,Air India Outlet 764,Travel,Kolkata,West Bengal,43,Online,True
+MERCH_1790,Local Pub Outlet 725,Dining_Out,Delhi,Delhi,16,Retail,True
+MERCH_1791,NoBroker Rent Outlet 761,Rent,Mumbai,Maharashtra,33,Retail,False
+MERCH_1792,Apollo Clinic Outlet 969,Healthcare,Mysore,Karnataka,41,Online,False
+MERCH_1793,SBI General Insurance Outlet 801,Insurance,Hyderabad,Telangana,24,Online,False
+MERCH_1794,Hardware Store Outlet 761,Other,Lucknow,Uttar Pradesh,44,Retail,False
+MERCH_1795,Bharat Petroleum Outlet 981,Fuel,Delhi,Delhi,21,Retail,True
+MERCH_1796,Airtel Fiber Outlet 778,Utility,Lucknow,Uttar Pradesh,24,Online,False
+MERCH_1797,Zara Outlet 629,Shopping,Chandigarh,Punjab,24,Retail,True
+MERCH_1798,HDFC Ergo Outlet 247,Insurance,Nagpur,Maharashtra,31,Online,False
+MERCH_1799,Gift Gallery Outlet 428,Other,Hyderabad,Telangana,5,Hybrid,False
+MERCH_1800,iCloud Storage Digital,Subscription,Chandigarh,Punjab,8,Online,True
+MERCH_1801,Gift Gallery Outlet 713,Other,Chennai,Tamil Nadu,43,Retail,False
+MERCH_1802,Blinkit Outlet 285,Grocery,Kanpur,Uttar Pradesh,34,Hybrid,False
+MERCH_1803,Tata Power Outlet 774,Utility,Bangalore,Karnataka,24,Online,False
+MERCH_1804,Decathlon Outlet 576,Shopping,Kochi,Kerala,24,Online,False
+MERCH_1805,iCloud Storage Digital,Subscription,Ahmedabad,Gujarat,43,Online,False
+MERCH_1806,H&M Outlet 359,Shopping,Lucknow,Uttar Pradesh,42,Online,True
+MERCH_1807,BESCOM Outlet 679,Utility,Bangalore,Karnataka,43,Online,False
+MERCH_1808,Bharat Petroleum Outlet 94,Fuel,Delhi,Delhi,18,Retail,False
+MERCH_1809,Indigo Outlet 693,Travel,Trivandrum,Kerala,8,Online,False
+MERCH_1810,BESCOM Outlet 217,Utility,Jaipur,Rajasthan,44,Online,False
+MERCH_1811,MakeMyTrip Flights Outlet 694,Travel,Bangalore,Karnataka,36,Retail,False
+MERCH_1812,Reliance Petroleum Outlet 870,Fuel,Bangalore,Karnataka,28,Retail,False
+MERCH_1813,Max Healthcare Outlet 722,Healthcare,Trivandrum,Kerala,24,Hybrid,False
+MERCH_1814,BESCOM Outlet 942,Utility,Coimbatore,Tamil Nadu,31,Online,False
+MERCH_1815,H&M Outlet 958,Shopping,Mumbai,Maharashtra,32,Retail,False
+MERCH_1816,Indraprastha Gas Outlet 974,Utility,Noida,Uttar Pradesh,18,Online,False
+MERCH_1817,KFC Outlet 593,Food,Ludhiana,Punjab,33,Online,False
+MERCH_1818,AngelOne Deposit Digital,Investment,Ludhiana,Punjab,41,Online,False
+MERCH_1819,IRCTC Outlet 268,Travel,Ludhiana,Punjab,12,Retail,False
+MERCH_1820,Apollo Clinic Outlet 180,Healthcare,Chennai,Tamil Nadu,35,Online,True
+MERCH_1821,DMart Outlet 66,Grocery,Hyderabad,Telangana,20,Hybrid,False
+MERCH_1822,KFC Outlet 636,Food,Nagpur,Maharashtra,40,Retail,False
+MERCH_1823,Barbeque Nation Outlet 922,Dining_Out,Mumbai,Maharashtra,26,Hybrid,False
+MERCH_1824,Practo Outlet 529,Healthcare,Kolkata,West Bengal,44,Retail,False
+MERCH_1825,Indian Oil Outlet 453,Fuel,Surat,Gujarat,13,Retail,False
+MERCH_1826,IRCTC Outlet 82,Travel,Mumbai,Maharashtra,41,Retail,False
+MERCH_1827,BESCOM Outlet 617,Utility,Jaipur,Rajasthan,41,Online,True
+MERCH_1828,DPS School Outlet 225,Education,Hyderabad,Telangana,13,Retail,False
+MERCH_1829,Ola Outlet 617,Travel,Udaipur,Rajasthan,25,Retail,True
+MERCH_1830,MedPlus Outlet 169,Healthcare,Surat,Gujarat,37,Hybrid,False
+MERCH_1831,Spotify Family Digital,Subscription,Jaipur,Rajasthan,38,Online,False
+MERCH_1832,Smaaash Outlet 646,Entertainment,Ahmedabad,Gujarat,24,Retail,False
+MERCH_1833,Local Restaurant Outlet 641,Food,Noida,Uttar Pradesh,38,Hybrid,False
+MERCH_1834,Shell Petrol Outlet 775,Fuel,Pune,Maharashtra,10,Retail,False
+MERCH_1835,Bharat Petroleum Outlet 887,Fuel,Nagpur,Maharashtra,11,Retail,True
+MERCH_1836,Local Tailor Outlet 589,Other,Udaipur,Rajasthan,26,Retail,False
+MERCH_1837,Coursera Outlet 43,Education,Delhi,Delhi,24,Retail,False
+MERCH_1838,Barbeque Nation Outlet 537,Dining_Out,Ahmedabad,Gujarat,37,Retail,True
+MERCH_1839,Taj Dining Outlet 52,Dining_Out,Chandigarh,Punjab,31,Hybrid,False
+MERCH_1840,H&M Outlet 211,Shopping,Lucknow,Uttar Pradesh,21,Hybrid,True
+MERCH_1841,Local Restaurant Outlet 213,Food,Coimbatore,Tamil Nadu,35,Hybrid,False
+MERCH_1842,Adani Electricity Outlet 666,Utility,Kolkata,West Bengal,15,Online,False
+MERCH_1843,Inox Outlet 114,Entertainment,Ludhiana,Punjab,6,Hybrid,False
+MERCH_1844,Mainland China Outlet 244,Dining_Out,Hyderabad,Telangana,37,Retail,False
+MERCH_1845,HDFC Ergo Outlet 359,Insurance,Chennai,Tamil Nadu,11,Retail,True
+MERCH_1846,Local Tailor Outlet 632,Other,Mumbai,Maharashtra,9,Online,False
+MERCH_1847,Shell Petrol Outlet 663,Fuel,Chennai,Tamil Nadu,5,Retail,False
+MERCH_1848,Reliance Petroleum Outlet 590,Fuel,Trivandrum,Kerala,28,Retail,False
+MERCH_1849,Burger King Outlet 666,Food,Pune,Maharashtra,21,Hybrid,False
+MERCH_1850,Zara Outlet 319,Shopping,Ahmedabad,Gujarat,9,Retail,False
+MERCH_1851,Bharat Petroleum Outlet 255,Fuel,Lucknow,Uttar Pradesh,27,Retail,False
+MERCH_1852,Local Tailor Outlet 60,Other,Udaipur,Rajasthan,38,Retail,False
+MERCH_1853,Nykaa Outlet 127,Shopping,Bangalore,Karnataka,17,Hybrid,False
+MERCH_1854,AngelOne Deposit Digital,Investment,Hyderabad,Telangana,29,Online,True
+MERCH_1855,NPS Contribution Digital,Investment,Mysore,Karnataka,31,Online,False
+MERCH_1856,Groww SIP Digital,Investment,Delhi,Delhi,41,Online,True
+MERCH_1857,Shell Petrol Outlet 58,Fuel,Mysore,Karnataka,36,Retail,True
+MERCH_1858,ICICI Lombard Outlet 821,Insurance,Coimbatore,Tamil Nadu,26,Retail,False
+MERCH_1859,Booking.com Outlet 160,Travel,Surat,Gujarat,35,Hybrid,True
+MERCH_1860,HDFC Ergo Outlet 164,Insurance,Ludhiana,Punjab,14,Online,False
+MERCH_1861,Simplilearn Outlet 920,Education,Ludhiana,Punjab,5,Hybrid,False
+MERCH_1862,Reliance Fresh Outlet 260,Grocery,Lucknow,Uttar Pradesh,7,Hybrid,False
+MERCH_1863,Gift Gallery Outlet 792,Other,Hyderabad,Telangana,31,Online,True
+MERCH_1864,Decathlon Outlet 582,Shopping,Trivandrum,Kerala,31,Online,False
+MERCH_1865,Hindustan Petroleum Outlet 40,Fuel,Udaipur,Rajasthan,37,Retail,True
+MERCH_1866,Spotify Family Digital,Subscription,Trivandrum,Kerala,16,Online,False
+MERCH_1867,Blinkit Outlet 337,Grocery,Pune,Maharashtra,19,Online,True
+MERCH_1868,Municipal Water Outlet 211,Utility,Coimbatore,Tamil Nadu,28,Online,False
+MERCH_1869,Housing Rent Transfer Outlet 467,Rent,Chandigarh,Punjab,42,Retail,True
+MERCH_1870,Reliance Fresh Outlet 389,Grocery,Nagpur,Maharashtra,14,Online,False
+MERCH_1871,Disney+ Hotstar Outlet 984,Entertainment,Kolkata,West Bengal,43,Online,False
+MERCH_1872,Tata Power Outlet 611,Utility,Chennai,Tamil Nadu,29,Online,False
+MERCH_1873,Tata Power Outlet 839,Utility,Nagpur,Maharashtra,35,Online,False
+MERCH_1874,Zara Outlet 142,Shopping,Udaipur,Rajasthan,27,Retail,False
+MERCH_1875,MakeMyTrip Flights Outlet 33,Travel,Noida,Uttar Pradesh,35,Retail,True
+MERCH_1876,Disney VIP Digital,Subscription,Bangalore,Karnataka,12,Online,False
+MERCH_1877,Amity University Outlet 469,Education,Mysore,Karnataka,38,Online,False
+MERCH_1878,Housing Rent Transfer Outlet 749,Rent,Mysore,Karnataka,25,Retail,False
+MERCH_1879,Municipal Water Outlet 449,Utility,Noida,Uttar Pradesh,42,Online,False
+MERCH_1880,Reliance Petroleum Outlet 155,Fuel,Kochi,Kerala,27,Retail,False
+MERCH_1881,Max Life Insurance Outlet 496,Insurance,Lucknow,Uttar Pradesh,26,Online,False
+MERCH_1882,Microsoft 365 Digital,Subscription,Jaipur,Rajasthan,5,Online,True
+MERCH_1883,Barbeque Nation Outlet 807,Dining_Out,Pune,Maharashtra,27,Retail,False
+MERCH_1884,LIC India Outlet 280,Insurance,Mysore,Karnataka,6,Online,True
+MERCH_1885,Air India Outlet 723,Travel,Udaipur,Rajasthan,18,Hybrid,False
+MERCH_1886,Starbucks Outlet 28,Food,Kolkata,West Bengal,17,Retail,True
+MERCH_1887,Smaaash Outlet 763,Entertainment,Nagpur,Maharashtra,14,Retail,True
+MERCH_1888,Myntra Outlet 852,Shopping,Kolkata,West Bengal,13,Hybrid,True
+MERCH_1889,Punjab Grill Outlet 807,Dining_Out,Jaipur,Rajasthan,23,Hybrid,False
+MERCH_1890,Hardware Store Outlet 201,Other,Bangalore,Karnataka,14,Retail,False
+MERCH_1891,ICICI Lombard Outlet 731,Insurance,Ahmedabad,Gujarat,81,Retail,True
+MERCH_1892,Spencer's Outlet 842,Grocery,Kolkata,West Bengal,42,Hybrid,True
+MERCH_1893,Local Tailor Outlet 364,Other,Kanpur,Uttar Pradesh,22,Hybrid,False
+MERCH_1894,BookMyShow Outlet 957,Entertainment,Coimbatore,Tamil Nadu,12,Online,False
+MERCH_1895,CCD Outlet 475,Food,Mysore,Karnataka,30,Online,False
+MERCH_1896,Cred RentPay Outlet 959,Rent,Ludhiana,Punjab,43,Retail,False
+MERCH_1897,DAV College Outlet 825,Education,Jaipur,Rajasthan,30,Online,False
+MERCH_1898,Gift Gallery Outlet 180,Other,Chennai,Tamil Nadu,21,Online,False
+MERCH_1899,Airtel Fiber Outlet 443,Utility,Delhi,Delhi,38,Online,False
+MERCH_1900,ICICI Lombard Outlet 656,Insurance,Surat,Gujarat,30,Retail,False
+MERCH_1901,AngelOne Deposit Digital,Investment,Udaipur,Rajasthan,33,Online,False
+MERCH_1902,Netflix Outlet 855,Entertainment,Udaipur,Rajasthan,31,Hybrid,False
+MERCH_1903,MedPlus Outlet 882,Healthcare,Jaipur,Rajasthan,28,Online,False
+MERCH_1904,Indigo Outlet 715,Travel,Kochi,Kerala,19,Online,False
+MERCH_1905,Tata Power Outlet 456,Utility,Mysore,Karnataka,11,Online,True
+MERCH_1906,Local Restaurant Outlet 652,Food,Udaipur,Rajasthan,14,Online,False
+MERCH_1907,ICICI Lombard Outlet 659,Insurance,Chennai,Tamil Nadu,11,Retail,False
+MERCH_1908,Local Tailor Outlet 568,Other,Noida,Uttar Pradesh,22,Hybrid,False
+MERCH_1909,Netflix Outlet 672,Entertainment,Trivandrum,Kerala,30,Retail,True
+MERCH_1910,Indian Oil Outlet 767,Fuel,Delhi,Delhi,23,Retail,True
+MERCH_1911,Amazon Prime Outlet 586,Entertainment,Mysore,Karnataka,31,Hybrid,False
+MERCH_1912,Local Kirana Outlet 608,Grocery,Kanpur,Uttar Pradesh,19,Hybrid,True
+MERCH_1913,Indian Oil Outlet 744,Fuel,Mysore,Karnataka,31,Retail,False
+MERCH_1914,Ajio Outlet 24,Shopping,Delhi,Delhi,44,Hybrid,True
+MERCH_1915,Pizza Hut Outlet 457,Food,Jaipur,Rajasthan,35,Retail,False
+MERCH_1916,Groww SIP Digital,Investment,Ahmedabad,Gujarat,28,Online,True
+MERCH_1917,Practo Outlet 142,Healthcare,Nagpur,Maharashtra,17,Online,False
+MERCH_1918,Zara Outlet 594,Shopping,Noida,Uttar Pradesh,9,Online,True
+MERCH_1919,Haldirams Outlet 229,Food,Mysore,Karnataka,18,Hybrid,False
+MERCH_1920,Zara Outlet 74,Shopping,Kanpur,Uttar Pradesh,38,Online,False
+MERCH_1921,Indian Oil Outlet 960,Fuel,Noida,Uttar Pradesh,5,Retail,False
+MERCH_1922,BookMyShow Outlet 61,Entertainment,Ahmedabad,Gujarat,17,Retail,True
+MERCH_1923,Coursera Outlet 313,Education,Surat,Gujarat,38,Hybrid,False
+MERCH_1924,Taj Dining Outlet 907,Dining_Out,Lucknow,Uttar Pradesh,32,Online,False
+MERCH_1925,Adani Electricity Outlet 915,Utility,Coimbatore,Tamil Nadu,23,Online,False
+MERCH_1926,Social Outlet 405,Dining_Out,Chandigarh,Punjab,10,Online,False
+MERCH_1927,Local Kirana Outlet 996,Grocery,Kolkata,West Bengal,28,Online,False
+MERCH_1928,Indigo Outlet 597,Travel,Noida,Uttar Pradesh,23,Retail,True
+MERCH_1929,Starbucks Outlet 369,Food,Bangalore,Karnataka,20,Online,False
+MERCH_1930,Netflix Outlet 401,Entertainment,Chennai,Tamil Nadu,22,Retail,False
+MERCH_1931,Hardware Store Outlet 512,Other,Mysore,Karnataka,35,Online,False
+MERCH_1932,Hard Rock Cafe Outlet 209,Dining_Out,Pune,Maharashtra,35,Retail,False
+MERCH_1933,Hard Rock Cafe Outlet 806,Dining_Out,Kolkata,West Bengal,34,Retail,True
+MERCH_1934,Apollo Pharmacy Outlet 824,Healthcare,Nagpur,Maharashtra,14,Retail,False
+MERCH_1935,NPS Contribution Digital,Investment,Mysore,Karnataka,17,Online,False
+MERCH_1936,Shell Petrol Outlet 87,Fuel,Jaipur,Rajasthan,17,Retail,False
+MERCH_1937,Flipkart Outlet 251,Shopping,Ludhiana,Punjab,30,Retail,False
+MERCH_1938,Zerodha Fund Digital,Investment,Kanpur,Uttar Pradesh,14,Online,False
+MERCH_1939,Zara Outlet 122,Shopping,Kanpur,Uttar Pradesh,8,Retail,False
+MERCH_1940,NoBroker Rent Outlet 222,Rent,Trivandrum,Kerala,8,Retail,False
+MERCH_1941,Fortis Hospital Outlet 907,Healthcare,Coimbatore,Tamil Nadu,22,Online,False
+MERCH_1942,Housing Rent Transfer Outlet 739,Rent,Delhi,Delhi,42,Retail,True
+MERCH_1943,Social Outlet 881,Dining_Out,Chennai,Tamil Nadu,11,Hybrid,False
+MERCH_1944,Zomato Outlet 486,Food,Jaipur,Rajasthan,33,Online,False
+MERCH_1945,Bharat Petroleum Outlet 468,Fuel,Coimbatore,Tamil Nadu,13,Retail,False
+MERCH_1946,AngelOne Deposit Digital,Investment,Pune,Maharashtra,20,Online,False
+MERCH_1947,Zepto Outlet 317,Grocery,Noida,Uttar Pradesh,94,Retail,True
+MERCH_1948,Inox Outlet 577,Entertainment,Ahmedabad,Gujarat,31,Retail,False
+MERCH_1949,Youtube Premium Digital,Subscription,Pune,Maharashtra,17,Online,False
+MERCH_1950,Jio Fiber Outlet 896,Utility,Delhi,Delhi,22,Online,False
+MERCH_1951,Local Tailor Outlet 922,Other,Pune,Maharashtra,31,Online,False
+MERCH_1952,DMart Outlet 73,Grocery,Kolkata,West Bengal,21,Hybrid,False
+MERCH_1953,Youtube Premium Digital,Subscription,Trivandrum,Kerala,35,Online,False
+MERCH_1954,Haldirams Outlet 402,Food,Kolkata,West Bengal,44,Hybrid,False
+MERCH_1955,iCloud Storage Digital,Subscription,Delhi,Delhi,5,Online,False
+MERCH_1956,Reliance Fresh Outlet 48,Grocery,Mysore,Karnataka,37,Online,False
+MERCH_1957,Yatra Outlet 106,Travel,Mumbai,Maharashtra,41,Retail,False
+MERCH_1958,Cred RentPay Outlet 334,Rent,Coimbatore,Tamil Nadu,17,Retail,False
+MERCH_1959,Indigo Outlet 382,Travel,Kolkata,West Bengal,6,Retail,False
+MERCH_1960,Udemy Outlet 415,Education,Chennai,Tamil Nadu,17,Online,False
+MERCH_1961,LIC India Outlet 822,Insurance,Chennai,Tamil Nadu,34,Retail,False
+MERCH_1962,Social Outlet 307,Dining_Out,Bangalore,Karnataka,10,Retail,True
+MERCH_1963,Local Clinic Outlet 350,Healthcare,Chandigarh,Punjab,30,Online,False
+MERCH_1964,Netflix Outlet 432,Entertainment,Ahmedabad,Gujarat,19,Retail,False
+MERCH_1965,BookMyShow Outlet 681,Entertainment,Chennai,Tamil Nadu,44,Hybrid,True
+MERCH_1966,SBI General Insurance Outlet 248,Insurance,Udaipur,Rajasthan,28,Online,True
+MERCH_1967,iCloud Storage Digital,Subscription,Pune,Maharashtra,15,Online,False
+MERCH_1968,Amity University Outlet 723,Education,Mumbai,Maharashtra,29,Retail,False
+MERCH_1969,Taj Dining Outlet 593,Dining_Out,Kanpur,Uttar Pradesh,10,Retail,False
+MERCH_1970,Haldirams Outlet 767,Food,Ludhiana,Punjab,41,Retail,False
+MERCH_1971,Indian Oil Outlet 781,Fuel,Noida,Uttar Pradesh,22,Retail,False
+MERCH_1972,Social Outlet 193,Dining_Out,Coimbatore,Tamil Nadu,8,Retail,False
+MERCH_1973,DMart Outlet 263,Grocery,Hyderabad,Telangana,22,Hybrid,True
+MERCH_1974,Yatra Outlet 928,Travel,Pune,Maharashtra,30,Hybrid,False
+MERCH_1975,Indraprastha Gas Outlet 185,Utility,Kolkata,West Bengal,43,Online,False
+MERCH_1976,Punjab Grill Outlet 540,Dining_Out,Surat,Gujarat,29,Online,False
+MERCH_1977,Jio Fiber Outlet 816,Utility,Bangalore,Karnataka,25,Online,False
+MERCH_1978,Tata Power Outlet 143,Utility,Chandigarh,Punjab,5,Online,True
+MERCH_1979,Society Maintenance Outlet 942,Rent,Kanpur,Uttar Pradesh,23,Retail,True
+MERCH_1980,Apollo Clinic Outlet 666,Healthcare,Chandigarh,Punjab,26,Online,True
+MERCH_1981,Shell Petrol Outlet 886,Fuel,Ludhiana,Punjab,14,Retail,False
+MERCH_1982,Nykaa Outlet 675,Shopping,Surat,Gujarat,11,Online,True
+MERCH_1983,Max Healthcare Outlet 175,Healthcare,Ahmedabad,Gujarat,20,Hybrid,False
+MERCH_1984,Hard Rock Cafe Outlet 665,Dining_Out,Surat,Gujarat,7,Retail,False
+MERCH_1985,Ola Outlet 870,Travel,Lucknow,Uttar Pradesh,24,Retail,False
+MERCH_1986,Reliance Fresh Outlet 797,Grocery,Pune,Maharashtra,15,Hybrid,True
+MERCH_1987,Spotify Family Digital,Subscription,Surat,Gujarat,27,Online,False
+MERCH_1988,Zara Outlet 852,Shopping,Nagpur,Maharashtra,14,Hybrid,False
+MERCH_1989,KFC Outlet 401,Food,Mysore,Karnataka,37,Hybrid,False
+MERCH_1990,Hindustan Petroleum Outlet 391,Fuel,Pune,Maharashtra,20,Retail,False
+MERCH_1991,Zepto Outlet 277,Grocery,Surat,Gujarat,44,Online,False
+MERCH_1992,IRCTC Outlet 432,Travel,Coimbatore,Tamil Nadu,40,Retail,False
+MERCH_1993,Smaaash Outlet 839,Entertainment,Chennai,Tamil Nadu,12,Retail,False
+MERCH_1994,Nykaa Outlet 872,Shopping,Kanpur,Uttar Pradesh,8,Online,False
+MERCH_1995,BESCOM Outlet 739,Utility,Bangalore,Karnataka,19,Online,False
+MERCH_1996,Society Maintenance Outlet 811,Rent,Pune,Maharashtra,23,Retail,False
+MERCH_1997,Max Healthcare Outlet 569,Healthcare,Bangalore,Karnataka,82,Online,False
+MERCH_1998,Apollo Clinic Outlet 965,Healthcare,Kanpur,Uttar Pradesh,35,Hybrid,True
+MERCH_1999,Ajio Outlet 215,Shopping,Kolkata,West Bengal,38,Retail,False
+MERCH_2000,NPS Contribution Digital,Investment,Chennai,Tamil Nadu,11,Online,False

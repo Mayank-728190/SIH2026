@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+motor
+qdrant-client
+google-genai
+livekit
+livekit-api
+livekit-agents
+livekit-plugins-deepgram>=1.0.0
+livekit-plugins-silero>=1.0.0
+livekit-plugins-google
+pydantic
+pydantic-settings
+python-dotenv
+transitions
+pytest
+pytest-asyncio

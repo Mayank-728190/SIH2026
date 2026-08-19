@@ -1,0 +1,501 @@
+Offer_ID,Offer_Name,Category,Merchant_ID,Cashback_Percentage,Reward_Points,Offer_Start_Date,Offer_End_Date
+OFFER_001,First Time User: Get 5% Cashback at Local Pub,Dining_Out,MERCH_1410,5,0,2025-02-25,2025-11-22
+OFFER_002,First Time User: Earn 500 Reward Points at Inox,Entertainment,MERCH_1550,0,500,2025-08-01,2025-12-04
+OFFER_003,Festive Special: Get 20% Cashback at Zepto,Grocery,MERCH_1947,20,0,2024-11-21,2025-07-18
+OFFER_004,Mega Rewards: Earn 500 Reward Points at Taj Dining,Dining_Out,MERCH_0223,0,500,2025-03-26,2025-11-13
+OFFER_005,Mega Rewards: Get 10% Cashback at Netflix Premium,Subscription,MERCH_1134,10,0,2025-04-12,2026-03-19
+OFFER_006,Exclusive Deal: Get 10% Cashback at Cred RentPay,Rent,MERCH_1275,10,0,2025-04-13,2026-01-19
+OFFER_007,Mega Rewards: Earn 500 Reward Points at Amazon Prime,Entertainment,MERCH_1115,0,500,2025-04-16,2025-12-03
+OFFER_008,Exclusive Deal: Earn 500 Reward Points at Youtube Premium,Subscription,MERCH_1782,0,500,2024-12-09,2025-11-02
+OFFER_009,Exclusive Deal: Get 15% Cashback at Indian Oil,Fuel,MERCH_1194,15,0,2025-03-13,2025-12-27
+OFFER_010,Weekend Bonanza: Earn 200 Reward Points at Indigo,Travel,MERCH_1262,0,200,2025-05-05,2025-10-20
+OFFER_011,Exclusive Deal: Earn 1000 Reward Points at Local Tailor,Other,MERCH_0366,0,1000,2025-06-23,2025-09-29
+OFFER_012,First Time User: Earn 1000 Reward Points at Youtube Premium,Subscription,MERCH_1782,0,1000,2025-02-01,2025-05-08
+OFFER_013,First Time User: Get 10% Cashback at BYJU'S,Education,MERCH_1767,10,0,2025-08-02,2026-01-13
+OFFER_014,Weekend Bonanza: Get 5% Cashback at Indian Oil,Fuel,MERCH_0788,5,0,2024-12-20,2025-07-08
+OFFER_015,First Time User: Get 20% Cashback at Bharat Petroleum,Fuel,MERCH_1795,20,0,2025-01-05,2025-09-21
+OFFER_016,Festive Special: Get 10% Cashback at Gift Gallery,Other,MERCH_0801,10,0,2025-01-20,2025-09-10
+OFFER_017,Super Cashback: Get 10% Cashback at Reliance Petroleum,Fuel,MERCH_1120,10,0,2025-01-06,2025-09-02
+OFFER_018,Weekend Bonanza: Get 5% Cashback at H&M,Shopping,MERCH_1593,5,0,2025-07-09,2026-02-08
+OFFER_019,Super Cashback: Earn 1000 Reward Points at Local Kirana,Grocery,MERCH_1491,0,1000,2025-02-15,2025-08-21
+OFFER_020,Mega Rewards: Earn 500 Reward Points at Smaaash,Entertainment,MERCH_1477,0,500,2025-08-26,2025-11-05
+OFFER_021,Mega Rewards: Earn 200 Reward Points at Municipal Water,Utility,MERCH_0656,0,200,2024-11-06,2025-04-22
+OFFER_022,Exclusive Deal: Get 10% Cashback at Local Tailor,Other,MERCH_1526,10,0,2025-06-16,2026-04-02
+OFFER_023,Super Cashback: Earn 500 Reward Points at Starbucks,Food,MERCH_1147,0,500,2024-12-15,2025-10-09
+OFFER_024,Festive Special: Earn 1000 Reward Points at Booking.com,Travel,MERCH_1545,0,1000,2025-07-15,2025-11-12
+OFFER_025,Weekend Bonanza: Get 5% Cashback at NPS Contribution,Investment,MERCH_1119,5,0,2025-05-13,2025-11-03
+OFFER_026,Super Cashback: Get 5% Cashback at Myntra,Shopping,MERCH_1021,5,0,2025-07-13,2026-03-04
+OFFER_027,Mega Rewards: Earn 5000 Reward Points at Reliance Fresh,Grocery,MERCH_0446,0,5000,2025-01-01,2025-05-16
+OFFER_028,Mega Rewards: Get 5% Cashback at Tata Power,Utility,MERCH_0376,5,0,2024-10-31,2025-09-30
+OFFER_029,Weekend Bonanza: Get 5% Cashback at Reliance Fresh,Grocery,MERCH_0372,5,0,2025-04-25,2026-03-22
+OFFER_030,Weekend Bonanza: Earn 500 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_0985,0,500,2024-12-10,2025-06-17
+OFFER_031,Weekend Bonanza: Earn 2000 Reward Points at AngelOne Deposit,Investment,MERCH_1854,0,2000,2025-03-31,2025-06-16
+OFFER_032,Exclusive Deal: Earn 2000 Reward Points at Society Maintenance,Rent,MERCH_0626,0,2000,2024-11-09,2025-07-20
+OFFER_033,First Time User: Earn 2000 Reward Points at Punjab Grill,Dining_Out,MERCH_1607,0,2000,2025-03-18,2025-05-24
+OFFER_034,Mega Rewards: Earn 2000 Reward Points at NPS Contribution,Investment,MERCH_0173,0,2000,2025-07-06,2026-01-27
+OFFER_035,Exclusive Deal: Get 20% Cashback at Pet Shop,Other,MERCH_0371,20,0,2025-01-02,2025-12-15
+OFFER_036,Exclusive Deal: Get 5% Cashback at Bharat Petroleum,Fuel,MERCH_0139,5,0,2025-02-01,2025-07-12
+OFFER_037,First Time User: Earn 5000 Reward Points at Subway,Food,MERCH_0618,0,5000,2024-11-11,2025-06-29
+OFFER_038,Exclusive Deal: Get 10% Cashback at Bharat Petroleum,Fuel,MERCH_1620,10,0,2025-02-01,2025-11-24
+OFFER_039,First Time User: Get 5% Cashback at H&M,Shopping,MERCH_1593,5,0,2024-10-28,2025-03-23
+OFFER_040,Festive Special: Earn 200 Reward Points at Local Pub,Dining_Out,MERCH_1410,0,200,2025-01-28,2025-10-22
+OFFER_041,Exclusive Deal: Get 15% Cashback at Pet Shop,Other,MERCH_1238,15,0,2025-01-24,2025-11-02
+OFFER_042,Weekend Bonanza: Get 15% Cashback at DAV College,Education,MERCH_0086,15,0,2024-10-20,2025-06-02
+OFFER_043,Super Cashback: Earn 2000 Reward Points at Cred RentPay,Rent,MERCH_1592,0,2000,2024-12-04,2025-02-07
+OFFER_044,Festive Special: Get 5% Cashback at Booking.com,Travel,MERCH_1859,5,0,2025-05-07,2025-12-26
+OFFER_045,Mega Rewards: Earn 1000 Reward Points at Spencer's,Grocery,MERCH_1367,0,1000,2025-01-26,2025-10-23
+OFFER_046,Exclusive Deal: Get 15% Cashback at Shoppers Stop,Shopping,MERCH_0377,15,0,2025-07-15,2026-05-23
+OFFER_047,Mega Rewards: Earn 500 Reward Points at Social,Dining_Out,MERCH_0743,0,500,2025-01-13,2025-04-28
+OFFER_048,Exclusive Deal: Earn 1000 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_0928,0,1000,2025-06-12,2026-02-22
+OFFER_049,First Time User: Get 20% Cashback at DMart,Grocery,MERCH_1420,20,0,2025-05-08,2025-08-29
+OFFER_050,Super Cashback: Earn 2000 Reward Points at Zomato,Food,MERCH_0534,0,2000,2024-11-26,2025-09-15
+OFFER_051,Festive Special: Earn 2000 Reward Points at Bharat Petroleum,Fuel,MERCH_0252,0,2000,2025-01-26,2025-10-04
+OFFER_052,Exclusive Deal: Earn 2000 Reward Points at ICICI Lombard,Insurance,MERCH_0580,0,2000,2025-01-24,2025-12-24
+OFFER_053,First Time User: Get 5% Cashback at Adani Electricity,Utility,MERCH_0507,5,0,2024-11-04,2025-02-19
+OFFER_054,First Time User: Get 10% Cashback at Shell Petrol,Fuel,MERCH_1572,10,0,2024-12-18,2025-11-14
+OFFER_055,Exclusive Deal: Get 15% Cashback at Burger King,Food,MERCH_1751,15,0,2025-01-27,2025-09-03
+OFFER_056,Festive Special: Earn 5000 Reward Points at Microsoft 365,Subscription,MERCH_1362,0,5000,2025-08-12,2026-02-07
+OFFER_057,Weekend Bonanza: Get 5% Cashback at Netflix Premium,Subscription,MERCH_1134,5,0,2024-10-18,2024-12-27
+OFFER_058,Exclusive Deal: Earn 200 Reward Points at PVR Cinemas,Entertainment,MERCH_1397,0,200,2024-11-15,2025-06-19
+OFFER_059,Exclusive Deal: Get 5% Cashback at Hard Rock Cafe,Dining_Out,MERCH_0928,5,0,2025-03-28,2025-06-19
+OFFER_060,Super Cashback: Get 20% Cashback at Flipkart,Shopping,MERCH_1447,20,0,2025-08-28,2026-05-19
+OFFER_061,First Time User: Earn 200 Reward Points at Salon & Spa,Other,MERCH_0238,0,200,2025-04-20,2026-04-07
+OFFER_062,Super Cashback: Earn 200 Reward Points at IRCTC,Travel,MERCH_0277,0,200,2025-05-10,2026-04-08
+OFFER_063,Festive Special: Get 10% Cashback at Municipal Water,Utility,MERCH_1386,10,0,2024-10-26,2025-03-07
+OFFER_064,Exclusive Deal: Earn 500 Reward Points at Local Pub,Dining_Out,MERCH_0108,0,500,2025-01-11,2025-03-20
+OFFER_065,Weekend Bonanza: Get 20% Cashback at Max Life Insurance,Insurance,MERCH_0341,20,0,2025-07-07,2026-02-16
+OFFER_066,Mega Rewards: Earn 5000 Reward Points at Booking.com,Travel,MERCH_1859,0,5000,2025-04-10,2026-02-11
+OFFER_067,Mega Rewards: Earn 2000 Reward Points at Max Life Insurance,Insurance,MERCH_0435,0,2000,2024-12-06,2025-10-01
+OFFER_068,Super Cashback: Get 20% Cashback at Amazon Prime,Entertainment,MERCH_1310,20,0,2025-08-09,2025-10-19
+OFFER_069,Weekend Bonanza: Get 5% Cashback at NPS Contribution,Investment,MERCH_0173,5,0,2025-04-20,2026-03-10
+OFFER_070,Super Cashback: Earn 2000 Reward Points at Max Life Insurance,Insurance,MERCH_0504,0,2000,2025-04-06,2026-03-10
+OFFER_071,First Time User: Earn 2000 Reward Points at Reliance Fresh,Grocery,MERCH_0372,0,2000,2025-08-06,2026-02-22
+OFFER_072,Mega Rewards: Get 10% Cashback at Netflix Premium,Subscription,MERCH_0509,10,0,2024-10-04,2025-06-25
+OFFER_073,Super Cashback: Earn 500 Reward Points at Air India,Travel,MERCH_0796,0,500,2025-03-17,2025-12-18
+OFFER_074,Festive Special: Earn 5000 Reward Points at iCloud Storage,Subscription,MERCH_1050,0,5000,2025-07-05,2026-03-15
+OFFER_075,Mega Rewards: Earn 5000 Reward Points at BESCOM,Utility,MERCH_1764,0,5000,2024-12-20,2025-05-24
+OFFER_076,Weekend Bonanza: Earn 1000 Reward Points at Zoomcar,Travel,MERCH_0858,0,1000,2025-08-19,2025-12-20
+OFFER_077,Mega Rewards: Earn 2000 Reward Points at Reliance Petroleum,Fuel,MERCH_0121,0,2000,2025-05-07,2025-09-09
+OFFER_078,Festive Special: Earn 2000 Reward Points at Reliance Fresh,Grocery,MERCH_0835,0,2000,2025-03-01,2026-02-07
+OFFER_079,Exclusive Deal: Earn 5000 Reward Points at Local Kirana,Grocery,MERCH_1714,0,5000,2024-11-29,2025-06-13
+OFFER_080,First Time User: Get 20% Cashback at Indian Oil,Fuel,MERCH_1194,20,0,2025-05-02,2026-02-23
+OFFER_081,Super Cashback: Earn 5000 Reward Points at Youtube Premium,Subscription,MERCH_1155,0,5000,2025-01-12,2025-05-05
+OFFER_082,Weekend Bonanza: Get 10% Cashback at Starbucks,Food,MERCH_0575,10,0,2024-10-14,2025-03-11
+OFFER_083,Super Cashback: Get 10% Cashback at MedPlus,Healthcare,MERCH_0125,10,0,2025-04-12,2025-12-22
+OFFER_084,Weekend Bonanza: Earn 1000 Reward Points at Tata Power,Utility,MERCH_0133,0,1000,2024-11-23,2025-09-25
+OFFER_085,Weekend Bonanza: Earn 5000 Reward Points at H&M,Shopping,MERCH_0589,0,5000,2025-05-22,2026-02-02
+OFFER_086,Super Cashback: Get 20% Cashback at Taj Dining,Dining_Out,MERCH_0223,20,0,2025-04-14,2025-12-14
+OFFER_087,Mega Rewards: Get 20% Cashback at Gift Gallery,Other,MERCH_1027,20,0,2025-01-27,2025-07-23
+OFFER_088,Mega Rewards: Earn 5000 Reward Points at Housing Rent Transfer,Rent,MERCH_1066,0,5000,2025-03-10,2025-09-10
+OFFER_089,Super Cashback: Earn 2000 Reward Points at DMart,Grocery,MERCH_1420,0,2000,2025-03-17,2025-11-29
+OFFER_090,First Time User: Get 15% Cashback at Hindustan Petroleum,Fuel,MERCH_1865,15,0,2025-05-01,2025-07-06
+OFFER_091,Festive Special: Earn 2000 Reward Points at Disney+ Hotstar,Entertainment,MERCH_1282,0,2000,2025-06-29,2026-06-08
+OFFER_092,Festive Special: Get 15% Cashback at Youtube Premium,Subscription,MERCH_1223,15,0,2024-12-16,2025-10-11
+OFFER_093,Mega Rewards: Get 5% Cashback at NoBroker Rent,Rent,MERCH_0766,5,0,2024-12-06,2025-09-12
+OFFER_094,Super Cashback: Earn 200 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_0985,0,200,2025-01-05,2025-10-31
+OFFER_095,Festive Special: Earn 200 Reward Points at Spencer's,Grocery,MERCH_1273,0,200,2025-08-07,2026-01-03
+OFFER_096,Exclusive Deal: Earn 1000 Reward Points at Zerodha Fund,Investment,MERCH_0229,0,1000,2025-07-11,2025-11-27
+OFFER_097,Mega Rewards: Earn 2000 Reward Points at Starbucks,Food,MERCH_0587,0,2000,2024-11-22,2025-07-17
+OFFER_098,Weekend Bonanza: Earn 500 Reward Points at MakeMyTrip,Travel,MERCH_1340,0,500,2024-10-27,2025-04-29
+OFFER_099,First Time User: Get 20% Cashback at DMart,Grocery,MERCH_1420,20,0,2025-04-22,2026-01-14
+OFFER_100,Exclusive Deal: Get 10% Cashback at Shell Petrol,Fuel,MERCH_1713,10,0,2024-11-19,2025-07-07
+OFFER_101,Exclusive Deal: Earn 2000 Reward Points at Local Tailor,Other,MERCH_0404,0,2000,2024-10-18,2025-06-13
+OFFER_102,Weekend Bonanza: Get 5% Cashback at Spotify,Entertainment,MERCH_1413,5,0,2024-10-27,2025-06-06
+OFFER_103,Mega Rewards: Earn 2000 Reward Points at DPS School,Education,MERCH_1193,0,2000,2025-08-16,2025-10-23
+OFFER_104,First Time User: Earn 2000 Reward Points at BYJU'S,Education,MERCH_1767,0,2000,2025-08-09,2026-01-09
+OFFER_105,Exclusive Deal: Earn 1000 Reward Points at Housing Rent Transfer,Rent,MERCH_1869,0,1000,2025-02-06,2025-10-13
+OFFER_106,Exclusive Deal: Earn 200 Reward Points at IRCTC,Travel,MERCH_0103,0,200,2025-06-30,2026-05-13
+OFFER_107,Exclusive Deal: Get 5% Cashback at Flipkart,Shopping,MERCH_0445,5,0,2025-04-11,2025-10-17
+OFFER_108,First Time User: Earn 200 Reward Points at Groww SIP,Investment,MERCH_0789,0,200,2025-04-13,2025-07-28
+OFFER_109,Mega Rewards: Get 20% Cashback at Gift Gallery,Other,MERCH_0801,20,0,2025-03-15,2025-11-30
+OFFER_110,Mega Rewards: Earn 2000 Reward Points at Local Pub,Dining_Out,MERCH_0944,0,2000,2024-10-25,2025-09-17
+OFFER_111,Weekend Bonanza: Get 15% Cashback at Booking.com,Travel,MERCH_1545,15,0,2024-12-30,2025-11-15
+OFFER_112,Mega Rewards: Earn 200 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_0928,0,200,2025-01-26,2025-05-22
+OFFER_113,Festive Special: Earn 5000 Reward Points at Yatra,Travel,MERCH_0567,0,5000,2025-03-06,2025-09-07
+OFFER_114,Mega Rewards: Get 10% Cashback at Groww SIP,Investment,MERCH_1856,10,0,2024-10-12,2025-03-18
+OFFER_115,Mega Rewards: Earn 2000 Reward Points at Youtube Premium,Subscription,MERCH_1068,0,2000,2024-12-25,2025-09-11
+OFFER_116,Mega Rewards: Earn 1000 Reward Points at Blinkit,Grocery,MERCH_1651,0,1000,2025-07-12,2026-05-15
+OFFER_117,First Time User: Earn 1000 Reward Points at Max Life Insurance,Insurance,MERCH_0435,0,1000,2025-04-27,2025-10-23
+OFFER_118,Exclusive Deal: Get 20% Cashback at Myntra,Shopping,MERCH_1021,20,0,2025-08-24,2026-03-13
+OFFER_119,Mega Rewards: Earn 2000 Reward Points at DPS School,Education,MERCH_1089,0,2000,2024-10-21,2025-01-17
+OFFER_120,First Time User: Get 5% Cashback at Salon & Spa,Other,MERCH_1519,5,0,2025-01-27,2025-11-06
+OFFER_121,Festive Special: Get 15% Cashback at Youtube Premium,Subscription,MERCH_1223,15,0,2025-05-13,2025-11-11
+OFFER_122,Festive Special: Earn 500 Reward Points at Simplilearn,Education,MERCH_1761,0,500,2025-05-25,2026-04-10
+OFFER_123,Exclusive Deal: Earn 500 Reward Points at Social,Dining_Out,MERCH_0743,0,500,2025-09-01,2026-05-24
+OFFER_124,First Time User: Earn 200 Reward Points at Municipal Water,Utility,MERCH_0656,0,200,2025-01-31,2025-08-07
+OFFER_125,First Time User: Earn 500 Reward Points at IRCTC,Travel,MERCH_1020,0,500,2025-05-30,2026-05-19
+OFFER_126,Mega Rewards: Get 20% Cashback at DMart,Grocery,MERCH_1973,20,0,2025-05-16,2025-08-10
+OFFER_127,Mega Rewards: Get 20% Cashback at Netflix Premium,Subscription,MERCH_1134,20,0,2025-03-18,2025-08-14
+OFFER_128,Weekend Bonanza: Earn 200 Reward Points at Indian Oil,Fuel,MERCH_0511,0,200,2025-03-11,2025-09-28
+OFFER_129,Mega Rewards: Earn 1000 Reward Points at Adani Electricity,Utility,MERCH_1780,0,1000,2024-10-17,2025-04-15
+OFFER_130,Weekend Bonanza: Earn 500 Reward Points at BookMyShow,Entertainment,MERCH_1922,0,500,2025-05-14,2026-01-08
+OFFER_131,Festive Special: Get 5% Cashback at Hard Rock Cafe,Dining_Out,MERCH_0985,5,0,2025-02-09,2025-05-22
+OFFER_132,Weekend Bonanza: Get 15% Cashback at Bharat Petroleum,Fuel,MERCH_0945,15,0,2025-08-15,2026-05-06
+OFFER_133,Exclusive Deal: Earn 1000 Reward Points at MakeMyTrip,Travel,MERCH_1551,0,1000,2024-10-03,2025-02-04
+OFFER_134,Mega Rewards: Get 5% Cashback at Local Pub,Dining_Out,MERCH_0096,5,0,2024-10-05,2025-08-03
+OFFER_135,Weekend Bonanza: Get 10% Cashback at NoBroker Rent,Rent,MERCH_1381,10,0,2025-02-15,2025-10-02
+OFFER_136,Super Cashback: Earn 2000 Reward Points at iCloud Storage,Subscription,MERCH_0421,0,2000,2025-01-31,2025-04-06
+OFFER_137,Exclusive Deal: Get 20% Cashback at Ola,Travel,MERCH_0380,20,0,2024-12-01,2025-06-24
+OFFER_138,Super Cashback: Earn 5000 Reward Points at MakeMyTrip Flights,Travel,MERCH_0576,0,5000,2025-07-29,2026-07-14
+OFFER_139,Mega Rewards: Earn 1000 Reward Points at Air India,Travel,MERCH_1789,0,1000,2025-05-12,2025-10-12
+OFFER_140,Exclusive Deal: Get 15% Cashback at Groww SIP,Investment,MERCH_0156,15,0,2025-07-03,2025-09-20
+OFFER_141,Mega Rewards: Earn 5000 Reward Points at Housing Rent Transfer,Rent,MERCH_0935,0,5000,2024-10-08,2025-09-15
+OFFER_142,Weekend Bonanza: Earn 500 Reward Points at NPS Contribution,Investment,MERCH_0450,0,500,2024-12-14,2025-04-18
+OFFER_143,Festive Special: Get 5% Cashback at Youtube Premium,Subscription,MERCH_0552,5,0,2024-11-02,2025-04-19
+OFFER_144,Festive Special: Get 5% Cashback at HDFC Ergo,Insurance,MERCH_1618,5,0,2025-02-08,2025-11-23
+OFFER_145,Exclusive Deal: Earn 500 Reward Points at Subway,Food,MERCH_0618,0,500,2025-03-17,2026-02-06
+OFFER_146,Exclusive Deal: Get 5% Cashback at Apollo Clinic,Healthcare,MERCH_0160,5,0,2024-10-27,2025-10-22
+OFFER_147,Festive Special: Get 10% Cashback at Reliance Fresh,Grocery,MERCH_1986,10,0,2024-10-27,2025-08-27
+OFFER_148,Super Cashback: Earn 1000 Reward Points at Adani Electricity,Utility,MERCH_0234,0,1000,2025-04-15,2025-07-07
+OFFER_149,Festive Special: Earn 500 Reward Points at Housing Rent Transfer,Rent,MERCH_0621,0,500,2025-08-03,2025-12-05
+OFFER_150,Mega Rewards: Get 5% Cashback at Youtube Premium,Subscription,MERCH_1155,5,0,2025-01-01,2025-07-06
+OFFER_151,Weekend Bonanza: Earn 5000 Reward Points at MakeMyTrip,Travel,MERCH_1662,0,5000,2024-11-03,2025-05-07
+OFFER_152,First Time User: Get 5% Cashback at Bharat Petroleum,Fuel,MERCH_1315,5,0,2024-10-05,2025-04-27
+OFFER_153,First Time User: Earn 5000 Reward Points at Spencer's,Grocery,MERCH_1051,0,5000,2025-03-07,2026-02-20
+OFFER_154,First Time User: Earn 2000 Reward Points at MakeMyTrip Flights,Travel,MERCH_0576,0,2000,2025-04-27,2026-03-12
+OFFER_155,Mega Rewards: Get 10% Cashback at Reliance Fresh,Grocery,MERCH_0329,10,0,2024-10-09,2025-01-13
+OFFER_156,Mega Rewards: Earn 1000 Reward Points at Indian Oil,Fuel,MERCH_1194,0,1000,2025-02-06,2025-06-01
+OFFER_157,First Time User: Earn 2000 Reward Points at Groww SIP,Investment,MERCH_0156,0,2000,2025-05-20,2025-10-11
+OFFER_158,Exclusive Deal: Get 5% Cashback at Tata Power,Utility,MERCH_0133,5,0,2024-10-19,2025-07-10
+OFFER_159,Festive Special: Earn 2000 Reward Points at Pet Shop,Other,MERCH_1685,0,2000,2025-01-23,2025-03-24
+OFFER_160,First Time User: Earn 5000 Reward Points at Subway,Food,MERCH_0256,0,5000,2025-05-06,2025-09-25
+OFFER_161,Super Cashback: Earn 1000 Reward Points at Society Maintenance,Rent,MERCH_0626,0,1000,2025-06-22,2025-11-01
+OFFER_162,Festive Special: Get 15% Cashback at DMart,Grocery,MERCH_0723,15,0,2025-03-04,2025-12-10
+OFFER_163,Weekend Bonanza: Earn 1000 Reward Points at Apollo Clinic,Healthcare,MERCH_1198,0,1000,2025-03-07,2025-07-27
+OFFER_164,Weekend Bonanza: Earn 200 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_1516,0,200,2025-04-25,2025-07-19
+OFFER_165,Super Cashback: Get 10% Cashback at DMart,Grocery,MERCH_1522,10,0,2024-11-09,2025-05-04
+OFFER_166,Mega Rewards: Earn 200 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_0928,0,200,2024-11-01,2025-05-22
+OFFER_167,Mega Rewards: Get 20% Cashback at Max Life Insurance,Insurance,MERCH_1686,20,0,2025-01-25,2025-11-03
+OFFER_168,Exclusive Deal: Get 10% Cashback at Zoomcar,Travel,MERCH_1741,10,0,2025-01-15,2025-04-02
+OFFER_169,Super Cashback: Earn 5000 Reward Points at HDFC Ergo,Insurance,MERCH_1845,0,5000,2025-07-14,2026-05-12
+OFFER_170,Mega Rewards: Get 15% Cashback at H&M,Shopping,MERCH_0589,15,0,2025-07-29,2025-10-21
+OFFER_171,Mega Rewards: Get 15% Cashback at Local Tailor,Other,MERCH_0404,15,0,2025-05-23,2026-05-05
+OFFER_172,First Time User: Earn 500 Reward Points at Local Tailor,Other,MERCH_1762,0,500,2024-12-06,2025-09-13
+OFFER_173,Mega Rewards: Get 15% Cashback at Jio Fiber,Utility,MERCH_0535,15,0,2025-01-26,2025-08-25
+OFFER_174,Exclusive Deal: Earn 5000 Reward Points at Hindustan Petroleum,Fuel,MERCH_1652,0,5000,2024-11-19,2025-01-29
+OFFER_175,First Time User: Get 5% Cashback at Indian Oil,Fuel,MERCH_1096,5,0,2025-04-27,2025-07-12
+OFFER_176,Exclusive Deal: Earn 2000 Reward Points at Flipkart,Shopping,MERCH_0445,0,2000,2024-11-30,2025-08-08
+OFFER_177,First Time User: Get 10% Cashback at Adani Electricity,Utility,MERCH_1780,10,0,2024-12-20,2025-07-21
+OFFER_178,Mega Rewards: Get 20% Cashback at BookMyShow,Entertainment,MERCH_1922,20,0,2024-10-02,2025-08-28
+OFFER_179,Mega Rewards: Get 20% Cashback at NPS Contribution,Investment,MERCH_0173,20,0,2024-10-18,2025-07-01
+OFFER_180,Exclusive Deal: Get 15% Cashback at Nykaa,Shopping,MERCH_1982,15,0,2025-08-11,2026-07-31
+OFFER_181,Super Cashback: Get 15% Cashback at Spencer's,Grocery,MERCH_1016,15,0,2025-04-26,2025-10-22
+OFFER_182,Super Cashback: Get 10% Cashback at Zara,Shopping,MERCH_1918,10,0,2024-10-19,2025-09-09
+OFFER_183,Exclusive Deal: Get 5% Cashback at Apollo Clinic,Healthcare,MERCH_1998,5,0,2025-06-14,2026-01-06
+OFFER_184,Festive Special: Get 10% Cashback at Amity University,Education,MERCH_0651,10,0,2025-07-26,2026-02-12
+OFFER_185,Mega Rewards: Get 5% Cashback at Social,Dining_Out,MERCH_0743,5,0,2024-11-26,2025-09-16
+OFFER_186,Exclusive Deal: Get 10% Cashback at Disney VIP,Subscription,MERCH_0775,10,0,2025-08-12,2025-10-26
+OFFER_187,Exclusive Deal: Earn 2000 Reward Points at Spencer's,Grocery,MERCH_1051,0,2000,2024-11-27,2025-09-05
+OFFER_188,Super Cashback: Earn 2000 Reward Points at BookMyShow,Entertainment,MERCH_1922,0,2000,2025-04-08,2025-11-21
+OFFER_189,Super Cashback: Earn 500 Reward Points at Myntra,Shopping,MERCH_1021,0,500,2024-10-04,2025-03-25
+OFFER_190,Festive Special: Earn 200 Reward Points at Max Life Insurance,Insurance,MERCH_0382,0,200,2025-06-16,2025-12-04
+OFFER_191,Mega Rewards: Earn 1000 Reward Points at Housing Rent Transfer,Rent,MERCH_1487,0,1000,2024-11-05,2025-05-10
+OFFER_192,Mega Rewards: Earn 500 Reward Points at Amity University,Education,MERCH_0466,0,500,2025-04-24,2025-10-29
+OFFER_193,Super Cashback: Earn 5000 Reward Points at Starbucks,Food,MERCH_1147,0,5000,2025-04-22,2025-09-28
+OFFER_194,Festive Special: Earn 5000 Reward Points at Zoomcar,Travel,MERCH_1741,0,5000,2025-04-01,2025-09-07
+OFFER_195,Festive Special: Get 15% Cashback at Housing Rent Transfer,Rent,MERCH_1066,15,0,2025-07-25,2025-11-11
+OFFER_196,Festive Special: Get 10% Cashback at Blinkit,Grocery,MERCH_1559,10,0,2025-05-13,2025-08-23
+OFFER_197,Mega Rewards: Get 15% Cashback at Booking.com,Travel,MERCH_1044,15,0,2025-03-21,2025-10-28
+OFFER_198,Exclusive Deal: Get 15% Cashback at Shell Petrol,Fuel,MERCH_1338,15,0,2025-07-04,2025-12-30
+OFFER_199,Super Cashback: Get 20% Cashback at Hard Rock Cafe,Dining_Out,MERCH_1933,20,0,2025-07-06,2026-05-14
+OFFER_200,First Time User: Earn 200 Reward Points at Cred RentPay,Rent,MERCH_1186,0,200,2025-07-16,2026-02-10
+OFFER_201,Festive Special: Get 20% Cashback at Zoomcar,Travel,MERCH_0411,20,0,2025-08-21,2026-05-28
+OFFER_202,Festive Special: Earn 2000 Reward Points at MakeMyTrip Flights,Travel,MERCH_1448,0,2000,2025-03-25,2025-08-20
+OFFER_203,Festive Special: Earn 5000 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_1516,0,5000,2025-05-16,2026-05-13
+OFFER_204,Weekend Bonanza: Get 5% Cashback at Housing Rent Transfer,Rent,MERCH_1538,5,0,2024-10-11,2025-09-25
+OFFER_205,Exclusive Deal: Get 15% Cashback at Shoppers Stop,Shopping,MERCH_1512,15,0,2025-08-10,2025-10-13
+OFFER_206,Festive Special: Get 10% Cashback at Cred RentPay,Rent,MERCH_1592,10,0,2024-10-20,2025-01-24
+OFFER_207,Super Cashback: Get 20% Cashback at Local Restaurant,Food,MERCH_1187,20,0,2025-06-21,2026-03-23
+OFFER_208,Exclusive Deal: Get 20% Cashback at Zara,Shopping,MERCH_1428,20,0,2025-02-11,2025-09-01
+OFFER_209,Festive Special: Get 5% Cashback at Housing Rent Transfer,Rent,MERCH_1309,5,0,2025-03-19,2025-07-11
+OFFER_210,Mega Rewards: Get 10% Cashback at Tata Power,Utility,MERCH_0133,10,0,2025-03-10,2025-07-22
+OFFER_211,Super Cashback: Get 15% Cashback at Tata Power,Utility,MERCH_1905,15,0,2025-05-06,2025-09-29
+OFFER_212,Exclusive Deal: Get 5% Cashback at Indigo,Travel,MERCH_1928,5,0,2025-08-09,2025-12-11
+OFFER_213,Super Cashback: Earn 500 Reward Points at Taj Dining,Dining_Out,MERCH_0223,0,500,2025-08-05,2026-07-22
+OFFER_214,Festive Special: Earn 200 Reward Points at H&M,Shopping,MERCH_0018,0,200,2025-01-30,2025-12-01
+OFFER_215,Mega Rewards: Earn 5000 Reward Points at Microsoft 365,Subscription,MERCH_0381,0,5000,2025-05-22,2025-10-24
+OFFER_216,Super Cashback: Earn 1000 Reward Points at HDFC Ergo,Insurance,MERCH_1618,0,1000,2025-01-16,2025-09-07
+OFFER_217,Super Cashback: Earn 2000 Reward Points at Salon & Spa,Other,MERCH_1179,0,2000,2025-02-07,2025-07-22
+OFFER_218,Exclusive Deal: Get 15% Cashback at Myntra,Shopping,MERCH_1888,15,0,2025-03-02,2025-12-02
+OFFER_219,Super Cashback: Get 20% Cashback at Zomato,Food,MERCH_0359,20,0,2025-06-30,2026-05-19
+OFFER_220,First Time User: Get 5% Cashback at Air India,Travel,MERCH_1687,5,0,2025-05-15,2026-01-24
+OFFER_221,Exclusive Deal: Earn 5000 Reward Points at Groww SIP,Investment,MERCH_0156,0,5000,2025-04-06,2026-03-08
+OFFER_222,Weekend Bonanza: Earn 200 Reward Points at H&M,Shopping,MERCH_0589,0,200,2025-04-22,2025-10-10
+OFFER_223,First Time User: Earn 1000 Reward Points at Cred RentPay,Rent,MERCH_1275,0,1000,2025-03-02,2025-06-24
+OFFER_224,Mega Rewards: Get 10% Cashback at Subway,Food,MERCH_1752,10,0,2025-02-14,2026-01-29
+OFFER_225,Exclusive Deal: Get 15% Cashback at iCloud Storage,Subscription,MERCH_0921,15,0,2024-11-30,2025-03-03
+OFFER_226,Super Cashback: Get 10% Cashback at Udemy,Education,MERCH_1288,10,0,2025-08-07,2025-11-24
+OFFER_227,First Time User: Earn 200 Reward Points at Netflix,Entertainment,MERCH_0707,0,200,2024-10-31,2025-05-07
+OFFER_228,Mega Rewards: Earn 200 Reward Points at Subway,Food,MERCH_0256,0,200,2024-12-11,2025-03-02
+OFFER_229,Super Cashback: Earn 500 Reward Points at Apollo Pharmacy,Healthcare,MERCH_0918,0,500,2024-11-27,2025-03-03
+OFFER_230,Mega Rewards: Get 20% Cashback at Udemy,Education,MERCH_1525,20,0,2025-02-23,2025-12-23
+OFFER_231,Super Cashback: Earn 200 Reward Points at Disney VIP,Subscription,MERCH_1682,0,200,2025-08-20,2026-07-02
+OFFER_232,Weekend Bonanza: Earn 500 Reward Points at Society Maintenance,Rent,MERCH_0742,0,500,2025-01-13,2025-12-23
+OFFER_233,Exclusive Deal: Earn 200 Reward Points at Spencer's,Grocery,MERCH_1892,0,200,2024-10-23,2025-02-01
+OFFER_234,Exclusive Deal: Get 10% Cashback at Blinkit,Grocery,MERCH_1341,10,0,2025-07-26,2026-05-31
+OFFER_235,First Time User: Earn 500 Reward Points at Social,Dining_Out,MERCH_1470,0,500,2025-09-01,2025-12-01
+OFFER_236,Weekend Bonanza: Get 10% Cashback at ICICI Lombard,Insurance,MERCH_0580,10,0,2025-08-25,2026-07-16
+OFFER_237,Exclusive Deal: Earn 200 Reward Points at Indian Oil,Fuel,MERCH_0788,0,200,2025-01-18,2025-04-03
+OFFER_238,Mega Rewards: Get 5% Cashback at H&M,Shopping,MERCH_1840,5,0,2025-08-30,2026-08-27
+OFFER_239,First Time User: Get 5% Cashback at Max Healthcare,Healthcare,MERCH_1411,5,0,2025-01-19,2025-08-25
+OFFER_240,First Time User: Get 15% Cashback at ICICI Lombard,Insurance,MERCH_0023,15,0,2024-12-21,2025-10-18
+OFFER_241,Exclusive Deal: Get 10% Cashback at Subway,Food,MERCH_0618,10,0,2025-03-16,2025-06-04
+OFFER_242,Mega Rewards: Get 15% Cashback at IRCTC,Travel,MERCH_0277,15,0,2025-06-27,2025-10-22
+OFFER_243,Super Cashback: Earn 2000 Reward Points at DMart,Grocery,MERCH_1522,0,2000,2024-10-10,2025-09-11
+OFFER_244,First Time User: Earn 1000 Reward Points at Domino's,Food,MERCH_1101,0,1000,2025-08-26,2025-11-27
+OFFER_245,Festive Special: Earn 2000 Reward Points at Apollo Pharmacy,Healthcare,MERCH_1093,0,2000,2024-11-01,2025-01-30
+OFFER_246,Weekend Bonanza: Get 5% Cashback at Disney VIP,Subscription,MERCH_0149,5,0,2025-05-12,2026-03-02
+OFFER_247,Exclusive Deal: Earn 5000 Reward Points at Apollo Clinic,Healthcare,MERCH_1508,0,5000,2025-05-10,2025-07-26
+OFFER_248,First Time User: Get 15% Cashback at Bharat Petroleum,Fuel,MERCH_1835,15,0,2024-10-08,2025-04-30
+OFFER_249,Exclusive Deal: Get 5% Cashback at BYJU'S,Education,MERCH_1625,5,0,2025-05-06,2025-09-13
+OFFER_250,Weekend Bonanza: Earn 200 Reward Points at Youtube Premium,Subscription,MERCH_1565,0,200,2024-11-22,2025-03-19
+OFFER_251,Weekend Bonanza: Get 15% Cashback at DPS School,Education,MERCH_1089,15,0,2025-02-24,2025-05-06
+OFFER_252,Super Cashback: Get 10% Cashback at Starbucks,Food,MERCH_0970,10,0,2025-06-21,2025-08-22
+OFFER_253,Weekend Bonanza: Get 5% Cashback at Groww SIP,Investment,MERCH_0408,5,0,2025-06-05,2025-09-22
+OFFER_254,First Time User: Get 10% Cashback at BookMyShow,Entertainment,MERCH_1965,10,0,2024-11-05,2025-09-05
+OFFER_255,Super Cashback: Get 20% Cashback at Ola,Travel,MERCH_0380,20,0,2024-11-24,2025-06-16
+OFFER_256,Festive Special: Get 20% Cashback at Simplilearn,Education,MERCH_1761,20,0,2025-01-08,2025-11-30
+OFFER_257,Exclusive Deal: Get 5% Cashback at PVR Cinemas,Entertainment,MERCH_0001,5,0,2025-05-20,2026-01-10
+OFFER_258,Super Cashback: Earn 1000 Reward Points at Smaaash,Entertainment,MERCH_0041,0,1000,2024-11-26,2025-08-18
+OFFER_259,Festive Special: Earn 500 Reward Points at Housing Rent Transfer,Rent,MERCH_1309,0,500,2024-12-02,2025-10-25
+OFFER_260,First Time User: Get 15% Cashback at Max Life Insurance,Insurance,MERCH_0504,15,0,2025-01-29,2025-09-27
+OFFER_261,Mega Rewards: Get 20% Cashback at Domino's,Food,MERCH_0136,20,0,2025-06-21,2026-03-09
+OFFER_262,First Time User: Get 5% Cashback at Spencer's,Grocery,MERCH_0708,5,0,2024-10-24,2025-04-18
+OFFER_263,Weekend Bonanza: Get 20% Cashback at Air India,Travel,MERCH_1108,20,0,2025-01-10,2025-09-23
+OFFER_264,Festive Special: Get 10% Cashback at Nykaa,Shopping,MERCH_0501,10,0,2025-01-23,2025-06-29
+OFFER_265,Exclusive Deal: Earn 2000 Reward Points at Max Life Insurance,Insurance,MERCH_0382,0,2000,2025-01-22,2025-12-07
+OFFER_266,Festive Special: Get 15% Cashback at Microsoft 365,Subscription,MERCH_0650,15,0,2025-04-06,2025-10-25
+OFFER_267,Exclusive Deal: Get 15% Cashback at Apollo Pharmacy,Healthcare,MERCH_1093,15,0,2024-10-22,2025-03-03
+OFFER_268,First Time User: Earn 200 Reward Points at DMart,Grocery,MERCH_1420,0,200,2025-01-07,2025-08-30
+OFFER_269,Exclusive Deal: Get 20% Cashback at Amity University,Education,MERCH_1694,20,0,2024-12-19,2025-06-18
+OFFER_270,Weekend Bonanza: Get 15% Cashback at Indigo,Travel,MERCH_0577,15,0,2025-02-06,2026-01-18
+OFFER_271,Mega Rewards: Earn 2000 Reward Points at Domino's,Food,MERCH_1655,0,2000,2025-04-11,2025-09-18
+OFFER_272,Festive Special: Get 15% Cashback at Gift Gallery,Other,MERCH_0995,15,0,2025-04-29,2026-02-26
+OFFER_273,First Time User: Get 20% Cashback at NoBroker Rent,Rent,MERCH_1220,20,0,2025-02-17,2025-04-18
+OFFER_274,Exclusive Deal: Get 20% Cashback at Gift Gallery,Other,MERCH_0386,20,0,2024-11-23,2025-03-26
+OFFER_275,First Time User: Get 10% Cashback at Zepto,Grocery,MERCH_1269,10,0,2025-04-24,2025-07-09
+OFFER_276,Super Cashback: Get 20% Cashback at Mainland China,Dining_Out,MERCH_0667,20,0,2025-04-06,2026-02-12
+OFFER_277,Weekend Bonanza: Get 20% Cashback at Adani Electricity,Utility,MERCH_0507,20,0,2025-01-22,2026-01-17
+OFFER_278,First Time User: Earn 500 Reward Points at Westside,Shopping,MERCH_0991,0,500,2024-11-08,2025-07-19
+OFFER_279,First Time User: Earn 500 Reward Points at Groww SIP,Investment,MERCH_0237,0,500,2025-08-06,2026-03-25
+OFFER_280,Mega Rewards: Earn 5000 Reward Points at Starbucks,Food,MERCH_0587,0,5000,2025-04-02,2026-03-27
+OFFER_281,Super Cashback: Earn 2000 Reward Points at Cred RentPay,Rent,MERCH_1186,0,2000,2025-04-11,2025-09-16
+OFFER_282,First Time User: Earn 2000 Reward Points at Punjab Grill,Dining_Out,MERCH_0398,0,2000,2025-05-26,2025-11-25
+OFFER_283,Mega Rewards: Get 10% Cashback at Barbeque Nation,Dining_Out,MERCH_0066,10,0,2025-07-19,2025-10-14
+OFFER_284,Mega Rewards: Get 5% Cashback at Burger King,Food,MERCH_1751,5,0,2024-11-19,2025-06-03
+OFFER_285,Weekend Bonanza: Earn 5000 Reward Points at Local Kirana,Grocery,MERCH_1491,0,5000,2025-01-10,2025-05-17
+OFFER_286,Super Cashback: Earn 2000 Reward Points at Myntra,Shopping,MERCH_1021,0,2000,2024-10-12,2025-01-12
+OFFER_287,First Time User: Get 5% Cashback at ICICI Lombard,Insurance,MERCH_1891,5,0,2025-02-20,2025-08-14
+OFFER_288,Exclusive Deal: Earn 200 Reward Points at Housing Rent Transfer,Rent,MERCH_0304,0,200,2025-07-08,2026-05-20
+OFFER_289,First Time User: Get 10% Cashback at Booking.com,Travel,MERCH_1044,10,0,2024-11-26,2025-02-02
+OFFER_290,Exclusive Deal: Get 10% Cashback at Local Pub,Dining_Out,MERCH_1410,10,0,2025-01-06,2025-08-11
+OFFER_291,First Time User: Earn 1000 Reward Points at Netflix,Entertainment,MERCH_1909,0,1000,2025-03-13,2025-08-17
+OFFER_292,Festive Special: Get 5% Cashback at BYJU'S,Education,MERCH_1767,5,0,2025-01-15,2025-10-12
+OFFER_293,First Time User: Get 15% Cashback at Jio Fiber,Utility,MERCH_1501,15,0,2025-04-30,2025-08-17
+OFFER_294,First Time User: Get 10% Cashback at Hindustan Petroleum,Fuel,MERCH_0619,10,0,2024-11-14,2025-09-24
+OFFER_295,Festive Special: Earn 1000 Reward Points at Netflix Premium,Subscription,MERCH_1134,0,1000,2024-12-12,2025-05-30
+OFFER_296,Exclusive Deal: Get 10% Cashback at MedPlus,Healthcare,MERCH_0318,10,0,2025-08-01,2026-07-24
+OFFER_297,Weekend Bonanza: Get 20% Cashback at Youtube Premium,Subscription,MERCH_1223,20,0,2025-06-04,2025-12-29
+OFFER_298,Exclusive Deal: Earn 5000 Reward Points at Cred RentPay,Rent,MERCH_1463,0,5000,2025-07-28,2025-10-26
+OFFER_299,Festive Special: Get 15% Cashback at Local Restaurant,Food,MERCH_0485,15,0,2025-03-15,2025-07-02
+OFFER_300,Festive Special: Earn 1000 Reward Points at Disney VIP,Subscription,MERCH_0319,0,1000,2025-02-18,2025-05-12
+OFFER_301,Super Cashback: Earn 500 Reward Points at Zerodha Fund,Investment,MERCH_0905,0,500,2025-01-24,2025-09-15
+OFFER_302,Exclusive Deal: Earn 1000 Reward Points at Apollo Clinic,Healthcare,MERCH_1121,0,1000,2024-10-14,2025-08-24
+OFFER_303,Super Cashback: Earn 2000 Reward Points at Punjab Grill,Dining_Out,MERCH_0137,0,2000,2025-05-27,2025-12-14
+OFFER_304,Super Cashback: Earn 2000 Reward Points at IRCTC,Travel,MERCH_1055,0,2000,2025-07-25,2026-01-09
+OFFER_305,Mega Rewards: Earn 1000 Reward Points at Groww SIP,Investment,MERCH_0408,0,1000,2024-11-01,2025-03-12
+OFFER_306,Mega Rewards: Get 15% Cashback at Adani Electricity,Utility,MERCH_0370,15,0,2024-10-13,2025-05-23
+OFFER_307,First Time User: Earn 1000 Reward Points at Air India,Travel,MERCH_1687,0,1000,2025-01-04,2025-07-09
+OFFER_308,Weekend Bonanza: Get 15% Cashback at Spencer's,Grocery,MERCH_1051,15,0,2025-07-28,2026-07-25
+OFFER_309,First Time User: Earn 200 Reward Points at Zerodha Fund,Investment,MERCH_0229,0,200,2025-06-22,2025-09-03
+OFFER_310,First Time User: Get 10% Cashback at Zara,Shopping,MERCH_1797,10,0,2025-02-19,2025-05-20
+OFFER_311,Weekend Bonanza: Get 5% Cashback at IRCTC,Travel,MERCH_1020,5,0,2025-04-18,2026-01-08
+OFFER_312,First Time User: Get 5% Cashback at BookMyShow,Entertainment,MERCH_1922,5,0,2025-03-07,2026-02-11
+OFFER_313,Super Cashback: Get 10% Cashback at Adani Electricity,Utility,MERCH_0234,10,0,2025-03-03,2026-01-14
+OFFER_314,First Time User: Earn 500 Reward Points at Zomato,Food,MERCH_0785,0,500,2025-06-12,2026-02-18
+OFFER_315,Exclusive Deal: Get 15% Cashback at Shell Petrol,Fuel,MERCH_0100,15,0,2025-03-04,2025-07-09
+OFFER_316,Mega Rewards: Earn 2000 Reward Points at Cred RentPay,Rent,MERCH_1323,0,2000,2024-11-06,2025-03-14
+OFFER_317,Weekend Bonanza: Earn 200 Reward Points at Shell Petrol,Fuel,MERCH_0871,0,200,2025-05-21,2026-01-03
+OFFER_318,Super Cashback: Get 5% Cashback at Jio Fiber,Utility,MERCH_1170,5,0,2025-05-02,2026-03-16
+OFFER_319,Mega Rewards: Earn 200 Reward Points at Netflix Premium,Subscription,MERCH_0509,0,200,2025-08-05,2026-06-03
+OFFER_320,Mega Rewards: Get 15% Cashback at Reliance Petroleum,Fuel,MERCH_1120,15,0,2025-06-29,2025-11-16
+OFFER_321,First Time User: Earn 5000 Reward Points at Subway,Food,MERCH_1752,0,5000,2024-11-27,2025-11-11
+OFFER_322,Weekend Bonanza: Get 5% Cashback at Tata Power,Utility,MERCH_1785,5,0,2025-01-09,2025-11-30
+OFFER_323,Festive Special: Get 15% Cashback at Youtube Premium,Subscription,MERCH_1223,15,0,2025-01-02,2025-08-04
+OFFER_324,Festive Special: Get 15% Cashback at Airtel Fiber,Utility,MERCH_1506,15,0,2025-05-15,2026-02-20
+OFFER_325,Festive Special: Earn 2000 Reward Points at Hard Rock Cafe,Dining_Out,MERCH_1298,0,2000,2025-07-19,2026-01-07
+OFFER_326,First Time User: Earn 2000 Reward Points at Disney+ Hotstar,Entertainment,MERCH_1195,0,2000,2025-04-09,2025-08-20
+OFFER_327,Super Cashback: Earn 1000 Reward Points at Groww SIP,Investment,MERCH_0156,0,1000,2025-07-29,2025-10-06
+OFFER_328,Festive Special: Get 10% Cashback at Local Tailor,Other,MERCH_1762,10,0,2025-03-26,2025-08-14
+OFFER_329,Super Cashback: Get 20% Cashback at Decathlon,Shopping,MERCH_0652,20,0,2025-04-19,2025-10-10
+OFFER_330,Super Cashback: Get 15% Cashback at Booking.com,Travel,MERCH_1545,15,0,2025-08-31,2026-07-14
+OFFER_331,Mega Rewards: Get 15% Cashback at ICICI Lombard,Insurance,MERCH_0023,15,0,2024-11-17,2025-04-17
+OFFER_332,Exclusive Deal: Get 10% Cashback at Flipkart,Shopping,MERCH_1447,10,0,2025-07-08,2025-12-22
+OFFER_333,First Time User: Earn 5000 Reward Points at Youtube Premium,Subscription,MERCH_1223,0,5000,2025-04-26,2025-07-21
+OFFER_334,Mega Rewards: Get 10% Cashback at Smaaash,Entertainment,MERCH_1887,10,0,2025-05-03,2025-12-12
+OFFER_335,Weekend Bonanza: Earn 2000 Reward Points at Shell Petrol,Fuel,MERCH_0100,0,2000,2025-06-30,2026-01-01
+OFFER_336,Weekend Bonanza: Get 5% Cashback at Taj Dining,Dining_Out,MERCH_1726,5,0,2025-03-23,2025-11-18
+OFFER_337,Exclusive Deal: Earn 2000 Reward Points at Punjab Grill,Dining_Out,MERCH_0398,0,2000,2025-03-31,2025-07-08
+OFFER_338,Mega Rewards: Earn 500 Reward Points at Shell Petrol,Fuel,MERCH_1572,0,500,2024-10-02,2025-08-18
+OFFER_339,Super Cashback: Earn 1000 Reward Points at Airtel Fiber,Utility,MERCH_1497,0,1000,2025-08-25,2026-07-05
+OFFER_340,Exclusive Deal: Earn 1000 Reward Points at Bharat Petroleum,Fuel,MERCH_0945,0,1000,2025-03-24,2026-03-19
+OFFER_341,Festive Special: Get 15% Cashback at Burger King,Food,MERCH_0979,15,0,2025-01-01,2025-07-10
+OFFER_342,Mega Rewards: Earn 1000 Reward Points at Cred RentPay,Rent,MERCH_1186,0,1000,2025-01-25,2025-10-27
+OFFER_343,Weekend Bonanza: Earn 2000 Reward Points at Bharat Petroleum,Fuel,MERCH_0756,0,2000,2025-03-16,2026-02-22
+OFFER_344,Exclusive Deal: Get 10% Cashback at Zerodha Fund,Investment,MERCH_1104,10,0,2025-06-05,2026-04-03
+OFFER_345,Festive Special: Get 20% Cashback at Netflix Premium,Subscription,MERCH_1337,20,0,2025-02-12,2025-11-18
+OFFER_346,Mega Rewards: Earn 2000 Reward Points at Indigo,Travel,MERCH_1712,0,2000,2024-12-05,2025-07-07
+OFFER_347,Mega Rewards: Earn 500 Reward Points at NoBroker Rent,Rent,MERCH_0766,0,500,2025-01-01,2025-06-12
+OFFER_348,Weekend Bonanza: Get 20% Cashback at NPS Contribution,Investment,MERCH_0450,20,0,2025-03-01,2025-12-10
+OFFER_349,First Time User: Earn 200 Reward Points at iCloud Storage,Subscription,MERCH_0921,0,200,2025-08-23,2026-05-06
+OFFER_350,Mega Rewards: Earn 2000 Reward Points at AngelOne Deposit,Investment,MERCH_0551,0,2000,2025-07-19,2025-09-29
+OFFER_351,Exclusive Deal: Earn 2000 Reward Points at Airtel Fiber,Utility,MERCH_1629,0,2000,2025-02-12,2025-11-11
+OFFER_352,Festive Special: Get 20% Cashback at Youtube Premium,Subscription,MERCH_0552,20,0,2025-01-23,2025-05-13
+OFFER_353,Super Cashback: Get 15% Cashback at Simplilearn,Education,MERCH_1532,15,0,2025-04-14,2025-11-01
+OFFER_354,Mega Rewards: Earn 2000 Reward Points at Hindustan Petroleum,Fuel,MERCH_1865,0,2000,2025-07-05,2026-06-16
+OFFER_355,First Time User: Earn 200 Reward Points at Local Clinic,Healthcare,MERCH_0070,0,200,2025-08-23,2026-06-30
+OFFER_356,Festive Special: Get 20% Cashback at Domino's,Food,MERCH_0136,20,0,2025-04-06,2026-03-15
+OFFER_357,Exclusive Deal: Earn 500 Reward Points at Shoppers Stop,Shopping,MERCH_1512,0,500,2025-05-22,2026-01-18
+OFFER_358,Festive Special: Get 5% Cashback at AngelOne Deposit,Investment,MERCH_0551,5,0,2024-10-19,2025-04-26
+OFFER_359,Weekend Bonanza: Get 5% Cashback at Reliance Fresh,Grocery,MERCH_0329,5,0,2024-10-23,2025-04-18
+OFFER_360,Weekend Bonanza: Get 5% Cashback at NoBroker Rent,Rent,MERCH_1014,5,0,2024-11-25,2025-04-27
+OFFER_361,Mega Rewards: Earn 2000 Reward Points at NoBroker Rent,Rent,MERCH_1014,0,2000,2025-03-20,2025-10-30
+OFFER_362,First Time User: Get 15% Cashback at Disney VIP,Subscription,MERCH_0360,15,0,2025-03-03,2025-08-30
+OFFER_363,Mega Rewards: Earn 5000 Reward Points at Inox,Entertainment,MERCH_1345,0,5000,2024-12-23,2025-08-26
+OFFER_364,Super Cashback: Earn 1000 Reward Points at Yatra,Travel,MERCH_0567,0,1000,2025-01-14,2025-03-23
+OFFER_365,Weekend Bonanza: Get 10% Cashback at Society Maintenance,Rent,MERCH_0330,10,0,2025-02-05,2025-04-22
+OFFER_366,Mega Rewards: Earn 2000 Reward Points at Air India,Travel,MERCH_1108,0,2000,2025-05-07,2026-01-17
+OFFER_367,First Time User: Get 5% Cashback at Disney VIP,Subscription,MERCH_0775,5,0,2025-03-13,2026-02-12
+OFFER_368,Exclusive Deal: Earn 500 Reward Points at Pet Shop,Other,MERCH_0371,0,500,2025-03-21,2025-10-17
+OFFER_369,Exclusive Deal: Get 10% Cashback at Youtube Premium,Subscription,MERCH_1782,10,0,2025-03-09,2025-12-07
+OFFER_370,Mega Rewards: Get 5% Cashback at Cred RentPay,Rent,MERCH_1186,5,0,2025-07-29,2025-10-01
+OFFER_371,Weekend Bonanza: Get 10% Cashback at Zerodha Fund,Investment,MERCH_0293,10,0,2024-10-17,2025-07-17
+OFFER_372,Weekend Bonanza: Get 20% Cashback at Subway,Food,MERCH_0256,20,0,2024-12-07,2025-08-31
+OFFER_373,Exclusive Deal: Earn 500 Reward Points at Youtube Premium,Subscription,MERCH_0409,0,500,2025-03-10,2026-02-04
+OFFER_374,Mega Rewards: Get 5% Cashback at NoBroker Rent,Rent,MERCH_1220,5,0,2024-10-12,2025-05-19
+OFFER_375,First Time User: Get 5% Cashback at Microsoft 365,Subscription,MERCH_1362,5,0,2025-02-13,2025-04-24
+OFFER_376,Mega Rewards: Get 15% Cashback at DAV College,Education,MERCH_1665,15,0,2025-02-28,2025-10-16
+OFFER_377,Festive Special: Get 10% Cashback at Housing Rent Transfer,Rent,MERCH_1942,10,0,2025-02-15,2025-06-10
+OFFER_378,First Time User: Earn 2000 Reward Points at Spotify,Entertainment,MERCH_1167,0,2000,2025-01-03,2025-10-14
+OFFER_379,Exclusive Deal: Earn 500 Reward Points at Society Maintenance,Rent,MERCH_1102,0,500,2025-01-16,2025-05-30
+OFFER_380,Super Cashback: Earn 200 Reward Points at Adani Electricity,Utility,MERCH_0536,0,200,2025-01-21,2025-08-26
+OFFER_381,Exclusive Deal: Earn 1000 Reward Points at Indigo,Travel,MERCH_0577,0,1000,2025-07-29,2026-03-22
+OFFER_382,Mega Rewards: Earn 200 Reward Points at Dry Cleaners,Other,MERCH_0786,0,200,2024-12-23,2025-11-24
+OFFER_383,First Time User: Get 15% Cashback at Hardware Store,Other,MERCH_0689,15,0,2025-08-04,2026-02-19
+OFFER_384,Mega Rewards: Earn 2000 Reward Points at IRCTC,Travel,MERCH_0103,0,2000,2024-12-17,2025-08-26
+OFFER_385,Exclusive Deal: Get 10% Cashback at Zara,Shopping,MERCH_1918,10,0,2025-08-05,2025-10-04
+OFFER_386,Festive Special: Earn 2000 Reward Points at NoBroker Rent,Rent,MERCH_0766,0,2000,2025-04-12,2025-06-15
+OFFER_387,Festive Special: Earn 5000 Reward Points at Zepto,Grocery,MERCH_1269,0,5000,2025-01-16,2025-09-02
+OFFER_388,Exclusive Deal: Earn 5000 Reward Points at Society Maintenance,Rent,MERCH_0742,0,5000,2025-08-29,2026-06-19
+OFFER_389,Weekend Bonanza: Get 20% Cashback at Disney+ Hotstar,Entertainment,MERCH_1195,20,0,2025-07-30,2026-01-29
+OFFER_390,Festive Special: Get 10% Cashback at DPS School,Education,MERCH_0829,10,0,2025-03-21,2025-07-23
+OFFER_391,Mega Rewards: Get 10% Cashback at Airtel Fiber,Utility,MERCH_0250,10,0,2024-10-05,2025-08-20
+OFFER_392,Weekend Bonanza: Earn 1000 Reward Points at DPS School,Education,MERCH_0829,0,1000,2024-12-26,2025-07-16
+OFFER_393,Mega Rewards: Earn 500 Reward Points at Nykaa,Shopping,MERCH_0642,0,500,2025-08-28,2026-03-04
+OFFER_394,Festive Special: Get 10% Cashback at NPS Contribution,Investment,MERCH_0450,10,0,2025-06-08,2025-09-06
+OFFER_395,Super Cashback: Get 15% Cashback at H&M,Shopping,MERCH_1593,15,0,2025-05-14,2025-07-16
+OFFER_396,First Time User: Earn 500 Reward Points at NoBroker Rent,Rent,MERCH_1201,0,500,2025-03-18,2025-06-21
+OFFER_397,Weekend Bonanza: Earn 2000 Reward Points at Microsoft 365,Subscription,MERCH_1362,0,2000,2025-04-13,2026-01-12
+OFFER_398,First Time User: Earn 200 Reward Points at Disney VIP,Subscription,MERCH_1100,0,200,2024-12-19,2025-04-13
+OFFER_399,Weekend Bonanza: Earn 200 Reward Points at Shell Petrol,Fuel,MERCH_1276,0,200,2025-04-25,2025-08-24
+OFFER_400,Weekend Bonanza: Earn 5000 Reward Points at Domino's,Food,MERCH_1655,0,5000,2025-06-19,2026-03-24
+OFFER_401,Exclusive Deal: Earn 200 Reward Points at Cred RentPay,Rent,MERCH_0181,0,200,2025-02-01,2025-06-01
+OFFER_402,Super Cashback: Earn 200 Reward Points at Local Clinic,Healthcare,MERCH_0070,0,200,2025-05-14,2026-03-04
+OFFER_403,Super Cashback: Earn 2000 Reward Points at Mutual Fund Direct,Investment,MERCH_0384,0,2000,2025-02-21,2026-01-21
+OFFER_404,Festive Special: Get 10% Cashback at Local Kirana,Grocery,MERCH_0176,10,0,2025-03-04,2025-10-20
+OFFER_405,Festive Special: Get 10% Cashback at Hardware Store,Other,MERCH_0214,10,0,2024-10-17,2025-05-11
+OFFER_406,First Time User: Earn 200 Reward Points at Jio Fiber,Utility,MERCH_0253,0,200,2025-06-20,2025-10-02
+OFFER_407,Exclusive Deal: Get 10% Cashback at Smaaash,Entertainment,MERCH_1556,10,0,2025-04-01,2025-07-25
+OFFER_408,First Time User: Get 10% Cashback at Social,Dining_Out,MERCH_0549,10,0,2025-05-10,2026-03-30
+OFFER_409,Weekend Bonanza: Get 10% Cashback at Municipal Water,Utility,MERCH_0130,10,0,2024-12-14,2025-04-14
+OFFER_410,Super Cashback: Earn 200 Reward Points at Shell Petrol,Fuel,MERCH_0871,0,200,2025-07-20,2025-09-20
+OFFER_411,Weekend Bonanza: Get 10% Cashback at Apollo Clinic,Healthcare,MERCH_1198,10,0,2025-07-14,2026-03-27
+OFFER_412,Mega Rewards: Earn 2000 Reward Points at Inox,Entertainment,MERCH_1311,0,2000,2024-11-09,2025-04-06
+OFFER_413,Super Cashback: Get 10% Cashback at Municipal Water,Utility,MERCH_1076,10,0,2025-01-26,2025-09-08
+OFFER_414,Weekend Bonanza: Earn 2000 Reward Points at Spencer's,Grocery,MERCH_1892,0,2000,2025-03-03,2025-10-10
+OFFER_415,Weekend Bonanza: Get 20% Cashback at Blinkit,Grocery,MERCH_0610,20,0,2025-05-28,2025-09-11
+OFFER_416,First Time User: Earn 200 Reward Points at Local Restaurant,Food,MERCH_0485,0,200,2025-03-18,2025-11-16
+OFFER_417,First Time User: Get 10% Cashback at Salon & Spa,Other,MERCH_0752,10,0,2025-02-04,2026-02-01
+OFFER_418,Super Cashback: Get 10% Cashback at Housing Rent Transfer,Rent,MERCH_0657,10,0,2025-06-17,2026-01-21
+OFFER_419,Exclusive Deal: Earn 5000 Reward Points at Disney VIP,Subscription,MERCH_1682,0,5000,2024-12-10,2025-02-16
+OFFER_420,Super Cashback: Earn 5000 Reward Points at Barbeque Nation,Dining_Out,MERCH_0820,0,5000,2025-01-25,2025-12-16
+OFFER_421,Mega Rewards: Earn 200 Reward Points at Indian Oil,Fuel,MERCH_0511,0,200,2025-06-15,2026-06-04
+OFFER_422,Weekend Bonanza: Earn 1000 Reward Points at NoBroker Rent,Rent,MERCH_0766,0,1000,2025-04-28,2025-11-29
+OFFER_423,Exclusive Deal: Get 15% Cashback at Local Tailor,Other,MERCH_0452,15,0,2025-03-21,2025-11-23
+OFFER_424,Festive Special: Get 10% Cashback at Inox,Entertainment,MERCH_1550,10,0,2024-11-24,2025-09-26
+OFFER_425,Festive Special: Earn 2000 Reward Points at Zerodha Fund,Investment,MERCH_0702,0,2000,2025-05-15,2026-04-21
+OFFER_426,Weekend Bonanza: Get 20% Cashback at Uber,Travel,MERCH_1536,20,0,2025-06-28,2025-10-12
+OFFER_427,Festive Special: Get 15% Cashback at Practo,Healthcare,MERCH_0714,15,0,2025-06-19,2026-01-26
+OFFER_428,Super Cashback: Earn 2000 Reward Points at H&M,Shopping,MERCH_1840,0,2000,2025-04-19,2026-02-22
+OFFER_429,Super Cashback: Earn 2000 Reward Points at Hindustan Petroleum,Fuel,MERCH_1117,0,2000,2024-10-03,2025-02-06
+OFFER_430,Weekend Bonanza: Get 20% Cashback at Shoppers Stop,Shopping,MERCH_0377,20,0,2024-11-18,2025-04-06
+OFFER_431,Festive Special: Earn 5000 Reward Points at Salon & Spa,Other,MERCH_1519,0,5000,2025-02-15,2025-06-19
+OFFER_432,Weekend Bonanza: Get 10% Cashback at Society Maintenance,Rent,MERCH_1102,10,0,2025-08-17,2025-12-30
+OFFER_433,Mega Rewards: Earn 500 Reward Points at iCloud Storage,Subscription,MERCH_0921,0,500,2025-04-16,2025-11-11
+OFFER_434,First Time User: Get 5% Cashback at Zerodha Fund,Investment,MERCH_0229,5,0,2025-03-09,2025-10-14
+OFFER_435,First Time User: Earn 2000 Reward Points at Apollo Clinic,Healthcare,MERCH_0160,0,2000,2025-03-22,2025-08-02
+OFFER_436,Exclusive Deal: Get 10% Cashback at Shell Petrol,Fuel,MERCH_0100,10,0,2024-10-10,2025-01-17
+OFFER_437,Festive Special: Earn 2000 Reward Points at Hindustan Petroleum,Fuel,MERCH_1117,0,2000,2025-03-14,2025-06-14
+OFFER_438,Festive Special: Earn 1000 Reward Points at Zerodha Fund,Investment,MERCH_0229,0,1000,2025-05-18,2025-09-14
+OFFER_439,Exclusive Deal: Earn 200 Reward Points at Yatra,Travel,MERCH_0556,0,200,2025-02-25,2025-11-08
+OFFER_440,Super Cashback: Get 20% Cashback at Zomato,Food,MERCH_0785,20,0,2025-07-29,2025-12-26
+OFFER_441,Exclusive Deal: Get 10% Cashback at Indigo,Travel,MERCH_1712,10,0,2024-12-02,2025-11-16
+OFFER_442,First Time User: Get 15% Cashback at Airtel Fiber,Utility,MERCH_1629,15,0,2025-04-16,2026-02-07
+OFFER_443,First Time User: Get 15% Cashback at Indian Oil,Fuel,MERCH_0836,15,0,2025-05-18,2026-02-28
+OFFER_444,Exclusive Deal: Earn 200 Reward Points at Microsoft 365,Subscription,MERCH_0907,0,200,2025-03-20,2026-03-17
+OFFER_445,Super Cashback: Earn 200 Reward Points at Blinkit,Grocery,MERCH_0610,0,200,2024-10-16,2025-02-28
+OFFER_446,Weekend Bonanza: Get 20% Cashback at AngelOne Deposit,Investment,MERCH_0551,20,0,2025-07-15,2025-10-30
+OFFER_447,Exclusive Deal: Get 5% Cashback at iCloud Storage,Subscription,MERCH_1800,5,0,2025-07-29,2026-04-28
+OFFER_448,Super Cashback: Earn 5000 Reward Points at Indian Oil,Fuel,MERCH_0799,0,5000,2025-02-23,2025-07-06
+OFFER_449,Weekend Bonanza: Earn 200 Reward Points at SBI General Insurance,Insurance,MERCH_1966,0,200,2025-03-06,2025-05-09
+OFFER_450,Exclusive Deal: Earn 2000 Reward Points at Housing Rent Transfer,Rent,MERCH_0935,0,2000,2025-08-10,2025-12-20
+OFFER_451,First Time User: Get 10% Cashback at Starbucks,Food,MERCH_0970,10,0,2024-11-07,2025-01-20
+OFFER_452,First Time User: Earn 200 Reward Points at Local Tailor,Other,MERCH_0452,0,200,2025-02-23,2025-05-28
+OFFER_453,Exclusive Deal: Get 15% Cashback at DPS School,Education,MERCH_0829,15,0,2025-06-25,2025-09-22
+OFFER_454,Weekend Bonanza: Earn 200 Reward Points at Blinkit,Grocery,MERCH_1341,0,200,2024-12-26,2025-12-21
+OFFER_455,Exclusive Deal: Get 15% Cashback at Zomato,Food,MERCH_0359,15,0,2025-01-14,2025-04-05
+OFFER_456,Mega Rewards: Get 15% Cashback at Local Tailor,Other,MERCH_0452,15,0,2025-05-10,2025-10-05
+OFFER_457,Mega Rewards: Earn 500 Reward Points at Amity University,Education,MERCH_0651,0,500,2025-03-29,2025-09-14
+OFFER_458,Weekend Bonanza: Earn 200 Reward Points at Zomato,Food,MERCH_0359,0,200,2025-07-05,2026-04-23
+OFFER_459,Weekend Bonanza: Get 15% Cashback at Ola,Travel,MERCH_0380,15,0,2025-08-23,2026-02-09
+OFFER_460,First Time User: Earn 2000 Reward Points at Disney VIP,Subscription,MERCH_0149,0,2000,2024-10-19,2025-06-23
+OFFER_461,Festive Special: Earn 200 Reward Points at Air India,Travel,MERCH_0990,0,200,2024-11-30,2025-04-16
+OFFER_462,Mega Rewards: Earn 5000 Reward Points at Indian Oil,Fuel,MERCH_1194,0,5000,2025-04-30,2025-08-04
+OFFER_463,Festive Special: Earn 5000 Reward Points at LIC India,Insurance,MERCH_0481,0,5000,2025-03-31,2025-06-12
+OFFER_464,Super Cashback: Earn 1000 Reward Points at Zara,Shopping,MERCH_0776,0,1000,2025-01-14,2025-07-27
+OFFER_465,Festive Special: Earn 2000 Reward Points at Punjab Grill,Dining_Out,MERCH_0137,0,2000,2025-05-27,2025-12-07
+OFFER_466,Exclusive Deal: Earn 2000 Reward Points at Air India,Travel,MERCH_0205,0,2000,2025-03-02,2025-12-04
+OFFER_467,Super Cashback: Get 15% Cashback at Salon & Spa,Other,MERCH_0752,15,0,2024-10-10,2025-04-30
+OFFER_468,Super Cashback: Earn 1000 Reward Points at Youtube Premium,Subscription,MERCH_0078,0,1000,2025-08-23,2026-01-05
+OFFER_469,Weekend Bonanza: Earn 1000 Reward Points at ICICI Lombard,Insurance,MERCH_0580,0,1000,2024-12-24,2025-11-05
+OFFER_470,Weekend Bonanza: Get 20% Cashback at Local Pub,Dining_Out,MERCH_1410,20,0,2025-01-31,2025-11-24
+OFFER_471,Weekend Bonanza: Earn 500 Reward Points at Uber,Travel,MERCH_1133,0,500,2025-08-02,2026-04-23
+OFFER_472,Festive Special: Get 10% Cashback at Local Tailor,Other,MERCH_0452,10,0,2025-03-17,2025-05-31
+OFFER_473,Festive Special: Get 20% Cashback at Microsoft 365,Subscription,MERCH_0996,20,0,2025-07-06,2025-09-15
+OFFER_474,First Time User: Earn 500 Reward Points at MedPlus,Healthcare,MERCH_0125,0,500,2025-03-05,2025-12-06
+OFFER_475,Exclusive Deal: Earn 5000 Reward Points at Yatra,Travel,MERCH_0567,0,5000,2025-07-01,2025-11-18
+OFFER_476,Super Cashback: Earn 5000 Reward Points at Zerodha Fund,Investment,MERCH_1494,0,5000,2025-07-21,2025-09-27
+OFFER_477,Super Cashback: Get 5% Cashback at Amity University,Education,MERCH_0651,5,0,2025-03-08,2025-10-19
+OFFER_478,First Time User: Get 20% Cashback at Bharat Petroleum,Fuel,MERCH_1795,20,0,2024-11-03,2025-02-17
+OFFER_479,Weekend Bonanza: Get 15% Cashback at NoBroker Rent,Rent,MERCH_0766,15,0,2025-04-27,2025-10-10
+OFFER_480,Festive Special: Earn 2000 Reward Points at Netflix Premium,Subscription,MERCH_1005,0,2000,2024-11-30,2025-11-08
+OFFER_481,Exclusive Deal: Earn 1000 Reward Points at Netflix,Entertainment,MERCH_1034,0,1000,2024-11-30,2025-09-03
+OFFER_482,Mega Rewards: Get 15% Cashback at Hardware Store,Other,MERCH_0119,15,0,2025-03-22,2025-08-11
+OFFER_483,Mega Rewards: Get 15% Cashback at Shell Petrol,Fuel,MERCH_0100,15,0,2024-11-23,2025-05-24
+OFFER_484,Weekend Bonanza: Get 5% Cashback at Groww SIP,Investment,MERCH_1916,5,0,2024-11-20,2025-05-06
+OFFER_485,Weekend Bonanza: Earn 5000 Reward Points at Booking.com,Travel,MERCH_1545,0,5000,2025-05-30,2025-09-19
+OFFER_486,Super Cashback: Get 5% Cashback at Blinkit,Grocery,MERCH_1867,5,0,2024-12-03,2025-05-30
+OFFER_487,Weekend Bonanza: Earn 200 Reward Points at Airtel Fiber,Utility,MERCH_1071,0,200,2025-01-29,2025-11-13
+OFFER_488,Weekend Bonanza: Get 15% Cashback at H&M,Shopping,MERCH_1806,15,0,2025-04-19,2025-07-14
+OFFER_489,Festive Special: Get 20% Cashback at Ola,Travel,MERCH_0380,20,0,2025-05-16,2026-01-27
+OFFER_490,Super Cashback: Earn 500 Reward Points at Apollo Clinic,Healthcare,MERCH_0825,0,500,2025-07-03,2025-09-07
+OFFER_491,Festive Special: Get 20% Cashback at Local Pub,Dining_Out,MERCH_0944,20,0,2025-03-27,2025-10-15
+OFFER_492,Mega Rewards: Earn 5000 Reward Points at Smaaash,Entertainment,MERCH_0041,0,5000,2024-12-05,2025-06-21
+OFFER_493,Festive Special: Earn 200 Reward Points at Zara,Shopping,MERCH_1428,0,200,2025-04-12,2025-08-25
+OFFER_494,First Time User: Get 5% Cashback at Groww SIP,Investment,MERCH_0237,5,0,2025-01-10,2025-11-07
+OFFER_495,Super Cashback: Get 10% Cashback at Blinkit,Grocery,MERCH_1670,10,0,2025-08-05,2025-11-23
+OFFER_496,Super Cashback: Get 10% Cashback at Amity University,Education,MERCH_0309,10,0,2025-01-28,2026-01-22
+OFFER_497,Mega Rewards: Earn 200 Reward Points at Disney+ Hotstar,Entertainment,MERCH_1164,0,200,2025-08-22,2026-01-05
+OFFER_498,Super Cashback: Get 20% Cashback at Jio Fiber,Utility,MERCH_0126,20,0,2024-10-24,2025-05-10
+OFFER_499,First Time User: Get 10% Cashback at Cred RentPay,Rent,MERCH_1060,10,0,2024-11-21,2025-10-23
+OFFER_500,First Time User: Get 20% Cashback at DPS School,Education,MERCH_1193,20,0,2024-11-15,2025-01-18

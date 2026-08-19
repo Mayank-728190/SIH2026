@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Face Pattern Matching</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #121212;
+            color: #ffffff;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        .container {
+            background-color: #1e1e1e;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+            width: 100%;
+            max-width: 800px;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+        }
+        input[type="file"] {
+            background-color: #2d2d2d;
+            padding: 10px;
+            border-radius: 5px;
+            width: 100%;
+            border: 1px solid #444;
+            color: #fff;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            font-weight: bold;
+            width: 100%;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        button:disabled {
+            background-color: #666;
+            cursor: not-allowed;
+        }
+        #loading {
+            display: none;
+            text-align: center;
+            margin-top: 20px;
+            color: #aaa;
+        }
+        #results {
+            display: none;
+            margin-top: 30px;
+            border-top: 1px solid #444;
+            padding-top: 20px;
+        }
+        .status-box {
+            text-align: center;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 1.2em;
+            font-weight: bold;
+        }
+        .match-strong { background-color: rgba(76, 175, 80, 0.2); border: 1px solid #4CAF50; color: #4CAF50; }
+        .match-moderate { background-color: rgba(255, 152, 0, 0.2); border: 1px solid #ff9800; color: #ff9800; }
+        .match-weak { background-color: rgba(244, 67, 54, 0.2); border: 1px solid #f44336; color: #f44336; }
+        .match-none { background-color: #333; border: 1px solid #555; color: #aaa; }
+        
+        .images-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 20px;
+        }
+        .image-box {
+            flex: 1;
+            text-align: center;
+            background-color: #2d2d2d;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .image-box img {
+            max-width: 100%;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .error-message {
+            color: #f44336;
+            background-color: rgba(244, 67, 54, 0.1);
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Face Pattern Matching</h1>
+        <p>Upload two images to detect faces and calculate their similarity.</p>
+
+        <form id="uploadForm">
+            <div class="form-group">
+                <label for="image1">Image 1 (Person A)</label>
+                <input type="file" id="image1" accept="image/*" required>
+            </div>
+            <div class="form-group">
+                <label for="image2">Image 2 (Person B)</label>
+                <input type="file" id="image2" accept="image/*" required>
+            </div>
+            <button type="submit" id="submitBtn">Compare Faces</button>
+        </form>
+
+        <div id="loading">Processing images... Please wait...</div>
+        
+        <div id="errorBox" class="error-message"></div>
+
+        <div id="results">
+            <div id="statusBox" style="text-align: center; margin-bottom: 20px;"></div>
+            <div class="images-container">
+                <div class="image-box">
+                    <h3>Face 1</h3>
+                    <img id="resultImage1" src="" alt="Processed Image 1">
+                </div>
+                <div class="image-box">
+                    <h3>Face 2</h3>
+                    <img id="resultImage2" src="" alt="Processed Image 2">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const file1 = document.getElementById('image1').files[0];
+            const file2 = document.getElementById('image2').files[0];
+            
+            if (!file1 || !file2) {
+                alert("Please select both images.");
+                return;
+            }
+
+            // UI Reset
+            document.getElementById('submitBtn').disabled = true;
+            document.getElementById('loading').style.display = 'block';
+            document.getElementById('results').style.display = 'none';
+            document.getElementById('errorBox').style.display = 'none';
+
+            const formData = new FormData();
+            formData.append('image1', file1);
+            formData.append('image2', file2);
+
+            try {
+                // Use relative path if served via HTTP, else default to localhost:8000 if opened directly from file system
+                const apiUrl = window.location.protocol === 'file:' ? 'http://localhost:8000/compare' : '/compare';
+                const response = await fetch(apiUrl, {
+                    method: 'POST',
+                    body: formData
+                });
+
+                const data = await response.json();
+
+                if (!response.ok || data.error) {
+                    throw new Error(data.error || "An error occurred on the server.");
+                }
+
+                // Display Results
+                document.getElementById('results').style.display = 'block';
+                
+                // Build Matches HTML
+                const statusBox = document.getElementById('statusBox');
+                statusBox.innerHTML = '<h3>Face Match Results</h3>';
+                
+                if (data.matches && data.matches.length > 0) {
+                    data.matches.forEach(match => {
+                        let statusClass = 'match-none';
+                        if (match.status.includes('Strong')) statusClass = 'match-strong';
+                        else if (match.status.includes('Moderate')) statusClass = 'match-moderate';
+                        else if (match.status.includes('Weak')) statusClass = 'match-weak';
+                        
+                        const scorePercent = (match.score * 100).toFixed(1);
+                        
+                        const matchDiv = document.createElement('div');
+                        matchDiv.className = `status-box ${statusClass}`;
+                        matchDiv.style.margin = '10px 0';
+                        matchDiv.innerHTML = `
+                            <strong>${match.face1_id} ↔ ${match.face2_id}</strong><br>
+                            ${match.status} <br> 
+                            <span style="font-size: 0.8em; font-weight: normal;">Confidence: ${scorePercent}%</span>
+                        `;
+                        statusBox.appendChild(matchDiv);
+                    });
+                } else {
+                    statusBox.innerHTML += '<p>No matches found.</p>';
+                }
+
+                // Set Images
+                document.getElementById('resultImage1').src = "data:image/jpeg;base64," + data.image1_processed;
+                document.getElementById('resultImage2').src = "data:image/jpeg;base64," + data.image2_processed;
+
+            } catch (error) {
+                const errorBox = document.getElementById('errorBox');
+                errorBox.style.display = 'block';
+                errorBox.textContent = "Error: " + error.message;
+            } finally {
+                document.getElementById('submitBtn').disabled = false;
+                document.getElementById('loading').style.display = 'none';
+            }
+        });
+    </script>
+</body>
+</html>

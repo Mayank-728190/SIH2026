@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn
+opencv-python
+numpy
+python-multipart
+requests

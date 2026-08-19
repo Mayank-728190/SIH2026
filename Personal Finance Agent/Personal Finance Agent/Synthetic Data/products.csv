@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Product_Type,Eligibility_Min_CIBIL,Eligibility_Min_Income,Reward_Rate,Annual_Fee,Interest_Rate
+PROD_001,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.32
+PROD_002,Infinite Home Loan,Home Loan,720,150000,0.0,0,9.1
+PROD_003,Elite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.1
+PROD_004,Signature Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.11
+PROD_005,Signature Investment,Investment,700,75000,0.0,0,0.0
+PROD_006,Direct Mutual Fund Savings Account,Savings Account,300,0,0.91,0,3.62
+PROD_007,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.55
+PROD_008,Elite Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.02
+PROD_009,Gold Insurance,Insurance,680,35000,0.0,0,0.0
+PROD_010,Elite Investment,Investment,720,150000,0.0,0,0.0
+PROD_011,Super Saver Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.64
+PROD_012,Gold Personal Loan,Personal Loan,680,50000,0.0,0,10.37
+PROD_013,Signature Auto Loan,Auto Loan,720,100000,0.0,0,8.69
+PROD_014,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_015,Super Saver Personal Loan,Personal Loan,550,10000,0.0,0,11.63
+PROD_016,Elite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.97
+PROD_017,Direct Mutual Fund Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.09
+PROD_018,Classic Insurance,Insurance,300,10000,0.0,0,0.0
+PROD_019,Super Saver Insurance,Insurance,300,20000,0.0,0,0.0
+PROD_020,Super Saver Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.36
+PROD_021,Platinum Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.09
+PROD_022,Infinite Investment,Investment,720,75000,0.0,0,0.0
+PROD_023,NPS Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.11
+PROD_024,Super Saver Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.06
+PROD_025,Platinum Auto Loan,Auto Loan,700,150000,0.0,0,9.22
+PROD_026,Classic Credit Card,Credit Card,300,20000,1.56,4999,0.0
+PROD_027,NPS Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.2
+PROD_028,Infinite Credit Card,Credit Card,700,75000,2.79,4999,0.0
+PROD_029,Infinite Home Loan,Home Loan,750,75000,0.0,0,11.74
+PROD_030,Infinite Personal Loan,Personal Loan,750,150000,0.0,0,9.47
+PROD_031,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_032,Elite Insurance,Insurance,720,100000,0.0,0,0.0
+PROD_033,Infinite Investment,Investment,700,150000,0.0,0,0.0
+PROD_034,Classic Savings Account,Savings Account,300,0,2.42,0,3.82
+PROD_035,Platinum Insurance,Insurance,750,100000,0.0,0,0.0
+PROD_036,NPS Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.25
+PROD_037,Super Saver Investment,Investment,600,10000,0.0,0,0.0
+PROD_038,Super Saver Auto Loan,Auto Loan,300,20000,0.0,0,10.68
+PROD_039,Direct Mutual Fund Savings Account,Savings Account,300,0,2.74,0,3.3
+PROD_040,Super Saver Savings Account,Savings Account,300,0,3.24,0,3.5
+PROD_041,Infinite Auto Loan,Auto Loan,700,75000,0.0,0,12.31
+PROD_042,Elite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_043,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.67
+PROD_044,Signature Savings Account,Savings Account,300,0,3.35,0,3.54
+PROD_045,NPS Savings Account,Savings Account,300,0,3.63,0,3.86
+PROD_046,Platinum Personal Loan,Personal Loan,720,150000,0.0,0,13.36
+PROD_047,Infinite Personal Loan,Personal Loan,700,75000,0.0,0,10.89
+PROD_048,Gold Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.22
+PROD_049,NPS Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_050,Platinum Investment,Investment,750,100000,0.0,0,0.0
+PROD_051,Titanium Insurance,Insurance,300,20000,0.0,0,0.0
+PROD_052,Elite Savings Account,Savings Account,300,0,1.35,0,3.28
+PROD_053,Platinum Credit Card,Credit Card,720,75000,3.39,999,0.0
+PROD_054,Super Saver Savings Account,Savings Account,300,0,3.23,0,3.01
+PROD_055,Platinum Insurance,Insurance,700,75000,0.0,0,0.0
+PROD_056,Gold Current Account,Current Account,300,0,0.0,0,0.0
+PROD_057,NPS Credit Card,Credit Card,300,20000,1.57,2999,0.0
+PROD_058,Super Saver Personal Loan,Personal Loan,600,10000,0.0,0,12.45
+PROD_059,Platinum Savings Account,Savings Account,300,0,1.63,0,3.59
+PROD_060,Platinum Auto Loan,Auto Loan,720,150000,0.0,0,11.11
+PROD_061,Classic Home Loan,Home Loan,600,20000,0.0,0,13.69
+PROD_062,Titanium Credit Card,Credit Card,600,20000,3.4,0,0.0
+PROD_063,Signature Home Loan,Home Loan,750,75000,0.0,0,14.22
+PROD_064,Elite Savings Account,Savings Account,300,0,4.91,0,3.08
+PROD_065,Infinite Home Loan,Home Loan,700,150000,0.0,0,9.52
+PROD_066,Direct Mutual Fund Insurance,Insurance,600,20000,0.0,0,0.0
+PROD_067,Platinum Investment,Investment,720,100000,0.0,0,0.0
+PROD_068,Infinite Auto Loan,Auto Loan,720,150000,0.0,0,11.61
+PROD_069,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_070,NPS Savings Account,Savings Account,300,0,2.12,0,3.29
+PROD_071,Direct Mutual Fund Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.56
+PROD_072,Infinite Investment,Investment,700,75000,0.0,0,0.0
+PROD_073,Classic Personal Loan,Personal Loan,550,20000,0.0,0,8.8
+PROD_074,Infinite Credit Card,Credit Card,750,100000,0.92,4999,0.0
+PROD_075,NPS Credit Card,Credit Card,550,10000,4.92,4999,0.0
+PROD_076,Direct Mutual Fund Investment,Investment,550,10000,0.0,0,0.0
+PROD_077,Direct Mutual Fund Personal Loan,Personal Loan,550,10000,0.0,0,10.66
+PROD_078,Classic Home Loan,Home Loan,300,20000,0.0,0,9.79
+PROD_079,Infinite Home Loan,Home Loan,720,75000,0.0,0,9.67
+PROD_080,Infinite Credit Card,Credit Card,700,100000,2.82,4999,0.0
+PROD_081,Classic Credit Card,Credit Card,600,10000,2.48,499,0.0
+PROD_082,Direct Mutual Fund Home Loan,Home Loan,300,20000,0.0,0,13.52
+PROD_083,Elite Insurance,Insurance,700,100000,0.0,0,0.0
+PROD_084,Classic Investment,Investment,600,20000,0.0,0,0.0
+PROD_085,NPS Auto Loan,Auto Loan,300,10000,0.0,0,12.33
+PROD_086,Elite Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.76
+PROD_087,Platinum Investment,Investment,700,100000,0.0,0,0.0
+PROD_088,Elite Insurance,Insurance,750,75000,0.0,0,0.0
+PROD_089,Elite Personal Loan,Personal Loan,720,100000,0.0,0,11.45
+PROD_090,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.78
+PROD_091,Direct Mutual Fund Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.14
+PROD_092,Titanium Current Account,Current Account,300,0,0.0,0,0.0
+PROD_093,Platinum Investment,Investment,720,75000,0.0,0,0.0
+PROD_094,Elite Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.7
+PROD_095,Super Saver Personal Loan,Personal Loan,550,10000,0.0,0,12.36
+PROD_096,Platinum Savings Account,Savings Account,300,0,3.32,0,3.82
+PROD_097,Direct Mutual Fund Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.49
+PROD_098,Platinum Current Account,Current Account,300,0,0.0,0,0.0
+PROD_099,Classic Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.69
+PROD_100,Direct Mutual Fund Investment,Investment,550,20000,0.0,0,0.0
+PROD_101,NPS Credit Card,Credit Card,600,20000,3.62,499,0.0
+PROD_102,Titanium Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.74
+PROD_103,Direct Mutual Fund Personal Loan,Personal Loan,300,10000,0.0,0,11.91
+PROD_104,Classic Credit Card,Credit Card,600,20000,1.07,0,0.0
+PROD_105,Super Saver Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.01
+PROD_106,Infinite Savings Account,Savings Account,300,0,3.9,0,3.1
+PROD_107,Classic Savings Account,Savings Account,300,0,4.22,0,3.32
+PROD_108,Classic Credit Card,Credit Card,300,10000,4.31,0,0.0
+PROD_109,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.14
+PROD_110,Elite Home Loan,Home Loan,750,75000,0.0,0,11.82
+PROD_111,Titanium Home Loan,Home Loan,300,10000,0.0,0,13.19
+PROD_112,Elite Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.1
+PROD_113,Elite Investment,Investment,750,150000,0.0,0,0.0
+PROD_114,NPS Current Account,Current Account,300,0,0.0,0,0.0
+PROD_115,Signature Savings Account,Savings Account,300,0,3.65,0,3.07
+PROD_116,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_117,Signature Home Loan,Home Loan,750,75000,0.0,0,10.72
+PROD_118,Classic Personal Loan,Personal Loan,600,10000,0.0,0,14.42
+PROD_119,Titanium Personal Loan,Personal Loan,550,20000,0.0,0,9.0
+PROD_120,Infinite Auto Loan,Auto Loan,750,100000,0.0,0,13.94
+PROD_121,Platinum Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.73
+PROD_122,Titanium Investment,Investment,300,10000,0.0,0,0.0
+PROD_123,Infinite Insurance,Insurance,700,150000,0.0,0,0.0
+PROD_124,Classic Insurance,Insurance,300,20000,0.0,0,0.0
+PROD_125,Signature Savings Account,Savings Account,300,0,4.11,0,3.98
+PROD_126,Signature Home Loan,Home Loan,700,150000,0.0,0,14.01
+PROD_127,Platinum Personal Loan,Personal Loan,750,75000,0.0,0,11.64
+PROD_128,Classic Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_129,Elite Savings Account,Savings Account,300,0,2.23,0,3.74
+PROD_130,Super Saver Investment,Investment,550,20000,0.0,0,0.0
+PROD_131,Elite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.7
+PROD_132,Elite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_133,Classic Auto Loan,Auto Loan,300,10000,0.0,0,10.97
+PROD_134,Signature Credit Card,Credit Card,720,150000,3.77,0,0.0
+PROD_135,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_136,Infinite Home Loan,Home Loan,700,100000,0.0,0,13.36
+PROD_137,Elite Savings Account,Savings Account,300,0,2.27,0,3.83
+PROD_138,Classic Savings Account,Savings Account,300,0,2.37,0,3.27
+PROD_139,Signature Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.8
+PROD_140,Platinum Auto Loan,Auto Loan,700,150000,0.0,0,13.11
+PROD_141,Direct Mutual Fund Home Loan,Home Loan,550,10000,0.0,0,9.98
+PROD_142,Classic Insurance,Insurance,600,10000,0.0,0,0.0
+PROD_143,Classic Personal Loan,Personal Loan,300,20000,0.0,0,12.21
+PROD_144,Infinite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.94
+PROD_145,Platinum Auto Loan,Auto Loan,750,100000,0.0,0,13.61
+PROD_146,Elite Auto Loan,Auto Loan,720,100000,0.0,0,13.25
+PROD_147,Infinite Savings Account,Savings Account,300,0,3.29,0,3.7
+PROD_148,Infinite Credit Card,Credit Card,720,100000,2.08,499,0.0
+PROD_149,Platinum Current Account,Current Account,300,0,0.0,0,0.0
+PROD_150,NPS Personal Loan,Personal Loan,550,10000,0.0,0,13.2
+PROD_151,Direct Mutual Fund Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.71
+PROD_152,Direct Mutual Fund Personal Loan,Personal Loan,300,20000,0.0,0,13.11
+PROD_153,Super Saver Personal Loan,Personal Loan,300,20000,0.0,0,12.22
+PROD_154,Platinum Current Account,Current Account,300,0,0.0,0,0.0
+PROD_155,Infinite Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.25
+PROD_156,Titanium Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.57
+PROD_157,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_158,Elite Home Loan,Home Loan,720,100000,0.0,0,9.56
+PROD_159,Signature Home Loan,Home Loan,700,75000,0.0,0,11.26
+PROD_160,Gold Investment,Investment,650,50000,0.0,0,0.0
+PROD_161,NPS Investment,Investment,550,10000,0.0,0,0.0
+PROD_162,Signature Insurance,Insurance,750,100000,0.0,0,0.0
+PROD_163,Direct Mutual Fund Savings Account,Savings Account,300,0,3.87,0,3.18
+PROD_164,Signature Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.37
+PROD_165,Gold Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.07
+PROD_166,Platinum Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.61
+PROD_167,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_168,NPS Credit Card,Credit Card,600,10000,1.32,0,0.0
+PROD_169,Infinite Savings Account,Savings Account,300,0,2.91,0,3.23
+PROD_170,NPS Personal Loan,Personal Loan,550,10000,0.0,0,12.39
+PROD_171,Titanium Current Account,Current Account,300,0,0.0,0,0.0
+PROD_172,Super Saver Current Account,Current Account,300,0,0.0,0,0.0
+PROD_173,Direct Mutual Fund Credit Card,Credit Card,300,10000,2.13,499,0.0
+PROD_174,Super Saver Current Account,Current Account,300,0,0.0,0,0.0
+PROD_175,Elite Auto Loan,Auto Loan,700,75000,0.0,0,8.55
+PROD_176,Signature Home Loan,Home Loan,720,150000,0.0,0,11.43
+PROD_177,Infinite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.09
+PROD_178,Elite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.72
+PROD_179,Signature Personal Loan,Personal Loan,720,75000,0.0,0,11.44
+PROD_180,Platinum Auto Loan,Auto Loan,720,75000,0.0,0,12.81
+PROD_181,Direct Mutual Fund Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.39
+PROD_182,Direct Mutual Fund Auto Loan,Auto Loan,550,20000,0.0,0,11.05
+PROD_183,Titanium Savings Account,Savings Account,300,0,1.02,0,3.61
+PROD_184,Elite Auto Loan,Auto Loan,720,150000,0.0,0,14.09
+PROD_185,Classic Credit Card,Credit Card,550,20000,2.54,2999,0.0
+PROD_186,Direct Mutual Fund Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.23
+PROD_187,Classic Personal Loan,Personal Loan,600,10000,0.0,0,8.52
+PROD_188,Super Saver Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_189,Classic Credit Card,Credit Card,300,20000,3.86,499,0.0
+PROD_190,Super Saver Home Loan,Home Loan,600,10000,0.0,0,9.73
+PROD_191,Platinum Credit Card,Credit Card,700,100000,0.72,2999,0.0
+PROD_192,NPS Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.44
+PROD_193,Elite Credit Card,Credit Card,700,75000,1.56,4999,0.0
+PROD_194,Titanium Investment,Investment,300,10000,0.0,0,0.0
+PROD_195,NPS Investment,Investment,550,20000,0.0,0,0.0
+PROD_196,Infinite Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.12
+PROD_197,Infinite Savings Account,Savings Account,300,0,3.1,0,3.36
+PROD_198,Gold Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.63
+PROD_199,Infinite Credit Card,Credit Card,750,100000,4.73,999,0.0
+PROD_200,Direct Mutual Fund Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.12
+PROD_201,Infinite Personal Loan,Personal Loan,750,75000,0.0,0,9.41
+PROD_202,Elite Savings Account,Savings Account,300,0,1.14,0,3.2
+PROD_203,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_204,Classic Investment,Investment,550,20000,0.0,0,0.0
+PROD_205,Super Saver Personal Loan,Personal Loan,600,10000,0.0,0,11.74
+PROD_206,Gold Personal Loan,Personal Loan,650,35000,0.0,0,12.09
+PROD_207,Titanium Personal Loan,Personal Loan,550,10000,0.0,0,12.09
+PROD_208,Direct Mutual Fund Personal Loan,Personal Loan,550,20000,0.0,0,10.91
+PROD_209,Direct Mutual Fund Investment,Investment,300,20000,0.0,0,0.0
+PROD_210,NPS Current Account,Current Account,300,0,0.0,0,0.0
+PROD_211,Titanium Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.04
+PROD_212,Classic Investment,Investment,600,20000,0.0,0,0.0
+PROD_213,Signature Insurance,Insurance,750,75000,0.0,0,0.0
+PROD_214,NPS Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.81
+PROD_215,Elite Home Loan,Home Loan,720,100000,0.0,0,9.62
+PROD_216,NPS Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.56
+PROD_217,Super Saver Credit Card,Credit Card,600,10000,2.21,2999,0.0
+PROD_218,Direct Mutual Fund Insurance,Insurance,300,10000,0.0,0,0.0
+PROD_219,NPS Investment,Investment,600,10000,0.0,0,0.0
+PROD_220,NPS Personal Loan,Personal Loan,550,10000,0.0,0,14.04
+PROD_221,Gold Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.65
+PROD_222,Signature Credit Card,Credit Card,700,150000,1.24,2999,0.0
+PROD_223,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.05
+PROD_224,Direct Mutual Fund Auto Loan,Auto Loan,550,10000,0.0,0,11.59
+PROD_225,Titanium Savings Account,Savings Account,300,0,3.01,0,3.86
+PROD_226,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.56
+PROD_227,Platinum Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.63
+PROD_228,Super Saver Savings Account,Savings Account,300,0,1.82,0,3.71
+PROD_229,Gold Current Account,Current Account,300,0,0.0,0,0.0
+PROD_230,Gold Savings Account,Savings Account,300,0,3.94,0,3.1
+PROD_231,Infinite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.67
+PROD_232,Platinum Investment,Investment,720,100000,0.0,0,0.0
+PROD_233,Infinite Savings Account,Savings Account,300,0,4.4,0,3.41
+PROD_234,Infinite Insurance,Insurance,750,150000,0.0,0,0.0
+PROD_235,Signature Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.02
+PROD_236,Classic Credit Card,Credit Card,600,20000,0.95,4999,0.0
+PROD_237,Titanium Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.37
+PROD_238,Gold Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.15
+PROD_239,Elite Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.58
+PROD_240,Gold Current Account,Current Account,300,0,0.0,0,0.0
+PROD_241,Titanium Home Loan,Home Loan,600,20000,0.0,0,13.45
+PROD_242,Infinite Credit Card,Credit Card,750,75000,2.05,4999,0.0
+PROD_243,Gold Insurance,Insurance,650,50000,0.0,0,0.0
+PROD_244,Titanium Credit Card,Credit Card,550,20000,4.01,0,0.0
+PROD_245,Super Saver Investment,Investment,600,20000,0.0,0,0.0
+PROD_246,Classic Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.92
+PROD_247,Super Saver Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_248,Infinite Insurance,Insurance,700,100000,0.0,0,0.0
+PROD_249,Titanium Auto Loan,Auto Loan,550,20000,0.0,0,13.9
+PROD_250,Infinite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_251,Gold Auto Loan,Auto Loan,680,35000,0.0,0,13.39
+PROD_252,Signature Insurance,Insurance,720,75000,0.0,0,0.0
+PROD_253,NPS Home Loan,Home Loan,550,20000,0.0,0,12.82
+PROD_254,Direct Mutual Fund Home Loan,Home Loan,550,10000,0.0,0,10.08
+PROD_255,Super Saver Auto Loan,Auto Loan,550,20000,0.0,0,12.3
+PROD_256,Infinite Home Loan,Home Loan,720,75000,0.0,0,13.53
+PROD_257,Direct Mutual Fund Home Loan,Home Loan,550,20000,0.0,0,10.62
+PROD_258,Classic Auto Loan,Auto Loan,600,10000,0.0,0,12.12
+PROD_259,Elite Investment,Investment,750,150000,0.0,0,0.0
+PROD_260,Classic Personal Loan,Personal Loan,600,10000,0.0,0,12.16
+PROD_261,Gold Auto Loan,Auto Loan,650,35000,0.0,0,14.22
+PROD_262,Elite Auto Loan,Auto Loan,700,100000,0.0,0,8.69
+PROD_263,Platinum Personal Loan,Personal Loan,750,150000,0.0,0,13.58
+PROD_264,NPS Current Account,Current Account,300,0,0.0,0,0.0
+PROD_265,NPS Home Loan,Home Loan,300,20000,0.0,0,12.87
+PROD_266,Super Saver Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_267,Platinum Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.44
+PROD_268,Signature Credit Card,Credit Card,720,150000,1.92,999,0.0
+PROD_269,Classic Savings Account,Savings Account,300,0,2.51,0,3.19
+PROD_270,Platinum Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.37
+PROD_271,Signature Home Loan,Home Loan,720,75000,0.0,0,13.92
+PROD_272,NPS Investment,Investment,300,20000,0.0,0,0.0
+PROD_273,Infinite Investment,Investment,700,150000,0.0,0,0.0
+PROD_274,Elite Investment,Investment,720,100000,0.0,0,0.0
+PROD_275,Elite Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.35
+PROD_276,Gold Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.43
+PROD_277,Infinite Personal Loan,Personal Loan,750,100000,0.0,0,11.63
+PROD_278,Classic Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.66
+PROD_279,Platinum Current Account,Current Account,300,0,0.0,0,0.0
+PROD_280,Direct Mutual Fund Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.12
+PROD_281,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.57
+PROD_282,Classic Current Account,Current Account,300,0,0.0,0,0.0
+PROD_283,Infinite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_284,Infinite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_285,Platinum Current Account,Current Account,300,0,0.0,0,0.0
+PROD_286,Classic Personal Loan,Personal Loan,300,20000,0.0,0,11.38
+PROD_287,Super Saver Insurance,Insurance,600,10000,0.0,0,0.0
+PROD_288,NPS Investment,Investment,600,10000,0.0,0,0.0
+PROD_289,Elite Personal Loan,Personal Loan,700,100000,0.0,0,8.52
+PROD_290,Gold Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.42
+PROD_291,Classic Insurance,Insurance,300,20000,0.0,0,0.0
+PROD_292,Classic Insurance,Insurance,300,20000,0.0,0,0.0
+PROD_293,Direct Mutual Fund Personal Loan,Personal Loan,300,10000,0.0,0,10.05
+PROD_294,Infinite Auto Loan,Auto Loan,750,100000,0.0,0,12.1
+PROD_295,NPS Current Account,Current Account,300,0,0.0,0,0.0
+PROD_296,Super Saver Personal Loan,Personal Loan,300,10000,0.0,0,9.88
+PROD_297,Direct Mutual Fund Credit Card,Credit Card,600,20000,2.23,0,0.0
+PROD_298,Direct Mutual Fund Savings Account,Savings Account,300,0,2.08,0,3.06
+PROD_299,Classic Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.08
+PROD_300,Direct Mutual Fund Savings Account,Savings Account,300,0,2.71,0,4.0
+PROD_301,Platinum Credit Card,Credit Card,720,75000,1.51,0,0.0
+PROD_302,Titanium Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_303,NPS Current Account,Current Account,300,0,0.0,0,0.0
+PROD_304,Platinum Insurance,Insurance,700,100000,0.0,0,0.0
+PROD_305,NPS Investment,Investment,600,20000,0.0,0,0.0
+PROD_306,Elite Insurance,Insurance,750,150000,0.0,0,0.0
+PROD_307,Super Saver Current Account,Current Account,300,0,0.0,0,0.0
+PROD_308,Elite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.15
+PROD_309,Classic Home Loan,Home Loan,550,20000,0.0,0,13.8
+PROD_310,Direct Mutual Fund Credit Card,Credit Card,600,20000,3.48,999,0.0
+PROD_311,Signature Savings Account,Savings Account,300,0,1.21,0,3.16
+PROD_312,Elite Insurance,Insurance,720,150000,0.0,0,0.0
+PROD_313,Infinite Auto Loan,Auto Loan,700,150000,0.0,0,14.27
+PROD_314,Platinum Insurance,Insurance,750,150000,0.0,0,0.0
+PROD_315,Direct Mutual Fund Investment,Investment,600,10000,0.0,0,0.0
+PROD_316,Gold Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.5
+PROD_317,Gold Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.11
+PROD_318,NPS Savings Account,Savings Account,300,0,1.67,0,3.63
+PROD_319,Platinum Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.37
+PROD_320,NPS Investment,Investment,550,10000,0.0,0,0.0
+PROD_321,Signature Home Loan,Home Loan,720,150000,0.0,0,9.5
+PROD_322,Classic Auto Loan,Auto Loan,550,20000,0.0,0,10.58
+PROD_323,Super Saver Investment,Investment,600,20000,0.0,0,0.0
+PROD_324,Titanium Current Account,Current Account,300,0,0.0,0,0.0
+PROD_325,Infinite Personal Loan,Personal Loan,700,150000,0.0,0,13.43
+PROD_326,Direct Mutual Fund Credit Card,Credit Card,600,20000,1.22,499,0.0
+PROD_327,Classic Personal Loan,Personal Loan,600,10000,0.0,0,13.63
+PROD_328,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.22
+PROD_329,Platinum Auto Loan,Auto Loan,700,100000,0.0,0,9.41
+PROD_330,Elite Home Loan,Home Loan,750,100000,0.0,0,13.06
+PROD_331,Platinum Home Loan,Home Loan,750,75000,0.0,0,10.42
+PROD_332,Gold Auto Loan,Auto Loan,650,35000,0.0,0,8.69
+PROD_333,Super Saver Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_334,NPS Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.4
+PROD_335,Titanium Current Account,Current Account,300,0,0.0,0,0.0
+PROD_336,Super Saver Home Loan,Home Loan,550,10000,0.0,0,9.61
+PROD_337,Infinite Insurance,Insurance,700,100000,0.0,0,0.0
+PROD_338,Titanium Personal Loan,Personal Loan,300,20000,0.0,0,9.85
+PROD_339,Signature Auto Loan,Auto Loan,700,75000,0.0,0,12.04
+PROD_340,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.22
+PROD_341,Signature Current Account,Current Account,300,0,0.0,0,0.0
+PROD_342,Classic Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_343,Signature Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.44
+PROD_344,Signature Insurance,Insurance,720,75000,0.0,0,0.0
+PROD_345,Super Saver Investment,Investment,550,20000,0.0,0,0.0
+PROD_346,Gold Savings Account,Savings Account,300,0,4.47,0,3.08
+PROD_347,Direct Mutual Fund Personal Loan,Personal Loan,550,10000,0.0,0,9.3
+PROD_348,Direct Mutual Fund Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.44
+PROD_349,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_350,Super Saver Savings Account,Savings Account,300,0,3.68,0,3.03
+PROD_351,NPS Auto Loan,Auto Loan,600,10000,0.0,0,11.75
+PROD_352,Super Saver Current Account,Current Account,300,0,0.0,0,0.0
+PROD_353,Infinite Personal Loan,Personal Loan,750,100000,0.0,0,13.4
+PROD_354,Platinum Investment,Investment,750,75000,0.0,0,0.0
+PROD_355,Gold Investment,Investment,680,50000,0.0,0,0.0
+PROD_356,NPS Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.39
+PROD_357,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.57
+PROD_358,Infinite Home Loan,Home Loan,750,100000,0.0,0,8.63
+PROD_359,Signature Credit Card,Credit Card,700,75000,2.72,1499,0.0
+PROD_360,Platinum Investment,Investment,750,75000,0.0,0,0.0
+PROD_361,Classic Auto Loan,Auto Loan,600,20000,0.0,0,9.55
+PROD_362,Direct Mutual Fund Home Loan,Home Loan,300,20000,0.0,0,11.05
+PROD_363,Titanium Personal Loan,Personal Loan,550,10000,0.0,0,11.58
+PROD_364,Titanium Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_365,Titanium Current Account,Current Account,300,0,0.0,0,0.0
+PROD_366,Titanium Current Account,Current Account,300,0,0.0,0,0.0
+PROD_367,Platinum Investment,Investment,750,100000,0.0,0,0.0
+PROD_368,Platinum Auto Loan,Auto Loan,700,100000,0.0,0,12.29
+PROD_369,Platinum Savings Account,Savings Account,300,0,1.31,0,3.24
+PROD_370,Infinite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_371,NPS Auto Loan,Auto Loan,550,20000,0.0,0,13.72
+PROD_372,Infinite Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.17
+PROD_373,NPS Savings Account,Savings Account,300,0,1.66,0,3.66
+PROD_374,Super Saver Savings Account,Savings Account,300,0,2.54,0,3.24
+PROD_375,Signature Credit Card,Credit Card,720,100000,2.52,1499,0.0
+PROD_376,Classic Insurance,Insurance,300,20000,0.0,0,0.0
+PROD_377,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.65
+PROD_378,Elite Insurance,Insurance,750,75000,0.0,0,0.0
+PROD_379,Classic Home Loan,Home Loan,300,20000,0.0,0,13.33
+PROD_380,Titanium Auto Loan,Auto Loan,550,20000,0.0,0,8.84
+PROD_381,Titanium Home Loan,Home Loan,550,10000,0.0,0,12.34
+PROD_382,Signature Credit Card,Credit Card,700,75000,0.9,0,0.0
+PROD_383,Platinum Savings Account,Savings Account,300,0,2.29,0,3.48
+PROD_384,NPS Current Account,Current Account,300,0,0.0,0,0.0
+PROD_385,Infinite Insurance,Insurance,750,150000,0.0,0,0.0
+PROD_386,Infinite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_387,Gold Personal Loan,Personal Loan,680,50000,0.0,0,12.54
+PROD_388,Elite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_389,Signature Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.32
+PROD_390,Classic Current Account,Current Account,300,0,0.0,0,0.0
+PROD_391,Direct Mutual Fund Investment,Investment,550,20000,0.0,0,0.0
+PROD_392,Classic Current Account,Current Account,300,0,0.0,0,0.0
+PROD_393,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.43
+PROD_394,Classic Personal Loan,Personal Loan,300,10000,0.0,0,14.15
+PROD_395,Elite Home Loan,Home Loan,700,100000,0.0,0,10.59
+PROD_396,Gold Current Account,Current Account,300,0,0.0,0,0.0
+PROD_397,Classic Insurance,Insurance,300,10000,0.0,0,0.0
+PROD_398,Elite Insurance,Insurance,700,150000,0.0,0,0.0
+PROD_399,Titanium Insurance,Insurance,550,10000,0.0,0,0.0
+PROD_400,Titanium Auto Loan,Auto Loan,550,10000,0.0,0,13.35
+PROD_401,NPS Current Account,Current Account,300,0,0.0,0,0.0
+PROD_402,Super Saver Savings Account,Savings Account,300,0,3.42,0,3.33
+PROD_403,Direct Mutual Fund Savings Account,Savings Account,300,0,3.63,0,3.39
+PROD_404,Classic Insurance,Insurance,300,20000,0.0,0,0.0
+PROD_405,Platinum Savings Account,Savings Account,300,0,3.14,0,3.17
+PROD_406,Gold Investment,Investment,680,35000,0.0,0,0.0
+PROD_407,Elite Credit Card,Credit Card,720,100000,2.66,2999,0.0
+PROD_408,NPS Investment,Investment,300,20000,0.0,0,0.0
+PROD_409,Titanium Home Loan,Home Loan,600,10000,0.0,0,13.09
+PROD_410,Gold Auto Loan,Auto Loan,680,35000,0.0,0,11.63
+PROD_411,Infinite Home Loan,Home Loan,750,150000,0.0,0,13.88
+PROD_412,NPS Home Loan,Home Loan,600,10000,0.0,0,8.86
+PROD_413,Signature Home Loan,Home Loan,750,100000,0.0,0,9.5
+PROD_414,Elite Personal Loan,Personal Loan,720,150000,0.0,0,14.08
+PROD_415,Super Saver Credit Card,Credit Card,550,20000,3.73,499,0.0
+PROD_416,Titanium Savings Account,Savings Account,300,0,2.85,0,3.12
+PROD_417,Infinite Investment,Investment,700,150000,0.0,0,0.0
+PROD_418,Super Saver Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.33
+PROD_419,Titanium Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.47
+PROD_420,Direct Mutual Fund Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.0
+PROD_421,Signature Auto Loan,Auto Loan,700,100000,0.0,0,12.06
+PROD_422,NPS Investment,Investment,600,20000,0.0,0,0.0
+PROD_423,Direct Mutual Fund Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.63
+PROD_424,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.4
+PROD_425,Super Saver Current Account,Current Account,300,0,0.0,0,0.0
+PROD_426,Direct Mutual Fund Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.38
+PROD_427,Classic Investment,Investment,600,20000,0.0,0,0.0
+PROD_428,Classic Home Loan,Home Loan,600,20000,0.0,0,13.68
+PROD_429,Elite Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.04
+PROD_430,Infinite Credit Card,Credit Card,750,100000,1.66,2999,0.0
+PROD_431,NPS Insurance,Insurance,550,20000,0.0,0,0.0
+PROD_432,Infinite Credit Card,Credit Card,700,100000,2.32,4999,0.0
+PROD_433,NPS Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.78
+PROD_434,Titanium Credit Card,Credit Card,550,20000,3.1,2999,0.0
+PROD_435,Super Saver Personal Loan,Personal Loan,300,10000,0.0,0,12.07
+PROD_436,Super Saver Insurance,Insurance,300,10000,0.0,0,0.0
+PROD_437,NPS Auto Loan,Auto Loan,600,20000,0.0,0,11.15
+PROD_438,Elite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_439,Signature Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.96
+PROD_440,Platinum Investment,Investment,720,100000,0.0,0,0.0
+PROD_441,Infinite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_442,Platinum Savings Account,Savings Account,300,0,2.59,0,3.06
+PROD_443,Titanium Investment,Investment,300,10000,0.0,0,0.0
+PROD_444,Infinite Insurance,Insurance,720,100000,0.0,0,0.0
+PROD_445,Infinite Insurance,Insurance,700,150000,0.0,0,0.0
+PROD_446,Platinum Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.33
+PROD_447,Classic Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.94
+PROD_448,Signature Auto Loan,Auto Loan,720,150000,0.0,0,13.69
+PROD_449,Signature Home Loan,Home Loan,720,75000,0.0,0,8.72
+PROD_450,Infinite Savings Account,Savings Account,300,0,2.12,0,3.09
+PROD_451,NPS Insurance,Insurance,300,10000,0.0,0,0.0
+PROD_452,Titanium Credit Card,Credit Card,550,10000,4.74,499,0.0
+PROD_453,Signature Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.89
+PROD_454,Elite Auto Loan,Auto Loan,720,150000,0.0,0,10.88
+PROD_455,Gold Auto Loan,Auto Loan,650,35000,0.0,0,12.55
+PROD_456,Signature Investment,Investment,750,150000,0.0,0,0.0
+PROD_457,NPS Personal Loan,Personal Loan,600,10000,0.0,0,8.64
+PROD_458,Platinum Current Account,Current Account,300,0,0.0,0,0.0
+PROD_459,Gold Personal Loan,Personal Loan,680,50000,0.0,0,13.43
+PROD_460,Signature Insurance,Insurance,700,150000,0.0,0,0.0
+PROD_461,Signature Savings Account,Savings Account,300,0,1.93,0,3.95
+PROD_462,NPS Auto Loan,Auto Loan,300,10000,0.0,0,9.23
+PROD_463,Gold Home Loan,Home Loan,680,35000,0.0,0,9.9
+PROD_464,Gold Personal Loan,Personal Loan,650,50000,0.0,0,13.61
+PROD_465,Infinite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_466,Elite Credit Card,Credit Card,750,100000,2.57,499,0.0
+PROD_467,Super Saver Current Account,Current Account,300,0,0.0,0,0.0
+PROD_468,Platinum Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.13
+PROD_469,Infinite Credit Card,Credit Card,700,150000,1.53,2999,0.0
+PROD_470,Titanium Fixed Deposit,Fixed Deposit,300,0,0.0,0,7.18
+PROD_471,Infinite Auto Loan,Auto Loan,720,150000,0.0,0,13.25
+PROD_472,Infinite Credit Card,Credit Card,750,100000,4.22,2999,0.0
+PROD_473,Elite Auto Loan,Auto Loan,720,150000,0.0,0,11.0
+PROD_474,Signature Home Loan,Home Loan,720,150000,0.0,0,11.99
+PROD_475,Direct Mutual Fund Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.39
+PROD_476,Direct Mutual Fund Home Loan,Home Loan,550,10000,0.0,0,14.36
+PROD_477,Elite Current Account,Current Account,300,0,0.0,0,0.0
+PROD_478,Classic Credit Card,Credit Card,600,10000,2.75,2999,0.0
+PROD_479,Titanium Investment,Investment,550,20000,0.0,0,0.0
+PROD_480,Super Saver Current Account,Current Account,300,0,0.0,0,0.0
+PROD_481,Signature Personal Loan,Personal Loan,720,75000,0.0,0,14.24
+PROD_482,NPS Savings Account,Savings Account,300,0,1.92,0,3.69
+PROD_483,Direct Mutual Fund Savings Account,Savings Account,300,0,1.64,0,3.78
+PROD_484,Gold Fixed Deposit,Fixed Deposit,300,0,0.0,0,6.81
+PROD_485,Classic Savings Account,Savings Account,300,0,4.47,0,3.11
+PROD_486,Infinite Savings Account,Savings Account,300,0,0.67,0,3.75
+PROD_487,Platinum Savings Account,Savings Account,300,0,4.8,0,3.74
+PROD_488,Titanium Investment,Investment,600,20000,0.0,0,0.0
+PROD_489,Infinite Credit Card,Credit Card,750,150000,1.28,2999,0.0
+PROD_490,Signature Home Loan,Home Loan,720,100000,0.0,0,9.0
+PROD_491,Super Saver Savings Account,Savings Account,300,0,2.22,0,3.21
+PROD_492,Titanium Savings Account,Savings Account,300,0,3.99,0,3.64
+PROD_493,Infinite Investment,Investment,720,150000,0.0,0,0.0
+PROD_494,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_495,Gold Recurring Deposit,Recurring Deposit,300,0,0.0,0,7.05
+PROD_496,Direct Mutual Fund Current Account,Current Account,300,0,0.0,0,0.0
+PROD_497,Gold Recurring Deposit,Recurring Deposit,300,0,0.0,0,6.67
+PROD_498,NPS Investment,Investment,550,20000,0.0,0,0.0
+PROD_499,Titanium Personal Loan,Personal Loan,300,20000,0.0,0,9.68
+PROD_500,Super Saver Savings Account,Savings Account,300,0,3.52,0,3.32

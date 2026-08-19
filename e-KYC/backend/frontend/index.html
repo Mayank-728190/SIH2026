@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy-Preserving eKYC</title>
+    <!-- Use UMD bundle for LiveKit -->
+    <script src="https://cdn.jsdelivr.net/npm/livekit-client/dist/livekit-client.umd.min.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0f172a;
+            color: #f8fafc;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background: #1e293b;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            max-width: 500px;
+            width: 100%;
+        }
+        h1 { margin-top: 0; color: #38bdf8; }
+        button {
+            background-color: #0284c7;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 6px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            margin-top: 20px;
+        }
+        button:hover { background-color: #0369a1; }
+        button:disabled { background-color: #475569; cursor: not-allowed; }
+        
+        #video-container {
+            margin-top: 20px;
+            position: relative;
+            display: none; /* Hidden until session starts */
+        }
+        video {
+            width: 100%;
+            border-radius: 8px;
+            transform: scaleX(-1); /* Mirror camera */
+            background-color: #000;
+        }
+        
+        /* The UI guide overlay for Face/PAN */
+        #overlay-guide {
+            position: absolute;
+            top: 10%; bottom: 10%;
+            left: 30%; right: 30%; /* Forces a vertical oval on standard 16:9 video */
+            border: 4px dashed #38bdf8;
+            border-radius: 50%; /* Oval for face */
+            pointer-events: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: #38bdf8;
+            text-shadow: 1px 1px 2px black;
+        }
+
+        #status {
+            margin-top: 15px;
+            font-size: 14px;
+            color: #94a3b8;
+        }
+        
+        #audio-elements { display: none; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>eKYC Voice Agent</h1>
+        <p>A real-time, privacy-preserving KYC verification.</p>
+        
+        <div id="video-container">
+            <video id="local-video" autoplay muted playsinline></video>
+            <div id="overlay-guide">Face Guide</div>
+        </div>
+
+        <button id="start-btn" onclick="startKYC()">Start Verification</button>
+        <div id="status">Ready to connect...</div>
+    </div>
+    
+    <div id="audio-elements"></div>
+
+    <script>
+        let currentRoom = null;
+        let sessionId = null;
+        let captureInterval = null;
+        let currentKycState = "CREATED";
+
+        async function startKYC() {
+            const btn = document.getElementById("start-btn");
+            const statusText = document.getElementById("status");
+            const videoContainer = document.getElementById("video-container");
+            const localVideo = document.getElementById("local-video");
+            
+            btn.disabled = true;
+            statusText.innerText = "Initializing session...";
+
+            try {
+                // 1. Create Session
+                const response = await fetch("/api/v1/kyc/session", { method: "POST" });
+                if (!response.ok) throw new Error("Failed to create session");
+                
+                const data = await response.json();
+                sessionId = data.session_id;
+                currentKycState = data.state;
+                
+                statusText.innerText = `Session: ${sessionId}. Connecting to Voice Agent...`;
+
+                // 2. Connect to LiveKit Room
+                const room = new LivekitClient.Room({
+                    adaptiveStream: true,
+                    dynacast: true,
+                });
+                currentRoom = room;
+
+                // Handle incoming audio from the AI agent
+                room.on(LivekitClient.RoomEvent.TrackSubscribed, (track, publication, participant) => {
+                    if (track.kind === 'audio') {
+                        const audioElement = track.attach();
+                        document.getElementById('audio-elements').appendChild(audioElement);
+                        statusText.innerText = "Connected! Speak to the agent.";
+                    }
+                });
+
+                await room.connect(data.livekit_url, data.livekit_token);
+                
+                // 3. Publish Local Microphone & Camera
+                const localTracks = await LivekitClient.createLocalTracks({
+                    audio: true,
+                    video: true
+                });
+                for (const track of localTracks) {
+                    await room.localParticipant.publishTrack(track);
+                }
+                
+                // Attach local video to the screen
+                const videoTrack = room.localParticipant.getTrackPublication(LivekitClient.Track.Source.Camera);
+                if (videoTrack && videoTrack.videoTrack) {
+                    videoTrack.videoTrack.attach(localVideo);
+                }
+                
+                videoContainer.style.display = "block";
+                btn.style.display = "none";
+                
+                // 4. Start Background Frame Uploads based on State
+                startFrameUploads();
+
+            } catch (error) {
+                console.error(error);
+                statusText.innerText = "Error: " + error.message;
+                btn.disabled = false;
+            }
+        }
+        
+        let isCapturing = false;
+
+        function startFrameUploads() {
+            const video = document.getElementById('local-video');
+            const canvas = document.createElement('canvas');
+            const overlay = document.getElementById('overlay-guide');
+            
+            // Poll backend for the exact current state and capture requests
+            captureInterval = setInterval(async () => {
+                let sessionData;
+                try {
+                    const res = await fetch(`/api/v1/kyc/session/${sessionId}`);
+                    if (res.ok) {
+                        sessionData = await res.json();
+                        currentKycState = sessionData.state;
+                    }
+                } catch (e) {
+                    console.error("Failed to fetch state", e);
+                    return;
+                }
+
+                if (!sessionData) return;
+
+                // Update UI Guide
+                if (currentKycState === "FACE_CAPTURE") {
+                    overlay.style.borderRadius = "50%";
+                    overlay.innerText = "Face Guide";
+                } else if (currentKycState === "PAN_CAPTURE") {
+                    overlay.style.borderRadius = "8px"; 
+                    overlay.innerText = "PAN Card Guide";
+                } else if (currentKycState === "AADHAAR_CAPTURE") {
+                    overlay.style.borderRadius = "8px"; 
+                    overlay.innerText = "Aadhaar Guide";
+                } else {
+                    overlay.innerText = sessionData.processing_status === "PROCESSING" ? "Processing..." : "Waiting for Agent...";
+                }
+
+                // If agent explicitly requested a capture and we aren't already capturing
+                if (sessionData.capture_requested && !isCapturing && video.videoWidth > 0) {
+                    isCapturing = true; // Prevent duplicate captures
+                    
+                    const docType = sessionData.capture_requested; // "FACE", "PAN", "AADHAAR"
+                    
+                    canvas.width = video.videoWidth;
+                    canvas.height = video.videoHeight;
+                    const ctx = canvas.getContext('2d');
+                    ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+                    
+                    canvas.toBlob(async (blob) => {
+                        const formData = new FormData();
+                        formData.append("session_id", sessionId);
+                        formData.append("file", blob, "frame.jpg");
+                        
+                        try {
+                            const endpoint = `/api/v1/kyc/upload/${docType.toLowerCase()}`;
+                            const uploadRes = await fetch(endpoint, {
+                                method: "POST",
+                                body: formData
+                            });
+                            
+                            if (uploadRes.ok) {
+                                console.log(`${docType} frame captured and sent for processing.`);
+                            }
+                        } catch (e) {
+                            console.error("Upload failed", e);
+                        } finally {
+                            // We will reset isCapturing when the backend clears the request
+                            // (which it does atomically during the upload endpoint)
+                        }
+                    }, "image/jpeg", 0.9);
+                }
+                
+                // Allow capturing again if the backend clears the request
+                if (!sessionData.capture_requested) {
+                    isCapturing = false;
+                }
+                
+            }, 1000); // 1 second polling for responsiveness
+        }
+        
+        window.onbeforeunload = () => {
+            if (currentRoom) currentRoom.disconnect();
+            if (captureInterval) clearInterval(captureInterval);
+        };
+    </script>
+</body>
+</html>

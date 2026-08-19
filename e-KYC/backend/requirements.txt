@@ -1,0 +1,16 @@
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+motor>=3.3.0
+redis>=5.0.0
+livekit>=0.5.0
+livekit-agents>=0.5.0
+livekit-plugins-deepgram>=0.5.0
+livekit-plugins-openai>=0.5.0
+livekit-plugins-google>=0.5.0
+numpy>=1.26.0
+python-multipart>=0.0.6
+websockets>=11.0.3
+python-dotenv>=1.0.0
+livekit-plugins-silero

@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Finance - AI Recommendation Engine & Personal Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header / Navbar -->
+    <header class="top-nav">
+      <div class="brand">
+        <div class="logo-icon">✨</div>
+        <div class="brand-text">
+          <h1>Nexus AI Finance</h1>
+          <span class="sub-badge">Recommendation Engine & Intelligent Assistant</span>
+        </div>
+      </div>
+
+      <div class="user-picker-container" id="navUserControls" style="display: none;">
+        <div id="loggedInUserBadge" class="logged-in-user-badge">
+          <span class="user-id-tag" id="navCustId">CUST_00001</span>
+          <span class="user-name-tag" id="navCustName">Guest</span>
+        </div>
+        <button id="logoutBtn" class="btn btn-secondary btn-sm">🔒 Logout</button>
+        <button id="addTxnBtn" class="btn btn-primary">+ New Transaction</button>
+      </div>
+    </header>
+
+    <!-- Page 1: Dedicated Full Login Page -->
+    <section id="loginPage" class="login-page-container">
+      <div class="login-hero-card">
+        <div class="login-header-hero">
+          <div class="login-logo-glow">🔒</div>
+          <h2>Customer Portal Login</h2>
+          <p class="login-subtitle">Authenticate with your Customer ID and Password to access your personalized financial dashboard, AI recommendation engine, and smart assistant.</p>
+        </div>
+
+        <form id="loginForm" class="login-form">
+          <div class="form-group">
+            <label for="loginCustomerSelect">Quick Select Customer ID</label>
+            <select id="loginCustomerSelect" class="form-control">
+              <option value="">Loading Customers...</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="loginCustomerId">Customer ID</label>
+            <input type="text" id="loginCustomerId" placeholder="e.g. CUST_00001" required>
+          </div>
+
+          <div class="form-group">
+            <label for="loginPassword">Password</label>
+            <input type="password" id="loginPassword" placeholder="Enter Password" value="1234" required>
+            <small class="password-hint">🔑 Default Password for all customers is: <strong>1234</strong></small>
+          </div>
+
+          <div id="loginError" class="login-error-msg hidden"></div>
+
+          <button type="submit" class="btn btn-primary btn-block btn-lg">
+            Sign In to Personal Dashboard &rarr;
+          </button>
+        </form>
+
+        <div class="sample-accounts-box">
+          <span class="sample-title">💡 Demo Customer Accounts (Password: 1234):</span>
+          <div class="sample-chips">
+            <button type="button" class="sample-chip" onclick="quickFillCustomer('CUST_00001')">CUST_00001 (Ira Shetty)</button>
+            <button type="button" class="sample-chip" onclick="quickFillCustomer('CUST_00002')">CUST_00002 (Ira Trivedi)</button>
+            <button type="button" class="sample-chip" onclick="quickFillCustomer('CUST_00003')">CUST_00003 (Rajesh Roy)</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Page 2: Personalized Customer Dashboard (Visible After Login) -->
+    <main id="dashboardPage" class="dashboard-grid hidden">
+      <!-- Left Column: Customer Profile & Financial Overview -->
+      <section class="left-panel">
+        <!-- Customer Banner Card -->
+        <div class="card glass-card profile-card" id="profileCard">
+          <div class="profile-header">
+            <div class="avatar" id="customerAvatar">C</div>
+            <div class="profile-info">
+              <h2 id="custName">Select Customer</h2>
+              <p id="custDetails" class="text-muted">Loading profile...</p>
+              <div class="badge-row" id="custBadges"></div>
+            </div>
+          </div>
+
+          <div class="metrics-grid">
+            <div class="metric-box">
+              <span class="metric-label">Monthly Income</span>
+              <span class="metric-value" id="valIncome">₹0</span>
+            </div>
+            <div class="metric-box">
+              <span class="metric-label">CIBIL Score</span>
+              <span class="metric-value highlight-cibil" id="valCibil">0</span>
+            </div>
+            <div class="metric-box">
+              <span class="metric-label">Total Spend (Debit)</span>
+              <span class="metric-value warning-val" id="valSpend">₹0</span>
+            </div>
+            <div class="metric-box">
+              <span class="metric-label">Savings Ratio</span>
+              <span class="metric-value success-val" id="valSavings">0%</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Financial Breakdown & Category Chart -->
+        <div class="card glass-card">
+          <div class="card-header">
+            <h3>📊 Financial Spending Overview</h3>
+            <span class="pill-badge" id="topCategoryPill">Top: Shopping</span>
+          </div>
+          <div class="chart-container">
+            <canvas id="categoryChart"></canvas>
+          </div>
+          <div id="categorySpendList" class="category-spend-list"></div>
+        </div>
+
+        <!-- Risk Profile & Security Status -->
+        <div class="card glass-card">
+          <div class="card-header">
+            <h3>🛡️ Risk & Security Profile</h3>
+            <span id="riskStatusBadge" class="status-badge status-green">Low Risk</span>
+          </div>
+          <div class="risk-metrics-grid" id="riskMetrics">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </section>
+
+      <!-- Center Column: Recommendations Engine Output -->
+      <section class="center-panel">
+        <div class="card glass-card rec-card">
+          <div class="card-header border-bottom">
+            <div>
+              <h2>💡 AI Personalized Recommendations</h2>
+              <p class="section-subtitle">Real-time dynamic ranking based on actual spending behavior & eligibility</p>
+            </div>
+            <div class="tab-controls">
+              <button class="tab-btn active" data-tab="products">Products (<span id="prodCount">0</span>)</button>
+              <button class="tab-btn" data-tab="offers">Offers (<span id="offerCount">0</span>)</button>
+              <button class="tab-btn" data-tab="baseline">CSV Baseline</button>
+            </div>
+          </div>
+
+          <!-- Products Tab Content -->
+          <div id="tabProducts" class="tab-content active">
+            <div class="rec-list" id="productsList">
+              <div class="empty-state">Loading recommendations...</div>
+            </div>
+          </div>
+
+          <!-- Offers Tab Content -->
+          <div id="tabOffers" class="tab-content">
+            <div class="rec-list" id="offersList">
+              <div class="empty-state">Select offers tab</div>
+            </div>
+          </div>
+
+          <!-- Baseline Tab Content -->
+          <div id="tabBaseline" class="tab-content">
+            <div id="baselineContainer" class="baseline-box"></div>
+          </div>
+        </div>
+
+        <!-- Activity & Transaction History Log -->
+        <div class="card glass-card">
+          <div class="card-header">
+            <h3>💳 Recent Transactions & Activity</h3>
+            <button class="btn btn-secondary btn-sm" id="refreshTxnBtn">Refresh</button>
+          </div>
+          <div class="table-wrapper">
+            <table class="txn-table">
+              <thead>
+                <tr>
+                  <th>Date</th>
+                  <th>Merchant / Event</th>
+                  <th>Category</th>
+                  <th>Channel</th>
+                  <th>Amount</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody id="txnTableBody">
+                <tr><td colspan="6" class="text-center">Loading transactions...</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Column: AI Assistant Chat Widget -->
+      <section class="right-panel">
+        <div class="card glass-card chat-card">
+          <div class="chat-header">
+            <div class="bot-info">
+              <div class="bot-avatar">🤖</div>
+              <div>
+                <h3>AI Assistant</h3>
+                <span class="status-indicator"><span class="dot"></span> Connected to Live Account Data</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="chat-messages" id="chatMessages">
+            <div class="message bot-msg">
+              <div class="msg-content">
+                Hello! I am <strong>Bot</strong>, your personal finance AI assistant. I have access to your live transactions, spending breakdown, risk profile, and personalized product recommendations. How can I assist you today?
+              </div>
+            </div>
+          </div>
+
+          <div class="quick-prompts">
+            <button class="chip-btn" onclick="sendQuickPrompt('How much did I spend this month?')">Total Spending</button>
+            <button class="chip-btn" onclick="sendQuickPrompt('What are my top spending categories?')">Top Categories</button>
+            <button class="chip-btn" onclick="sendQuickPrompt('Why did you recommend products for me?')">Why Recommended?</button>
+            <button class="chip-btn" onclick="sendQuickPrompt('What is my risk profile status?')">Risk Profile</button>
+          </div>
+
+          <form id="chatForm" class="chat-input-row">
+            <input type="text" id="chatInput" placeholder="Ask Josh about your finances..." autocomplete="off">
+            <button type="submit" class="btn btn-primary">Send</button>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <!-- Modal for Adding Transaction -->
+    <div class="modal-overlay" id="txnModal">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3>➕ Add New Transaction</h3>
+          <button class="close-btn" id="closeTxnModal">&times;</button>
+        </div>
+        <form id="addTxnForm">
+          <div class="form-group">
+            <label>Amount (₹)</label>
+            <input type="number" id="txnAmount" placeholder="e.g. 5000" step="0.01" required>
+          </div>
+          <div class="form-group">
+            <label>Merchant Name</label>
+            <input type="text" id="txnMerchant" placeholder="e.g. Reliance Fresh, Amazon" required>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label>Category</label>
+              <select id="txnCategory" required>
+                <option value="Grocery">Grocery</option>
+                <option value="Shopping">Shopping</option>
+                <option value="Dining_Out">Dining_Out</option>
+                <option value="Food">Food</option>
+                <option value="Travel">Travel</option>
+                <option value="Fuel">Fuel</option>
+                <option value="Entertainment">Entertainment</option>
+                <option value="Healthcare">Healthcare</option>
+                <option value="Education">Education</option>
+                <option value="Utility_Bills">Utility_Bills</option>
+                <option value="Rent_or_Housing">Rent_or_Housing</option>
+                <option value="Insurance">Insurance</option>
+                <option value="Subscription">Subscription</option>
+                <option value="Other">Other</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label>Payment Channel</label>
+              <select id="txnChannel" required>
+                <option value="UPI">UPI</option>
+                <option value="Credit Card">Credit Card</option>
+                <option value="Debit Card">Debit Card</option>
+                <option value="Net Banking">Net Banking</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-group">
+            <label>Transaction Date</label>
+            <input type="date" id="txnDate" required>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" id="cancelTxnBtn">Cancel</button>
+            <button type="submit" class="btn btn-primary">Submit Transaction & Update System</button>
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <!-- Modal for Recommendation Rationale Explanation -->
+    <div class="modal-overlay" id="reasonModal">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3 id="reasonModalTitle">Recommendation Rationale</h3>
+          <button class="close-btn" id="closeReasonModal">&times;</button>
+        </div>
+        <div class="reason-modal-body" id="reasonModalContent">
+          <!-- Populated dynamically -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
